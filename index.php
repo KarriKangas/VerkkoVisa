@@ -31,16 +31,14 @@
 	<img id="infokuva" src="logo/info.png" alt="" onClick="infoPage()">
 	<h2 id="Question">Valitse muoto</h2>
 	<div class="QuestionBar" id="startQ">	
-		<button class="button" id="Kirja1" onClick="showQuestionElements('Kirja1')"onmouseover="lightButton('Kirja1')" onmouseleave="uncolorButton('Kirja1')"><p class="buttonText">Johtaminen ja Markkinointi</p></button>
-		<button class="button" id="Kirja2" onClick="showQuestionElements('Kirja2')"onmouseover="lightButton('Kirja2')" onmouseleave="uncolorButton('Kirja2')"><p class="buttonText">Laskentatoimi ja Rahoitus</p></button>
-		<button class="button" id="Kirja3" onClick="showQuestionElements('Kirja3')"onmouseover="lightButton('Kirja3')" onmouseleave="uncolorButton('Kirja3')"><p class="buttonText">Taloustiede</p></button>
-		<button class="button" id="Kirja4" onClick="showQuestionElements('Kirja4')"onmouseover="lightButton('Kirja4')" onmouseleave="uncolorButton('Kirja4')"><p class="buttonText">Talousmatematiikka</p></button>
+		<button class="button" id="Kirja1" onClick="showQuestionElements('Kirja1')"onmouseover="lightButton('Kirja1')" onmouseleave="uncolorButton('Kirja1')"><p class="buttonText">Historia</p></button>
+		<button class="button" id="Kirja2" onClick="showQuestionElements('Kirja2')"onmouseover="lightButton('Kirja2')" onmouseleave="uncolorButton('Kirja2')"><p class="buttonText">Yhteiskuntaoppi</p></button>
 		
 		<button class="button" id="harjTermit" onClick="showTermiSelection(true)"onmouseover="lightButton('harjTermit')" onmouseleave="uncolorButton('harjTermit')"><p class="buttonText">Näytä käsitteen määritelmä ensin</p></button>
 		<button class="button" id="harjMääritelmät" onClick="showTermiSelection(false)"onmouseover="lightButton('harjMääritelmät')" onmouseleave="uncolorButton('harjMääritelmät')"><p class="buttonText">Näytä käsite ensin</p></button>
 		
 		<button class="button" id="Harjoitus" onClick="showQAmountSelection()"onmouseover="lightButton('Harjoitus')" onmouseleave="uncolorButton('Harjoitus')"><p class="buttonText">Harjoitusmuoto</p></button>
-		<button class="button" id="Pääsykoe" onClick="showMatikkaSelection()"onmouseover="lightButton('Pääsykoe')" onmouseleave="uncolorButton('Pääsykoe')"><p class="buttonText">Pääsykoemuoto</p></button>
+		<button class="button" id="Pääsykoe" onClick="showQuestionElements()"onmouseover="lightButton('Pääsykoe')" onmouseleave="uncolorButton('Pääsykoe')"><p class="buttonText">Pääsykoemuoto</p></button>
 		<button class="button" id="Termit" onClick="termiVSmääritelmä()"onmouseover="lightButton('Termit')" onmouseleave="uncolorButton('Termit')"><p class="buttonText">Käsitteiden harjoittelu</p></button>
 		
 		<button class="button" id="kylläMatikka" onClick="chooseMath()"onmouseover="lightButton('kylläMatikka')" onmouseleave="uncolorButton('kylläMatikka')"><p class="buttonText">Pääsykoe</p></button>

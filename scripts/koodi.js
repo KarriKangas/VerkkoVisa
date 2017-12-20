@@ -1,7 +1,7 @@
 ﻿var currentButton = -1;
 var correctAns;
 var currentQuestionID = 0;
-var kirjaMäärä = 4;
+var kirjaMäärä = 2;
 var currentBook = "";
 var questionPool = [];
 var questionAmount = 33;
@@ -397,7 +397,7 @@ function initQuestionPool(book){
 		console.log("Starting book1 selection");
 		$.getJSON( "scripts/Kirja1.json", function( data ) {
 			
-			while (questions1.length < 13){
+			while (questions1.length < 20){
 			
 				tempNum = Math.floor((Math.random() *(data.length-1))); 
 		
@@ -421,7 +421,7 @@ function initQuestionPool(book){
 		console.log("Starting book2 selection");
 		$.getJSON( "scripts/Kirja2.json", function( data ) {
 			
-			while (questions2.length < 13){
+			while (questions2.length < 20){
 			
 				tempNum2 = Math.floor((Math.random() * (data.length-1))); 
 		
@@ -440,7 +440,7 @@ function initQuestionPool(book){
 		
 		
 		//Select questions from book3 for pääsykoe
-		console.log("Starting book3 selection");
+		/*console.log("Starting book3 selection");
 		$.getJSON( "scripts/Kirja3.json", function( data ) {
 			
 			while (questions3.length < 7){
@@ -483,7 +483,7 @@ function initQuestionPool(book){
 		});	
 			
 			
-		}
+		}*/
 
 	}
 	
