@@ -1,0 +1,1640 @@
+[
+
+	{
+	"ID": 0,
+	"Määritelmä": "Ei yhtenäinen organisaatio, koostuu useasta erillisestä organisaatiosta. Sillä on 4 vahvuutta",
+	"Termi": "Tulosyksikkömalli",
+	"sivu": "16"
+	},
+	
+	{
+	"ID": 1,
+	"Määritelmä": "Pyrkii tiedon ja ymmärryksen lisäämiseen, mutta sillä ei ole useinkaan välitöntä käytännöllistä tai kaupallista tavoitetta",
+	"Termi": "Perustutkimus",
+	"sivu": "72"
+	},
+	
+	{
+	"ID": 2,
+	"Määritelmä": "Hyödyntää olemassa olevaa tietoa tavoitteena jokin konkreettinen sovellus tai käytännön ratkaisu",
+	"Termi": "Soveltava tutkimus",
+	"sivu": "72"
+	},
+	
+	{
+	"ID": 2,
+	"Määritelmä": "Täysin uusi tavara, palvelu tai parannus johonkin aiempaan tuotteeseen",
+	"Termi": "Tuoteinnovaatio",
+	"sivu": "72"
+	},
+	
+	{
+	"ID": 3,
+	"Määritelmä": "Viittaa siihen, että tietty tavara tai palvelu onnistutaan tuottamaan aikaisempaa alhaisemmin kustannuksin",
+	"Termi": "Prosessi-innovaatio",
+	"sivu": "72"
+	},
+	
+	{
+	"ID": 4,
+	"Määritelmä": "Teknologinen epäjatkuvuuskohta, jolloin perinteiset tuotteet tai tuotantoteknologiat vanhentuvat ja niistä tulee tehottomia uusien rinnalla",
+	"Termi": "Radikaali innovaatio",
+	"sivu": "72"
+	},
+	
+	{
+	"ID": 5,
+	"Määritelmä": "Radikaalin innovaation vastakohta, ja silla viitataan pieniin ja asteittain tapahtuviin parannuksiin",
+	"Termi": "Inkrementaalinen innovaatio",
+	"sivu": "72"
+	},
+	
+	{
+	"ID": 6,
+	"Määritelmä": "Tutkii, miten eri markkinarakenteet ja vallitsevat olosuhteet vaikuttavat toimijoiden haluun investoida tutkimus- ja kehitystoimintaan",
+	"Termi": "Innovaatioiden taloustiede",
+	"sivu": "72"
+	},
+	
+	{
+	"ID": 7,
+	"Määritelmä": "Tilanne, jossa yhden yrityksen tuottama tutkimus- ja kehitystoiminta pääsee muiden alalla toimivien yritysten tietoon. Tästä syntyy positiivien ulkoisvaikutus",
+	"Termi": "Tiedon läikkyminen",
+	"sivu": "72"
+	},
+	
+	{
+	"ID": 8,
+	"Määritelmä": "Kuvaa sitä, että kuluttajat hyötyvät uusista tuotteista enemmän yrityksen niistä saamaan hintaan verrattuna",
+	"Termi": "Kuluttajan ylijäämä",
+	"sivu": "73"
+	},
+	
+	{
+	"ID": 9,
+	"Määritelmä": "Määräaikainen yksinoikeus teknisestä keksinnöstä hyötymiseen. Tarkemmin sanottuna kielto-oikeus, joka estää muita hyödyntämästä keksintöä kaupallisesti",
+	"Termi": "Patentti",
+	"sivu": "73"
+	},
+	
+	{
+	"ID": 10,
+	"Määritelmä": "Toimijoilla on puutteellinen ymmärrys ympäristöstä, käytöksestään, vaikeuksia muistaa asioita, hyödyntää tietoa, arvioida epävarmoja tulemia tai vaihtelevia preferenssejä",
+	"Termi": "Rajoitettu rationaalisuus",
+	"sivu": "74"
+	},
+	
+	{
+	"ID": 11,
+	"Määritelmä": "Tietystä hyödykkeestä saatava hyöty voi riippua kuluttajan mielessä olevasta vertailukohteesta",
+	"Termi": "Vertailukohtasidonnaisuus",
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 12,
+	"Määritelmä": "Ihmisten taipumus pitää parempana omistamaansa hyödykettä kuin vaihtoon tai ostettavaksi tarjottua. Yksi vertailukohtasidonnaisuuden ilmentymistä",
+	"Termi": "Omistusvaikutus",
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 13,
+	"Määritelmä": "Ihmisten halu välttää tappiota. Yksi vertailukohtasidonnaisuuden ilmentymistä",
+	"Termi": "Tappiokammo",
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 14,
+	"Määritelmä": "Päätös jonka kuluttaja tekee tulevaisuuden valintatilannetta koskien nyt, ei enää olekaan hänen mielestään hyvä, kun valintatilanne tulee eteen",
+	"Termi": "Aikaepäjohdonmukaisuus",
+	"sivu": "78"
+	},
+	
+	{
+	"ID": 15,
+	"Määritelmä": "Aiemmin saatavan hyödyn painotus. Yksi aikaepäjohdonmukaisuuden ilmentymistä",
+	"Termi": "Nykyhetkiharha",
+	"sivu": "78"
+	},
+	
+	{
+	"ID": 16,
+	"Määritelmä": "",
+	"Termi": "",
+	"sivu": ""
+	},
+	
+	{
+	"ID": 17,
+	"Määritelmä": "Kuluttajat yliarvioivat helposti heidän mieltymystensä pysyvyyden",
+	"Termi": "Preferenssiennakoitiharha",
+	"sivu": "78"
+	},
+	
+	{
+	"ID": 18,
+	"Määritelmä": "Ihmisen taipumus yliarvioida heidän kulutukseen haluamansa vaihtelu",
+	"Termi": "Kulutuksellinen hajautusharha",
+	"sivu": "78"
+	},
+	
+	{
+	"ID": 19,
+	"Määritelmä": "Tverskyn ja Kahnemanin kehittelemä teoria, joka kuvaa kuluttajien päätöksentekoa epävarmoissa olosuhteissa",
+	"Termi": "Prospektiteoria",
+	"sivu": "78"
+	},
+	
+	{
+	"ID": 20,
+	"Määritelmä": "Kertoo kuluttajien taipumuksesta ylipainottaa pienellä todennäköisyydelllä tapahtuvia tapahtumia ja aliarvioida suurella todennäköisyydellä tapahtuvia",
+	"Termi": "Todennäköisyyksien systemaattinen virheellinen arviointi",
+	"sivu": "78"
+	},
+	
+	{
+	"ID": 21,
+	"Määritelmä": "Ihmisten tapa tehdä yleistyksiä pienen tietomäärän avulla. Tunnetaan myös nimellä otantaperusteinen järkeily",
+	"Termi": "Pienten lukujen laki",
+	"sivu": "78"
+	},
+	
+	{
+	"ID": 22,
+	"Määritelmä": "Ihmisten taipumus tehdä päätelmiä siitä, kuinka helppo heidän on muistaa esimerkkejä tietysyä ilmiöstä",
+	"Termi": "Saatavuusharha",
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 23,
+	"Määritelmä": "Tietyssä tilanteessa ihmisillä saattaa olla taipumus huomioida päätöksenteossaan jo aiemmin maksettujen kustannusten tai tehtyjen työtuntien painoarvo",
+	"Termi": "Upponneiden kustannusten harha",
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 24,
+	"Määritelmä": "Viittaa kasvavaan haluun sitoa lisävoimavaroja toimintaan sen vuoksi, että siihen on jo aiemmin sidottu",
+	"Termi": "Liaallisen sitoutumisen ongelma",
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 25,
+	"Määritelmä": "Viittaa liialliseen taipumukseen pitäytyä aiemmin tehdyssä päätöksessä",
+	"Termi": "Status quo-harha",
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 26,
+	"Määritelmä": "Tutkii matemaattisia malleja hyödyntäen rationaalisten ja tavoitteellisten päätöksentekijöiden keskinäistä kanssakäymistä erilaisissa kilpailu- ja yhteistyötilanteissa",
+	"Termi": "Peliteoria",
+	"sivu": "81"
+	},
+	
+	{
+	"ID": 27,
+	"Määritelmä": "Kilpailullisen pelin äärimuoto, jossa vastapuolten edut ovat vastakkaiset ja toisen hyöty on toiselta pois",
+	"Termi": "Nollasummapeli",
+	"sivu": "81"
+	},
+	
+	{
+	"ID": 28,
+	"Määritelmä": "Syntyy, kun päätöksiä ei tehdä tyhjiössä. Tämä tarkoittaa, että osapuolten tekemät päätökset ja valinnat vaikuttavat toisiinsa ja siihen mitä osapuolten kannattaa tehdä",
+	"Termi": "Strateginen vuorovaikutus",
+	"sivu": "81"
+	},
+	
+	{
+	"ID": 29,
+	"Määritelmä": "Osapuolet voivat tehdä sitovia sopimuksia",
+	"Termi": "Yhteisöpeli",
+	"sivu": "82"
+	},
+	
+	{
+	"ID": 30,
+	"Määritelmä": "Osapuolet tekevät valinnat joko samaan aikaan tai siten, etteivät he tiedä toistensa valinnoista",
+	"Termi": "Samanaikaisten valintojen peli",
+	"sivu": "82"
+	},
+	
+	{
+	"ID": 31,
+	"Määritelmä": "Osapuolet tekevät valintoja vaihe vaiheelta, ja ainakin jollain tasolla tietävät mitä toinen on aiemmin valinnut",
+	"Termi": "Peräkkäisten valintojen peli",
+	"sivu": "82"
+	},
+	
+	{
+	"ID": 32,
+	"Määritelmä": "Kuvaa miten pelaaja toimii kaikissa mahdollisissa tilanteissa, joissa hän voi joutua tekemään valinnan",
+	"Termi": "Strategia",
+	"sivu": "83"
+	},
+	
+	{
+	"ID": 33,
+	"Määritelmä": "Koostuu pelaajien tunnistamisesta, valintavaihtoehdoista ja tavoitteita kuvaavista hyöty- ja tavoitefunktioista. Esitetään yleensä pelimatriisissa",
+	"Termi": "Normaalimuoto/strateginen muoto",
+	"sivu": "83"
+	},
+	
+	{
+	"ID": 34,
+	"Määritelmä": "Jokin valinta on parempi kuin muut riippumatta vastapuolen valinnasta. Rationaalinen pelaaja valitsee aina tämän vaihtoehdon",
+	"Termi": "Dominoiva strategia",
+	"sivu": "84"
+	},
+	
+	{
+	"ID": 35,
+	"Määritelmä": "Jokin valinta on huonompi kuin muut riippumatta vastapuolen valinnasta. Nämä voidaan eliminoida pois, sillä rationaalinen pelaaja ei niitä käytä",
+	"Termi": "Dominoitu strategia",
+	"sivu": "85"
+	},
+	
+	{
+	"ID": 36,
+	"Määritelmä": "Valinta tai strategia, joka tuottaa osapuolelle parhaan mahdollisen tuleman, annettuna se, mitä vastapuolten oletetaan valitsevan",
+	"Termi": "Parhaat vastaukset",
+	"sivu": "85"
+	},
+	
+	{
+	"ID": 37,
+	"Määritelmä": "Osapuolten valitsemat strategiat ovat parhaita vastauksia toisiinssa, eikä kummankaan kannata yksipuolisesti poiketa valitusta strategiasta",
+	"Termi": "Nash-tasapaino",
+	"sivu": "86"
+	},
+	
+	{
+	"ID": 38,
+	"Määritelmä": "Pelipuu",
+	"Termi": "Ekstensiivinen muoto",
+	"sivu": "87"
+	},
+	
+	{
+	"ID": 39,
+	"Määritelmä": "Tämän avulla pelipuusta voidaan karsia pois oksat, joita pitkin ei koskaan edetä, sekä sulkea pois epäuskottavat uhkaukset ja katteettomat lupaukset",
+	"Termi": "Taaksepäin järkeily",
+	"sivu": "88"
+	},
+	
+	{
+	"ID": 40,
+	"Määritelmä": "Yritysten päätösmuuttujana toimii myytäväksi tarkoitettujen tuotteiden määrä. Yritysten tuotantomäärät ovat strategisia substituutteja",
+	"Termi": "Cournot-oligopoli",
+	"sivu": "94"
+	},
+	
+	{	
+	"ID": 41,
+	"Määritelmä": "Yritysten päätösmuuttujana toimii myytäväksi tarkoitetun tuotteen hinta. Yritysten hinnat ovat strategisia komplementteja",
+	"Termi": "Betrand-oligopoli",
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 42,
+	"Määritelmä": "Yritysten välinen yhteisymmärrys, jonka tavoitteena on rajoittaa kilpailua",
+	"Termi": "Kolluusio",
+	"sivu": "96"
+	},
+	
+	{
+	"ID": 43,
+	"Määritelmä": "Yhteisymmärrys, joka saavutetaan ilman suoranaista vuorovaikutusta, yhteydenpitoa tai sopimusta",
+	"Termi": "Hiljainen kolluusio",
+	"sivu": "96"
+	},
+	
+	{
+	"ID": 44,
+	"Määritelmä": "Eksplisiittisen kolluusion muoto, joka perustuu osapuolten yhteydenpidon tai sopimuksen avulla saavuttamaan yhteisymmärrykseen",
+	"Termi": "Kartelli",
+	"sivu": "97"
+	},
+	
+	{
+	"ID": 45,
+	"Määritelmä": "Yrityksen investointi tutkimus- ja kehitystoimintaan alentaa vain sen omia rajakustannuksia. Tämä kannustaa kaikkia investoimaan",
+	"Termi": "Maltillinen läikyntävaikutus",
+	"sivu": "99"
+	},
+	
+	{
+	"ID": 46,
+	"Määritelmä": "Peli, jossa monta Nash-tasapainoa",
+	"Termi": "Koordinaatiopeli",
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 47,
+	"Määritelmä": "Yrityksen investointi tutkimus- ja kehitystoimintaan alentaa myös muiden rajakustannuksia. Tämä ei kannusta ketään investoimaan",
+	"Termi": "Merkittävä läikyntävaikutus",
+	"sivu": "99"
+	},
+	
+	{
+	"ID": 48,
+	"Määritelmä": "Ottaa huomioon pelaajien rajatun rationaalisuuden vaikutukset strategiseen päätöksentekoon ja vuorovaikutukseen",
+	"Termi": "Käyttäytymistieteellinen peliteoria",
+	"sivu": "100"
+	},
+	
+	{
+	"ID": 49,
+	"Määritelmä": "Kyky asettua vastapuolen asemaan. Tätä rajoittaa lyhytaikainen työmuisti, tiedon käsittelykyky ja virheellinen luottamus siihen, että ollaan askeleen edellä vastustajaa",
+	"Termi": "Strateginen järkeily",
+	"sivu": "101"
+	},
+	
+	{
+	"ID": 50,
+	"Määritelmä": "Uskomus vastapuolen toimista rakentuu aiemmin kerättyyn tietoon",
+	"Termi": "Oppiminen",
+	"sivu": "101"
+	},
+	
+	{
+	"ID": 51,
+	"Määritelmä": "Epäitsekkäästi toimiva taho, jonka valinnat hyödyttävät myös muita. Valintoihin voi liittyä vastavuoroisuuden vaatimusta tai epätasa-arvoa karttavia preferenssejä",
+	"Termi": "Yhteisölliset preferenssit",
+	"sivu": "103"
+	},
+	
+	{
+	"ID": 52,
+	"Määritelmä": "Tarkastelee talouden pitkän aikavälin kehitykseen vaikuttavia tekijöitä",
+	"Termi": "Talouden kasvuteoria",
+	"sivu": "106"
+	},
+	
+	{
+	"ID": 53,
+	"Määritelmä": "Tarkastelee talouden lyhyen aikavälin suhdannevaihteluja",
+	"Termi": "Talouden suhdanneteoria",
+	"sivu": "106"
+	},
+	
+	{
+	"ID": 54,
+	"Määritelmä": "Tutkii demokraattista päätöksentekoa käyttämällä taloustieteellisiä menetelmiä",
+	"Termi": "Julkisen valinnan teoria",
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 55,
+	"Määritelmä": "Järjestelmä, joka mittaa ja kerää tietoja eri makrotalouden suureista. Niiden avullaa koottujen tilastojen avulla voidaan kuvata talouden rakennetta ja kehitystä",
+	"Termi": "Kansantalouden tilinpito",
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 56,
+	"Määritelmä": "Kuvaa sitä, kun tavarat, palvelut ja tuotantopanokset vaihtavat omistajaa hyödykemarkkinoilla, työmarkkinoilla ja pääomamarkkinoilla",
+	"Termi": "Kansantalouden kiertokulku",
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 57,
+	"Määritelmä": "Tavaroita ja palveluita ei viedä tai tuoda, eivätkä pääomat liiku yli maan rajojen. Avotalouden vastakohta",
+	"Termi": "Suljettu talous",
+	"sivu": "109"
+	},
+	
+	{
+	"ID": 58,
+	"Määritelmä": "Kytkeytyy muuhun maailmaan kansainvälisen kaupan ja kansainvälisten pääoma- ja rahoitusmarkkinoiden välityksellä. Suljetun talouden vastakohta",
+	"Termi": "Avotalous",
+	"sivu": "109"
+	},
+	
+	{
+	"ID": 59,
+	"Määritelmä": "1.Kokonaistarjonta = Kokonaiskysyntä 2.Tuotanto = Tulot = Menot",
+	"Termi": "Kansantalouden tilinpidon lähtökohta",
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 60,
+	"Määritelmä": "Kansantaloudessa tiettynä ajankohtana tapahtuva tuotanto ja ulkomailta tuleva tuonti. Toisin sanoen BKT+tavaroiden ja palvelujen tuonti",
+	"Termi": "Kokonaistarjonta",
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 61,
+	"Määritelmä": "Kansantaloudessa tiettynä ajankohtana havaittava kotimainen kysyntä ja ulkomaan vienti. Toisin sanoen yksityinen ja julkinen kulutus+investoinnit+varastojen muutos+vienti",
+	"Termi": "Kokonaiskysyntä",
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 62,
+	"Määritelmä": "Kotimaisen tuotannon mitta, joka kuvaa taloudellisen toiminnan laajuutta ja siinä tapahtuvia muutoksia",
+	"Termi": "BKT",
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 63,
+	"Määritelmä": "1. Arvonlisäysmenetelmä 2. Tulomenetelmä 3. Lopputuotemenetelmä",
+	"Termi": "BKT:n laskutavat",
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 64,
+	"Määritelmä": "Myyntituotot-välituotteiden käyttö = BKT markkinahintaan-tuloverot+tuotetukipalkkiot = BKT perushintaan-poistot = NKT perushintaan",
+	"Termi": "Arvonlisäysmenetelmä",
+	"sivu": "112"
+	},
+	
+	{
+	"ID": 65,
+	"Määritelmä": "Kaikkien alojen palkat+sosiaaliturvamaksut+omaisuustulot+yrittäjätulot+tuloverot+poistot-tuotetukipalkkiot = BKT markkinahintaan",
+	"Termi": "Tulomenetelmä",
+	"sivu": "112"
+	},
+	
+	{
+	"ID": 66,
+	"Määritelmä": "BKT lasketaan kysynnän kautta. Yksityinen kulutus+julkinen kulutus+investoinnit+vienti-tuonti = BKT markkinahintaan",
+	"Termi": "Lopputuotemenetelmä",
+	"sivu": "112"
+	},
+	
+	{
+	"ID": 67,
+	"Määritelmä": "Palkansaajakorvaukset, yrittäjä- ja omaisuustulot, ei vastikkeettomat tulonsiirrot",
+	"Termi": "Ensitulo",
+	"sivu": "112"
+	},
+	
+	{
+	"ID": 68,
+	"Määritelmä": "BKT markkinahintaan+ulkomailta saadut ensitulot-ulkomaille maksetutu ensitulot",
+	"Termi": "BKTL markkinahintaan",
+	"sivu": "112"
+	},
+	
+	{
+	"ID": 69,
+	"Määritelmä": "BKTL markkinahintaan-pääoman kuluminen",
+	"Termi": "Kansantulo markkinahintaan",
+	"sivu": "113"
+	},
+	
+	{
+	"ID": 70,
+	"Määritelmä": "Tapa 1: Kansantulo-maksetutu vastikkeettomat tulonsiirrot ulkomaille+saadut vastikkeettomat tulonsiirrot ulkomailta Tapa 2: Yksityinen kulutus+julkinen kulutus+säästäminen",
+	"Termi": "Käytettävissä olevat tulot",
+	"sivu": "113"
+	},
+	
+	{
+	"ID": 71,
+	"Määritelmä": "Kuvaa kansantalouden ulkoista tasapainoa ulkomaankaupan ja rahatalouden näkökulmasta. Koostuu 1. Vaihtotaseesta 2. Pääomataseesta 3. Rahoitustaseesta",
+	"Termi": "Maksutase",
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 72,
+	"Määritelmä": "Säästäminen-nettomääräiset tulonsiirrot ulkomaille-vienti+tuonti",
+	"Termi": "Investoinnit",
+	"sivu": "114"
+	},
+	
+	{
+	"ID": 73,
+	"Määritelmä": "Investoinnit+nettomääräiset tulonsiirrot ulkomaille+vienti-tuonti",
+	"Termi": "Sästäminen",
+	"sivu": "114"
+	},
+	
+	{
+	"ID": 74,
+	"Määritelmä": "Työnanatajan työntekijälle maksamia rahamääräisiä tai luontoismuotoisia korvauksia tehdystä työstä. Näihin sisältyvät myös sosiaaliturvamaksut",
+	"Termi": "Palkansaajakorvaukset",
+	"sivu": "114"
+	},
+	
+	{
+	"ID": 75,
+	"Määritelmä": "Yrittäjälle jäävä tulo, ns. toimijaylijäämä, joka jää jäljelle kaikkien maksettujen palkansaajakorvausten jälkeen",
+	"Termi": "Yrittäjätulo",
+	"sivu": "114"
+	},
+	
+	{
+	"ID": 76,
+	"Määritelmä": "Ulkomailta saatujen tulojen ja sinne maksettujen maksujen välinen erotus. Jaetaan 1. Kauppa- 2. Palvelu- 3. Tuotannontekijäkorvausten taseeseen ja 4. Tulonsiirtoihin",
+	"Termi": "Vaihtotase",
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 77,
+	"Määritelmä": "Kertoo tavaroiden viennistä ja tuonnista syntyneistä tuloista ja menoista",
+	"Termi": "Kauppatase",
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 78,
+	"Määritelmä": "Kertoo palveluiden viennistä ja tuonnista syntyneistä tuloista ja menoista",
+	"Termi": "Palvelutase",
+	"sivu": "117"
+	},
+	
+
+	{
+	"ID": 79,
+	"Määritelmä": "Laskee ulkomailta saadut ja sinne maksetut ensitulot, jotka koostuvat palkansaaja- ja pääomakorvauksista, sekä suorista sijoituksista saaduista tuloista ja menetyksistä",
+	"Termi": "Tuotannontekijäkorvausten tase",
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 80,
+	"Määritelmä": "Kertovat vastikkeettomista tulonsiirroista kansantaloudelle aiheutuneet tulot ja menot",
+	"Termi": "Tulonsiirrot",
+	"sivu": "117"
+	},
+	
+
+	{
+	"ID": 81,
+	"Määritelmä": "Mittaa pääomasiirtoja, joihin kuuluvat investointiavustukset sekä muut pääomasiirrot",
+	"Termi": "Pääomatase",
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 82,
+	"Määritelmä": "Kertoo, miten vaihtotaseen alijäämä rahoitetaan tai ylijäämä sijoitetaan ulkomaille",
+	"Termi": "Rahoitustase",
+	"sivu": "118"
+	},
+	
+
+	{
+	"ID": 83,
+	"Määritelmä": "Talouden tilannetta ja rakennetta tarkasteltaessa muuttujia mitataan käyvin hinnoin, eli laskentavuoden hinnoin",
+	"Termi": "Nimellinen arvo",
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 84,
+	"Määritelmä": "Volyymin muutos+hintojen muutos",
+	"Termi": "Nimellisen arvon muutos",
+	"sivu": "118"
+	},
+	
+
+	{
+	"ID": 85,
+	"Määritelmä": "Arvonmuutos-hintojen muutos(inflaatio)",
+	"Termi": "Volyymin muutos",
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 86,
+	"Määritelmä": "Kuvaa hintojen muutosta kuluttajan näkökulmasta",
+	"Termi": "Kuluttajahintaindeksi",
+	"sivu": "118"
+	},
+	
+
+	{
+	"ID": 87,
+	"Määritelmä": "Kuvaa ostovoiman muutosta",
+	"Termi": "Reaalipalkan muutos",
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 88,
+	"Määritelmä": "Kuvaa hintojen muutosta yrityksen näkökulmasta",
+	"Termi": "Tuottajahintaindeksi",
+	"sivu": "119"
+	},
+	
+
+	{
+	"ID": 89,
+	"Määritelmä": "Kuvaa työpanoksen hinnan kehitystä palkansaajien näkökulmasta",
+	"Termi": "Ansiotasoindeksi",
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 90,
+	"Määritelmä": "Kuvaa työpanoksen hinnan kehitystä työnantajan näkökulmasta",
+	"Termi": "Työvoimakustannusindeksi",
+	"sivu": "119"
+	},
+	
+
+	{
+	"ID": 91,
+	"Määritelmä": "Mittaa BKT:n hinnan muutosta",
+	"Termi": "BKT:n hintaindeksi",
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 92,
+	"Määritelmä": "Syntyy A. Työn ja tuottavuuden kasvusta ja B. Tehtyjen työtuntien kasvusta",
+	"Termi": "Taloudellinen kasvu",
+	"sivu": "122"
+	},
+	
+
+	{
+	"ID": 93,
+	"Määritelmä": "1. Neoklassinen 2. Tiedon leviämistä korostava 3. Innovaatioiden määrää korostava ja 4. Innovaatioiden laatua korostava",
+	"Termi": "Talouden kasvuteoriat",
+	"sivu": "123"
+	},
+	
+	{
+	"ID": 94,
+	"Määritelmä": "Niin sanottu Solow-Swan -malli. Sen piirteitä ovat mm. pääoman alenevat rajatuotot, pitkän aikavälin kasvun perustuminen teknologialle, joka luonteeltaan eksogeenista",
+	"Termi": "Neoklassinen kasvuteoria",
+	"sivu": "123"
+	},
+	
+
+	{
+	"ID": 95,
+	"Määritelmä": "Niin sanottu AK-malli, joka korostaa mm. tiedon leviämistä ja käsittää teknologisen kehittymisen endogeenisenä tuotannon sivutuotteena",
+	"Termi": "Tiedon leviämistä korostava kasvuteoria",
+	"sivu": "125"
+	},
+	
+	{
+	"ID": 96,
+	"Määritelmä": "Keskeiset piirteet: 1. Mahdolliset lisävoitot motivoivat innovoimaan 2. Horisontaaliset innovaatiot 3. Aiemmat helpottavat uusien luomista 4. Lukumäärä vaikuttaa BKT:seen",
+	"Termi": "Innovaatioiden määrää korostava kasvuteoria",
+	"sivu": "126"
+	},
+	
+
+	{
+	"ID": 97,
+	"Määritelmä": "Luovan tuhon -mallin tai schumpeterilainen kasvuteorian keskeinen piirre on, että uuden innovaation kehittäjä tuhoaa vanhan ja pakottaa yrityksen poistumaan markkinoilta",
+	"Termi": "Innovaatioiden laatua korostava kasvuteoria",
+	"sivu": "128"
+	},
+	
+	{
+	"ID": 98,
+	"Määritelmä": "Uusien yritysten markkinoille tulo, yritysten poistuminen markkinoilta ja markkinoilla säilyvien kasvu ja pieneneminen, siihen vaikuttaa aika, maa ja johto",
+	"Termi": "Yritysdynamiikka",
+	"sivu": "128/145"
+	},
+	
+
+	{
+	"ID": 99,
+	"Määritelmä": "Malleissa yrityksen tutkimus- ja kehitystyön tavoitteena on kehittää uudenlaisia välituotteita, joiden käyttö kohottaa tuottavuutta",
+	"Termi": "Tuotevalikoimamallit",
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 100,
+	"Määritelmä": "Kilpailun kiristyminen vähentää innovointihalukkuutta",
+	"Termi": "Schumpeteriläinen vaikutus",
+	"sivu": "131"
+	},
+	
+
+	{
+	"ID": 101,
+	"Määritelmä": "Innovointihalukkuus lisääntyy, jotta päästään teknologia-askeleen avulla irti kilpailusta",
+	"Termi": "Kilpailupakenemisvaikutus",
+	"sivu": "131"
+	},
+	
+	{
+	"ID": 102,
+	"Määritelmä": "Toimialan kannattavuus on hyvä ja yritykset ovat samalla teknologiaportaalla. Kilpailun kiristäminen tässä tilanteessa kannustaa ottamaan teknologia-askeleen",
+	"Termi": "Vähäinen kilpailu",
+	"sivu": "131"
+	},
+	
+
+	{
+	"ID": 103,
+	"Määritelmä": "Yritykset ovat peräkkäisillä teknologiaportailla. Voitot pienenevät, mikä vähentää myös jeljessä tulevien yritysten intressejä ottaa teknologia-askeleita",
+	"Termi": "Lievästi kireä kilpailu",
+	"sivu": "131"
+	},
+	
+	{
+	"ID": 104,
+	"Määritelmä": "Yritykset ovat peräkkäisillä teknologiaportailla. Kilpailun kiritstämisellä on negatiivinen vaikutus innovointihalukkuuteen",
+	"Termi": "Äärimmäisen kireä kilpailu",
+	"sivu": "132"
+	},
+	
+
+	{
+	"ID": 105,
+	"Määritelmä": "1. Kiinteän pääoman määrä per tehty työtunti 2. Inhimillinen pääoma per tehty työtunti 3. Teknologinen kehitys vaikuttavat",
+	"Termi": "Työn tuottavuuteen vaikuttavat tekijät",
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 106,
+	"Määritelmä": "1. Osaamattomat yrittäjät ja elinkelvottomat hankkeet 2. Katalat yrittäjät",
+	"Termi": "Rahoittajan ongelmat",
+	"sivu": "134"
+	},
+	
+
+	{
+	"ID": 107,
+	"Määritelmä": "Talouden kokonaistuotannon vaihtelu pitkän aikavälin kehitysuran välillä",
+	"Termi": "Suhdannevaihtelu",
+	"sivu": "135"
+	},
+	
+	{
+	"ID": 108,
+	"Määritelmä": "Talouskasvu on normaalia kasvu-uraa hitaampaa, mutta ei siis välttämättä negatiivista",
+	"Termi": "Laskusuhdanne",
+	"sivu": "136"
+	},
+	
+
+	{
+	"ID": 109,
+	"Määritelmä": "Pitkään jatkunut laskusuhdanne johtaa tähän",
+	"Termi": "Matalasuhdanne",
+	"sivu": "136"
+	},
+	
+	{
+	"ID": 110,
+	"Määritelmä": "Tuotannon kasvu on trendikasvua nopeampaa",
+	"Termi": "Noususuhdanne",
+	"sivu": "136"
+	},
+	
+
+	{
+	"ID": 111,
+	"Määritelmä": "Pitkään jatkunut noususuhdanne johtaa tähän",
+	"Termi": "Korkeasuhdanne",
+	"sivu": "136"
+	},
+	
+	{
+	"ID": 112,
+	"Määritelmä": "Kokonaistuotannon määrä supistuu",
+	"Termi": "Taantuma",
+	"sivu": "136"
+	},
+	
+
+	{
+	"ID": 113,
+	"Määritelmä": "Poikkeuksellisen syvä ja pitkäkestoinen taantuma",
+	"Termi": "Lama",
+	"sivu": "136"
+	},
+	
+	{
+	"ID": 114,
+	"Määritelmä": "Henkilö, joka on ilman työtä, eikä sitä ole saanut usean viikon aktiivisesta etsinnästä huolimatta, mutta olisi valmis ottamaan paikan vastaan",
+	"Termi": "Työtön",
+	"sivu": "136"
+	},
+	
+
+	{
+	"ID": 115,
+	"Määritelmä": "BKT:n kasvun ja työttömyyden muutoksen välinen suhde",
+	"Termi": "Okluunin laki",
+	"sivu": "136"
+	},
+	
+	{
+	"ID": 116,
+	"Määritelmä": "Toteutuneen tuotannon ja potentiaalisen tuotannon välinen ero",
+	"Termi": "Tuotantokuilu",
+	"sivu": "136"
+	},
+	
+
+	{
+	"ID": 117,
+	"Määritelmä": "Työkykyinen työntekijä ei halua ottaa työtä vastaan vallitsevalla palkalla, vaikka sitä olisi tarjolla",
+	"Termi": "Vapaaehtoinen työttömyys",
+	"sivu": "137"
+	},
+	
+	{
+	"ID": 118,
+	"Määritelmä": "Työntekijälle ei löydy työpaikkaa, vaikka hän olisi valmis sen ottamaan vastaan. Syynä tähän ovat mm. liiallinen tarjolla oleva työvoima ja nimelliset palkkajäykkyydet",
+	"Termi": "Vaastentahtoinen työttömyys",
+	"sivu": "137"
+	},
+	
+
+	{
+	"ID": 119,
+	"Määritelmä": "Eri toimialoille syntyy työpaikkoja kuin millä työvoimaa on tarjolla, eivätkä työmarkkinat kykene sopeutumaan tähän",
+	"Termi": "Rakennetyöttömyys",
+	"sivu": "138"
+	},
+	
+	{
+	"ID": 120,
+	"Määritelmä": "Työntekijän vaihtaessa työpaikkaa hän saattaa joutua sitä etsiessä olemaan hetken työttömänä",
+	"Termi": "Kitkatyöttömyys",
+	"sivu": "138"
+	},
+	
+
+	{
+	"ID": 121,
+	"Määritelmä": "Työttömyyden taso, jonka alittaminen lisää inflaatiopaineita",
+	"Termi": "Luonnollinen työttömyys",
+	"sivu": "138"
+	},
+	
+	{
+	"ID": 122,
+	"Määritelmä": "Työttömyysasteen poikkeama luonnollisen työttömyysasteen tasosta",
+	"Termi": "Suhdannetyöttömyys",
+	"sivu": "139"
+	},
+	
+
+	{
+	"ID": 123,
+	"Määritelmä": "Esiintyy tiettyinä vuodenaikoina sesonkien mukaan",
+	"Termi": "Kausityöttömyys",
+	"sivu": "139"
+	},
+	
+	{
+	"ID": 124,
+	"Määritelmä": "Talouden ominaisuus, jonka seurauksena talous palautuu hyvin hitaasti alkuperäiseen tilaansa",
+	"Termi": "Hystereesi",
+	"sivu": "139"
+	},
+	
+
+	{
+	"ID": 125,
+	"Määritelmä": "Aiheuttaa ammattitaidon rapautumista, sosiaalista syrjäytymistä, inhimillisen pääoman pienentymistä ja vaikeuttaa työllistymistä",
+	"Termi": "Pitkittynyt työttömyys",
+	"sivu": "139"
+	},
+	
+	{
+	"ID": 126,
+	"Määritelmä": "1. Keynesiläinen 2. Uusklassinen 3. Uuskeynesiläinen ja 4. Rahataloudellisia tekijöitä korostava teoria",
+	"Termi": "Suhdannevaihtelun teoriat",
+	"sivu": "140"
+	},
+	
+
+	{
+	"ID": 127,
+	"Määritelmä": "Yksi suhdannevaihtelun teorioista, joka painottaa vaihteluita kokonaiskysynnässä",
+	"Termi": "Keynesiläinen teoria",
+	"sivu": "140"
+	},
+	
+	{
+	"ID": 128,
+	"Määritelmä": "Yksi suhdannevaihtelun teorioista, joka painottaa talouden tarjontatekijöitä. Sen mukaan suhdannevaihtelut ovat eksogeenisia, eikä markkinoilla ole jäykkyyksiä",
+	"Termi": "Uusklassinen teoria",
+	"sivu": "140"
+	},
+	
+
+	{
+	"ID": 129,
+	"Määritelmä": "Yksi suhdannevaihtelun teorioista, joka yhdistää uusklassisen ja keynesiläisen teorian. Se pitää markkinoita lyhyellä aikavälillä jäykkinä, joka vaikuttaa kokonaiskysyntään",
+	"Termi": "Uuskeynesiläinen teoria",
+	"sivu": "140"
+	},
+	
+	{
+	"ID": 130,
+	"Määritelmä": "Yksi suhdannevaihtelun teorioista, jonka mukaan rahan tarjonta vaikuttaa nimelliseen ja reaaliseen BKT:hen",
+	"Termi": "Rahataloudellisia tekijöitä korostava teoria",
+	"sivu": "141"
+	},
+	
+
+	{
+	"ID": 131,
+	"Määritelmä": "Keskuspankin toimet, joilla se pyrkii vaikuttamaan rahan määrään ja korkoihin",
+	"Termi": "Rahapolitiikka",
+	"sivu": "142"
+	},
+	
+	{
+	"ID": 132,
+	"Määritelmä": "Pyrkii vaikuttamaan kokonaiskysyntään joko julkisen talouden tuloja tai menoja muuttamalla",
+	"Termi": "Finanssipolitiikka",
+	"sivu": "142"
+	},
+	
+
+	{
+	"ID": 133,
+	"Määritelmä": "Julkisen sektorin piirteitä, jotka vaimentavat kokonaiskysynnän vaihtelusta johtuvia suhdannevaihteluja ilman erillisiä päätöksiä",
+	"Termi": "Automaattiset vaikuttajat",
+	"sivu": "143"
+	},
+	
+	{
+	"ID": 134,
+	"Määritelmä": "Julkisen sektorin päätöksiä, joilla pyritään elvyttämään taloutta ja tasoittamaan suhdannevaihteluita",
+	"Termi": "Elvytys",
+	"sivu": "143"
+	},
+	
+
+	{
+	"ID": 135,
+	"Määritelmä": "Tämän avulla kansantalouden tuotannon kasvu voidaan jakaa osatekijöihin",
+	"Termi": "Kasvulaskenta",
+	"sivu": "144"
+	},
+	
+	{
+	"ID": 136,
+	"Määritelmä": "Kuvaa mistä tekijöistä toimialan tuottavuuskasvu koostuu",
+	"Termi": "Tuottavuushajotelma",
+	"sivu": "147"
+	},
+	
+
+	{
+	"ID": 137,
+	"Määritelmä": "Tähän vaikuttaa yritysten menestys vientimarkkinoilla. Häiriöt aiheuttavat velkaantumista",
+	"Termi": "Ulkoinen tasapaino",
+	"sivu": "149"
+	},
+	
+	{
+	"ID": 138,
+	"Määritelmä": "Tähän vaikuttaa työttömyystaso ja yleinen hintataso, pienillä mailla, kuten Suomella, myös vienti vaikuttaa",
+	"Termi": "Sisäinen tasapaino",
+	"sivu": ""
+	},
+	
+
+	{
+	"ID": 139,
+	"Määritelmä": "Huomioi nimellisen valuuttakurssin lisäksi maiden välisen hintaeron. Vahvistuessaan heikentää maan hinta- ja kustannuskilpailukykyä",
+	"Termi": "Reaalinen valuuttakurssi",
+	"sivu": "150"
+	},
+	
+	{
+	"ID": 140,
+	"Määritelmä": "Kertoo kuinka monta euroa esimerkiksi yksi dollari maksaa valuuttaa vaihdettaessa",
+	"Termi": "Nimellinen valuuttakurssi",
+	"sivu": "150"
+	},
+	
+
+	{
+	"ID": 141,
+	"Määritelmä": "Vientihintojen suhde tuontihintoihin",
+	"Termi": "Ulkomaankaupan vaihtosuhde",
+	"sivu": "151"
+	},
+	
+	{
+	"ID": 142,
+	"Määritelmä": "Oman valuutan arvon heikentäminen suhteessa muiden valuuttaan. Parantaa kilpailukykyä",
+	"Termi": "Devalvointi",
+	"sivu": "152"
+	},
+	
+
+	{
+	"ID": 143,
+	"Määritelmä": "Työn hintaa alennetaan palkkoja alentamalla tai työntantajan maksamia sivukuluja alentamalla. Parantaa kilpailukykyä",
+	"Termi": "Sisäinen delvalvaatio",
+	"sivu": "152"
+	},
+	
+	{
+	"ID": 144,
+	"Määritelmä": "Viittaa pitkän aikavälin talouskasvulle tärkeisiin rakenteellisiin tekijöihin",
+	"Termi": "Rakenteellinen kilpailukyky",
+	"sivu": "152"
+	},
+	
+
+	{
+	"ID": 145,
+	"Määritelmä": "Vastavuoroisuuden, reiluuden ja ryhmän normien noudattamisen ajatellaan vaikuttavan työn tuottavuuteen, joten maksetaan korkeampaa palkkaa",
+	"Termi": "Tehokkuuspalkka",
+	"sivu": "154"
+	},
+	
+	{
+	"ID": 146,
+	"Määritelmä": "Ihminen ei tee taloudellisia päätöksiään käytettävissä olevan tiedon perusteella vaan seuraa mitä muut tekevät, havaittavissa esim. osakemarkkinoilla",
+	"Termi": "Laumakäyttäytyminen",
+	"sivu": "156"
+	},
+	
+
+	{
+	"ID": 147,
+	"Määritelmä": "Ostopäätökset perustuvat nimellisiin hintoihin ei rahan todelliseen ostovoimaan",
+	"Termi": "Rahailluusio",
+	"sivu": "156"
+	},
+	
+	{
+	"ID": 148,
+	"Määritelmä": "Ulkosyntyinen, ulkoa annettu muuttuja",
+	"Termi": "Eksogeeninen",
+	"sivu": "1"
+	},
+	
+	{
+	"ID": 149,
+	"Määritelmä": "Sisäsyntyinen, mallin osana määräytyvä muuttuja",
+	"Termi": "Endogeeninen",
+	"sivu": "2"
+	},
+	
+	{
+	"ID": 150,
+	"Määritelmä": "Tarjoaa tieteellisen selityksen eri taloudellisille ilmiöille ja taloudenpitäjien toiminnalle",
+	"Termi": "Positiivinen taloustiede",
+	"sivu": "2"
+	},
+	
+	{
+	"ID": 151,
+	"Määritelmä": "Antaa ohjeita ja suosituksia siitä, miten erilaisia taloudellisia päätösongelmia tulisi ratkoa. Arvolatautunut",
+	"Termi": "Normatiivinen taloustiede",
+	"sivu": "2"
+	},
+	
+	{
+	"ID": 152,
+	"Määritelmä": "Tarkastelee yrityksen, sen johdon ja työntekijöiden taloudellisia valintoja ja rajallisten taloudellisten voimavarojen käyttöä",
+	"Termi": "Yritysjohdon taloustiede",
+	"sivu": "3"
+	},
+	
+	{
+	"ID": 153,
+	"Määritelmä": "Hyödyke on tällainen sen kysynnän ollessa tarjontaa suurempi, mikäli hyödyke olisi saatavissa ilmaiseksi",
+	"Termi": "Niukkuus",
+	"sivu": "4"
+	},
+	
+	{
+	"ID": 154,
+	"Määritelmä": "Luonnonvarat, välituotteet, työvoima, pääoma",
+	"Termi": "Tuotannontekijät",
+	"sivu": "4"
+	},
+	
+	{
+	"ID": 155,
+	"Määritelmä": "Teknisiä tuotantomenetelmiä ja työn organisointia koskevaa tietoa eri tavoista yhdistellä tuotannontekijöitä",
+	"Termi": "Tuotantoteknologia",
+	"sivu": "4"
+	},
+	
+	{
+	"ID": 156,
+	"Määritelmä": "Aikaansaadun tuotannon ja sen valmistamiseksi käytettyjen panosten suhde",
+	"Termi": "Tuottavuus",
+	"sivu": "4"
+	},
+	
+	{
+	"ID": 157,
+	"Määritelmä": "Kertoo, mistä valinnan tehnyt päätöksentekijä joutuu luopumaan, kun hän päättää käyttää rajallisia voimavarojaan valitsemansa vaihtoehdon toteuttamiseksi",
+	"Termi": "Vaihtoehtokustannus",
+	"sivu": ""
+	},
+	
+	{
+	"ID": 158,
+	"Määritelmä": "Lisäkustannuksen tuoma lisähyöty on sitä pienempi, mitä enemmän hyödykettä jo kulutetaan",
+	"Termi": "Laskeva rajahyöty",
+	"sivu": "5"
+	},
+	
+	{
+	"ID": 159,
+	"Määritelmä": "Valtiolla, alueella tai yksiköllä tällainen etu, kun hyödykkeen tuotanto vaatii vähemmän resursseja kuin sen tuottaminen jossain muussa valtiossa, alueella tai yksikössä",
+	"Termi": "Absoluuttinen etu",
+	"sivu": "8"
+	},
+	
+	{
+	"ID": 160,
+	"Määritelmä": "Tällainen etu on sillä, jonka vaihtoehtokustannus tietyn hyödykkeen valmistamisesta on alhaisin",
+	"Termi": "Suhteellinen etu",
+	"sivu": "8"
+	},
+	
+	{
+	"ID": 161,
+	"Määritelmä": "Taloudellisen tarkastelun periaate. Oletetaan muiden asioiden pysyvän ennallaan ja vain yhden asian muuttuvan kerralla",
+	"Termi": "Ceteris paribus",
+	"sivu": "10-11"
+	},
+	
+	{
+	"ID": 162,
+	"Määritelmä": "Vallitsee tilanteessa, jossa kutakin hyödykettä tuotetaan sen verran, että viimeisimmän tuotetun hyödykkeen lisähyöty on yhtä suuri kuin sen tuottamisen lisäkustannus",
+	"Termi": "Allokatiivinen tehokkuus",
+	"sivu": "11"
+	},
+	
+	{
+	"ID": 163,
+	"Määritelmä": "Tilanne, jossa yhdenkään toimijan tilannetta ei voida parantaa ilman, että jonkun muun asemaa heikennetään",
+	"Termi": "Pareto-tehokkuus",
+	"sivu": "11"
+	},
+	
+	{
+	"ID": 164,
+	"Määritelmä": "Muutos, joka parantaa yhden henkilön asemaa huonontamatta samanaikaisesti kenenkään muun asemaa",
+	"Termi": "Pareto-parannus",
+	"sivu": "11"
+	},
+	
+	{
+	"ID": 165,
+	"Määritelmä": "Kuvaa tilannetta, jossa yritys tuottaa tietyn määrän hyödykettä niin alhaisilla kustannuksilla kuin sen on yrityksellä käytössä olevaa teknologiaa hyödyntäen mahdollista",
+	"Termi": "X-tehokkuus",
+	"sivu": "11"
+	},
+	
+	{
+	"ID": 166,
+	"Määritelmä": "Valinnan käsite, joka toteutuu: jos 1. Siihen vaihtaminen on mahdollista 2. Vaihtaminen siihen on parannus 3. Muihin vaihtoehtoihin siirtymistä ei koeta parannuksena",
+	"Termi": "Optimaalinen valinta",
+	"sivu": "6"
+	},
+	
+	{
+	"ID": 167,
+	"Määritelmä": "Tuotantomäärän kasvu laskee, mitä enemmän panosta jo käytetään",
+	"Termi": "Alenevan rajatuotoksen laki",
+	"sivu": "15"
+	},
+	
+	{
+	"ID": 168,
+	"Määritelmä": "Kertoo kuinka paljon tuotantomäärä kasvaa, kun tuotantopanoksen määrää lisätään vähän, esimerkiksi yhdellä yksiköllä",
+	"Termi": "Rajatuotos",
+	"sivu": "15"
+	},
+	
+	{
+	"ID": 169,
+	"Määritelmä": "Kertoo, missä suhteessa tuotantomäärä kasvaa tuotantopanoksien määrää kasvatettaessa. Skaalatuotot voivat olla joko 1. Laskevia 2. Kasvavavia tai 3. Vakioisia",
+	"Termi": "Skaalatuotot",
+	"sivu": "15"
+	},
+	
+	{
+	"ID": 170,
+	"Määritelmä": "Kuvaa, kuinka tuotannon kokonaiskustannukset vaihtelevat tuotantomäärän mukaan. Olettaa, että tuotanto on järjestetty tehokkaasti, eli kuvaa alhaisinta mahdollista kustannusten määrää",
+	"Termi": "Kokonaiskustannuskäyrä",
+	"sivu": "15"
+	},
+	
+	{
+	"ID": 171,
+	"Määritelmä": "Tuotteet, jotka täydentävät toisiaan kulutuksessa täydellisesti. Niitä voi kuluttaa vain yhdessä. Esim. silmälasin kehykset ja linssit",
+	"Termi": "Täydelliset komplementit",
+	"sivu": "25"
+	},
+	
+	{
+	"ID": 172,
+	"Määritelmä": "Kuvaa kuluttajan preferenssejä. Kuluttaja valitsee kulutettujen hyödykkeiden määrät niin, että ne maksimoivat hänen preferenssejään kuvaavan hyötyfunktion saaman arvon",
+	"Termi": "Hyötyfunktio",
+	"sivu": "23"
+	},
+	
+	{
+	"ID": 173,
+	"Määritelmä": "Esim. Kuluttajia ja yrityksiä on paljon, eikä kenelläkään ole hallitsevaa markkinaosuutta tai mahdollisuutta vaikuttaa hintaan",
+	"Termi": "Täydellinen kilpailu",
+	"sivu": "20"
+	},
+	
+	{
+	"ID": 174,
+	"Määritelmä": "Kulutuksessa täydellisesti toisiaan täydentävät hyödykkeet. Hyödykkeitä kuluttaessa merkitystä on vain sillä, että molemmat ovat yhtä aikaa saatavilla.",
+	"Termi": "Täydelliset komplementit",
+	"sivu": "25"
+	},
+	
+	{
+	"ID": 175,
+	"Määritelmä": "Vaikutus, joka syntyy, mikäli päätöksentekijä ei ota huomioon sitä, että hänen päätöksensä aiheuttaa muille toimijoille kustannuksia tai siitä seuraa muille hyötyä",
+	"Termi": "Ulkoisvaikutukset",
+	"sivu": "28"
+	},
+	
+	{
+	"ID": 176,
+	"Määritelmä": "Hyödyke, joka on 1. Käytössä kuluva ja 2. Poissuljettava (esim. suklaa)",
+	"Termi": "Yksityishyödyke",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 177,
+	"Määritelmä": "Hyödyke, joka on 1. Käytössä kuluva ja 2. Kulutuksessa avoin (esim. kalakanta)",
+	"Termi": "Yhteisresurssi",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 178,
+	"Määritelmä": "Hyödyke, joka on 1. Käytössä kulumaton ja 2. Sen käyttö on mahdollista rajoittaa tietylle rajatulle joukolle (esim. wifi)",
+	"Termi": "Kerhohyödyke",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 179,
+	"Määritelmä": "Hyödyke, joka on 1. Käytössä kulumaton ja 2. Kulutuksessa avoin (esim. kaupungin ilotulitus)",
+	"Termi": "Julkishyödyke",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 180,
+	"Määritelmä": "Verotuksellinen keino, jolla yrityksen rajakustannukset saadaan vastaamaan yhteiskunnalle aiheutuvia rajakustannuksia",
+	"Termi": "Pigou-vero",
+	"sivu": "31"
+	},
+	
+	{
+	"ID": 181,
+	"Määritelmä": "Kertoo, kuinka paljon tietyn suuruinen hinnanmuutos vaikuttaa hyödykkeen kysyntään",
+	"Termi": "Kysynnän hintajousto",
+	"sivu": "33"
+	},
+	
+	{
+	"ID": 182,
+	"Määritelmä": "[Δq/(½(qᵃ+qᵇ)]:[(Δp/(½(pᵃ+pᵇ)] -> tarkoittaa: tuotteen x kysynnän suhteellista muutosta jaettuna tuotteen x hinnan suhteellisella muutoksella",
+	"Termi": "ε (kaava)",
+	"sivu": "33"
+	},
+	
+	{
+	"ID": 183,
+	"Määritelmä": "Kuvaa, kuinka paljon tietyn hyödykkeen kysytty määrä suhteellisesti muuttuu, kun jonkin toisen tuotteen hinnassa tapahtuu suhteellinen muutos",
+	"Termi": "Kysynnän ristijousto",
+	"sivu": "36"
+	},
+	
+	{
+	"ID": 184,
+	"Määritelmä": "Kuvaa, kuinka paljon yrityksen markkinoille tarjoama määrä kasvaa, jos hyödykkeen hinta nousee",
+	"Termi": "Tarjonnan hintajousto",
+	"sivu": "36"
+	},
+	
+	{
+	"ID": 185,
+	"Määritelmä": "Kertoo, kuinka paljon kysytty määrä suhteellisesti muuttuu, kun kuluttajien tuloissa tapahtuu tietty suhteellinen muutos",
+	"Termi": "Kysynnän tulojousto",
+	"sivu": "36"
+	},
+	
+	{
+	"ID": 186,
+	"Määritelmä": "Tuotteen erilaistaminen, joka on yksi keino luoda tuottelle kohdistuvaa erityistä kysyntää eli hankkia markkinavoimaa hetkellisesti ja alentaa kysynnän hintajoustoa",
+	"Termi": "Tuotedifferentiaatio",
+	"sivu": "36"
+	},
+	
+	{
+	"ID": 187,
+	"Määritelmä": "Yrityksen A ja B tuotteet, joista kumpikaan ei ole kuluttajien mielestä toista parempi, jos niitä myydään samalla hinnalla",
+	"Termi": "Horisontaalinen tuotedifferentiaatio",
+	"sivu": "37"
+	},
+	
+	{
+	"ID": 188,
+	"Määritelmä": "Yritysten A ja B tuotteet, joista toinen tuote on kuluttajien mielestä selkeästi toista parempi, jos niitä myydään samalla hinnalla",
+	"Termi": "Vertikaalinen tuotedifferentiaatio",
+	"sivu": "37"
+	},
+	
+	{
+	"ID": 189,
+	"Määritelmä": "Kertoo hyödykkeen kysynnän kasvun mainonnan lisäyksestä",
+	"Termi": "Hyödykkeen kysynnän mainontajousto",
+	"sivu": "37"
+	},
+	
+	{
+	"ID": 190,
+	"Määritelmä": "Tilanne, jossa markkinoilla on vain yksi hyödykettä tarjoava yritys",
+	"Termi": "Monopoli",
+	"sivu": "38"
+	},
+	
+	{
+	"ID": 191,
+	"Määritelmä": "Tilanne, jossa yksikkökustannukset laskevat tuotantomäärän kasvaessa siten, että markkinoilla voi järkevästi toimia vain yksi suuri yritys",
+	"Termi": "Luonnollinen monopoli",
+	"sivu": "38"
+	},
+	
+	{
+	"ID": 192,
+	"Määritelmä": "Optimaalista hinnoittelua kuvaava sääntö",
+	"Termi": "Lernerin hinnoitteluindeksi",
+	"sivu": "40"
+	},
+	
+	{
+	"ID": 193,
+	"Määritelmä": "Hinnoitteluperuste, joka perustuu siihen, että kuluttajia, joiden kysyntä on joustavaa, veloitetaan vähemmän. Jaetaan ensimmäiseen, toiseen ja kolmanteen asteeseen",
+	"Termi": "Hintadiskriminointi",
+	"sivu": "40"
+	},
+	
+	{
+	"ID": 194,
+	"Määritelmä": "Asiakaskohtainen hinnoittelu, jolloin jokaiselta asiakkaalta veloitetaan hinta, jonka hän on enimmillään valmis maksamaan tuotteesta",
+	"Termi": "Ensimmäisen asteen hintadiskriminointi",
+	"sivu": "40"
+	},
+	
+	{
+	"ID": 195,
+	"Määritelmä": "Yritys suunnittelee tuotekokonaisuuksia tai -versioita, jotka tyydyttävät erilaisten kuluttajaryhmien tarpeita. Tällöin tuote voidaan myydä eri kuluttajaryhmille eri hintaan",
+	"Termi": "Toisen asteen hintadiskriminointi",
+	"sivu": "40"
+	},
+	
+	{
+	"ID": 196,
+	"Määritelmä": "Tuote myydään eri hintaan eri kuluttajaryhmille",
+	"Termi": "Kolmannen asteen hintadiskriminointi",
+	"sivu": "40"
+	},
+	
+	{
+	"ID": 197,
+	"Määritelmä": "Täydellisen kilpailun ja monopolin sekamuoto, jossa vallitsee muilta osin täydellinen kilpailu, mutta erona on tuotedifferointi, eli yritysten tuotteet ovat keskenään hieman erilaisia",
+	"Termi": "Monopolistinen kilpailu",
+	"sivu": "42"
+	},
+	
+	{
+	"ID": 198,
+	"Määritelmä": "Yksikkökustannukset laskevat tuotannon lisääntyessä",
+	"Termi": "Mittakaavaedut/suurtuotannon edut",
+	"sivu": "43"
+	},
+	
+	{
+	"ID": 199,
+	"Määritelmä": "Yksikkökustannukset kasvavat, kun tuotantomäärä kasvaa",
+	"Termi": "Mittakaavahaitat",
+	"sivu": "44"
+	},
+	
+	{
+	"ID": 200,
+	"Määritelmä": "Kertoo miten paljon yksikkökustannukset muuttuvat sen mukaan kuinka paljon yritys on yhteensä tuottanut toimintansa aikana",
+	"Termi": "Oppimiskäyrä",
+	"sivu": "44"
+	},
+	
+	{
+	"ID": 201,
+	"Määritelmä": "Tuottavat monia eri hyödykkeitä tai eri versioita samasta tuotteesta",
+	"Termi": "Monituoteyritys",
+	"sivu": "44"
+	},
+	
+	{
+	"ID": 202,
+	"Määritelmä": "Tilanne, jossa taloudellisia päätöksiä tekevillä on käytössään kaikki päätöksenteon kannalta tarvittava tieto.",
+	"Termi": "Täydellinen tieto",
+	"sivu": "46"
+	},
+	
+	{
+	"ID": 203,
+	"Määritelmä": "Tilanne, jossa taloudellisilla toimijoilla on yhtäläinen epätietoisuus päätökseen vaikuttavista tekijöistä",
+	"Termi": "Epätäydellinen tieto",
+	"sivu": "46"
+	},
+	
+	{
+	"ID": 204,
+	"Määritelmä": "Tilanne, jossa tieto on epätasaisesti jakautunut siten, että jotkin taloudelliset toimijat tietävät enemmän kuin toiset",
+	"Termi": "Epäsymmetrinen tieto",
+	"sivu": "46"
+	},
+	
+	{
+	"ID": 205,
+	"Määritelmä": "Toimijat laskevat todennäköisyyksillä painotetun keskiarvon kaikkien tilojen hyödyistä, joita valinnoista voi seurata ja maksimoivat valinnoillaan näin hyödyn odotusarvon",
+	"Termi": "Odotettu hyöty/Neuman-Morgenstern-hyöty",
+	"sivu": "47"
+	},
+	
+	{
+	"ID": 206,
+	"Määritelmä": "Indifferentti eli välinpitämätön riskin suhteen",
+	"Termi": "Riskineutraali",
+	"sivu": "48"
+	},
+	
+	{
+	"ID": 207,
+	"Määritelmä": "Valitsee varman tuoton, vaikka se olisi alhaisempi. Tällainen toimija olisi itseasiassa valmis maksamaan siitä, että se voi välttää riskin",
+	"Termi": "Riskiä kaihtava",
+	"sivu": "48"
+	},
+	
+	{
+	"ID": 208,
+	"Määritelmä": "Valmis maksamaan, että se voi ottaa lisää riskiä kannettavakseen",
+	"Termi": "Riskiä etsivä",
+	"sivu": "48"
+	},
+	
+	{
+	"ID": 209,
+	"Määritelmä": "Yksi osapuoli tietää toista enemmän, puhutaan joko 1. Kätketystä valinnasta tai 2. Kätketystä tiedosta",
+	"Termi": "Yksityinen tieto",
+	"sivu": "48"
+	},
+	
+	{
+	"ID": 210,
+	"Määritelmä": "Tilanne, jossa yksi osapuoli voi tehdä valintoja, joita toinen osapuoli ei ainakaan suoraan helposti havaitse",
+	"Termi": "Moraalikato-ongelma/peitetoiminta",
+	"sivu": "50"
+	},
+	
+	{
+	"ID": 211,
+	"Määritelmä": "Yrityksen keskeiset taloudelliset voimavarat ovat tuottavampia, kun niitä käytetään tarkoituksessa, jota varten ne on suunniteltu ja hankittu",
+	"Termi": "Suhdekohtaiset voimavarat",
+	"sivu": "54"
+	},
+	
+	{
+	"ID": 212,
+	"Määritelmä": "Markkina-asetelma, jossa erikoistuminen on tärkeää ja jossa molemmilla osapuolilla on suhdekohtaisia voimavaroja ja joista toinen on ostaja ja toinen myyjä",
+	"Termi": "Kahdenvälinen monopoli",
+	"sivu": "55"
+	},
+	
+	{
+	"ID": 213,
+	"Määritelmä": "Toimintaa, joka on vaikea havaita tai tehokkaasti estää ja jossa toimija pyrkii käyttämään kulloistakin tilannetta ja vallitsevia oloja hyväksi, omaa etuaan ajaen",
+	"Termi": "Opportunistinen käyttäytyminen",
+	"sivu": "55"
+	},
+	
+	{
+	"ID": 214,
+	"Määritelmä": "Tilanne, jossa tuotantoketjun kaksi toimijaa yhdistyy samaksi yritykseksi",
+	"Termi": "Vertikaalinen integroituminen",
+	"sivu": "55"
+	},
+	
+	{
+	"ID": 215,
+	"Määritelmä": "Päämies suunnittelee muodollisen sopimuksen siten, että se pyrkii kannustamaan asiamiestä toimimaan mahdollisimman hyvin",
+	"Termi": "Päämies-agentti-malli",
+	"sivu": "56"
+	},
+	
+	{
+	"ID": 216,
+	"Määritelmä": "Liiketoiminnan osapuolet ovat tehneet investoinnin, jolloin suhdekohtainen voimavara syntyy. Etukäteen ei voida määrittää miten liiketoiminnan tulisi tarkalleen toteuttaa",
+	"Termi": "Sidottujen voimavarojen -ongelma",
+	"sivu": "58"
+	},
+	
+	{
+	"ID": 217,
+	"Määritelmä": "Pyrkii selvittämään syitä eri organisaatioiden ja yritysten olemassa ololle taloustieteellistä lähestymistapaa käyttäen",
+	"Termi": "Organisaatioiden taloustiede",
+	"sivu": "51"
+	},
+	
+	{
+	"ID": 218,
+	"Määritelmä": "Pohtii ratkaisua sille, milloin yrityksen kannattaa tuottaa hyödyke itse ja milloin organisoida sen tuotanto markkinoiden avulla",
+	"Termi": "Liiketoimintakustannusten taloustiede",
+	"sivu": "52"
+	},
+	
+	{
+	"ID": 219,
+	"Määritelmä": "Keskittyy tarkastelemaan rahoituksen tarjoajien kohtaamaan ongelmaan: rahoittajat eivät voi suoraan hallita tai ohjata yrityksen toimintaa",
+	"Termi": "Hallinto- ja ohjausjärjestelmien taloustiede",
+	"sivu": "61"
+	},
+	
+	{
+	"ID": 220,
+	"Määritelmä": "Tutkii työmarkkinoiden toimintaa, jolloin tarkastelun kohteena ovat mm. työn tarjonta ja työn kysyntä",
+	"Termi": "Työn taloustiede",
+	"sivu": "62"
+	},
+	
+	{
+	"ID": 221,
+	"Määritelmä": "Tarkastelee työmarkkinoiden toimintaa yritysjohdon näkökulmasta ja tutkii henkilöstöhallinen kysymyksiä ja ongelmia",
+	"Termi": "Henkilöstön taloustiede",
+	"sivu": "63"
+	},
+	
+	{
+	"ID": 222,
+	"Määritelmä": "π-F > w",
+	"Termi": "Yrityksen perustamisen kannattavaa",
+	"sivu": "68"
+	},
+	
+	{
+	"ID": 224,
+	"Määritelmä": "Osaamista, jota voi hyödyntää laajemmin eri yrityksissä ja jopa eri toimi-aloilla",
+	"Termi": "Yleinen inhimillinen pääoma",
+	"sivu": "65"
+	},
+	
+	{
+	"ID": 225,
+	"Määritelmä": "Osaamista, joka on yhdessä yrityksessä hyödynnettävissä olevaa ja tuottaa erityisesti tietyn työnantajan palveluksessa lisäarvoa",
+	"Termi": "Yrityskohtainen inhimillinen pääoma",
+	"sivu": "66"
+	},
+	
+	{
+	"ID": 226,
+	"Määritelmä": "Ei tuota ongelmia työnantajalle, eikä työntekijöille aloilla, joilla osaaminen on yleistä ja siirrettävissä yrityksestä toiseen ja kun työmarkkinat ovat riittävän suuret ja syvät",
+	"Termi": "Työntekijöiden vaihtuvuus",
+	"sivu": "66"
+	},
+	
+	{
+	"ID": 227,
+	"Määritelmä": "Esim: 1. Riskittömän voitonmahdollisuuden hyödyntäjä 2. Markkinoille tuloon liittyvän riskin ottaja ja kantaja 3. Keksintöjen ja innovaatioiden tuottaja ja kaupallistaja",
+	"Termi": "Yrittäjä",
+	"sivu": "67"
+	},
+	
+	{
+	"ID": 228,
+	"Määritelmä": "Palkkatöistä siirrytään yrittäjäksi, kun π-F=q(P-c)-F > w",
+	"Termi": "Palkkatöistä siirrytään yrittäjäksi",
+	"sivu": "68"
+	}
+]

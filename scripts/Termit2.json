@@ -1,0 +1,1101 @@
+[
+	{
+	"ID": 0,
+	"Määritelmä": "Tyypillisesti se on yksityisen omistajapiirin omistuksessa. Perustettaessa vähimmäispääoma on 2500€",
+	"Termi": "Oy",
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 1,
+	"Määritelmä": "Osakkeet ovat julkisen kaupankäynnin kohteena. Perustettaessa vähimmäispääoma on 80000€",
+	"Termi": "Oyj",
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 2,
+	"Määritelmä": "Syntyy, kun yrityksellä on määräysvalta yhdessä tai useammassa yrityksessä",
+	"Termi": "Konserni",
+	"sivu": "17"
+	},
+	
+	{
+	"ID": 3,
+	"Määritelmä": "Emoyrityksen määräysvalta ulottuu välittömästi suoraan yritykseen, tai välillisesti yhden tai useamman yrityksen kautta",
+	"Termi": "Alistuskonserni",
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 4,
+	"Määritelmä": "Yksi tai useampi tytäryhtiö ovat kaikki suoraan emoyhtiön määräysvallan alaisuudessa, toisiinsa nähden samanlaisessa asemassa",
+	"Termi": "Rinnastuskonserni",
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 5,
+	"Määritelmä": "Konsernin muodostavat yritykset, jotka edustavat saman elinkeinohaaran erilaisia tuotantovaiheita tai vaihdantaprosessin eri osia",
+	"Termi": "Vertikaalinen konserni",
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 6,
+	"Määritelmä": "Konsernin muodostavat yrityksen, jotka edustavat samaa elinkeinohaaraa ja samaa teollisuuden alaa",
+	"Termi": "Horisontaalinen konserni",
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 7,
+	"Määritelmä": "Koostuu peruskirjanpidosta, jossa tapahtumat ovat aikajärjestyksessä, sekä pääkirjanpidosta, jossa tapahtumat ovat asiajärjestyksessä",
+	"Termi": "Kahdenkertainen kirjanpito",
+	"sivu": "19"
+	},
+	
+	{
+	"ID": 8,
+	"Määritelmä": "Esim. 1. Oletus toiminnan jatkuvuudesta 2. Johdonmukaisuus tilikaudesta toiseen 3. Sisältöpainotteisuus 4. Tuloksesta riippumaton varovaisuus",
+	"Termi": "Yleiset tilinpäätösperiaatteet",
+	"sivu": "22"
+	},
+	
+	{
+	"ID": 9,
+	"Määritelmä": "Tuottaa informaatiota yrityksen johdolle, jonka ensisijaisena tehtävänä on suunnittelu, päätöksenteko ja valvonta",
+	"Termi": "Johdon laskentatoimi",
+	"sivu": "115"
+	},
+	
+	{
+	"ID": 10,
+	"Määritelmä": "Mahdolliset ristiriidat, jotka voivat syntyä yrityksen tärkeimpien sidosryhmien välille",
+	"Termi": "Agenttiongelma",
+	"sivu": "102"
+	},
+	
+	{
+	"ID": 11,
+	"Määritelmä": "Kuvaa yrityksen taloudellista asemaa tilinpäätöspäivänä. Esittää yritystoiminnassa kiinni olevan omaisuuden määrän, sekä velat",
+	"Termi": "Tase",
+	"sivu": "27"
+	},
+	
+	{
+	"ID": 12,
+	"Määritelmä": "Rajoitetaan järjestelmän avulla. Negatiivinen järjestelmä, joka rajaa työntekijöiden mahdollisuuksia strategian toteuttamiseksi",
+	"Termi": "Vältettävien riskien rajajärjestelmä",
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 13,
+	"Määritelmä": "Yrityksen pitkäaikaisia varoja, joita on aikomus hyödyntää pidempään kuin vain yhtenä tilikautena",
+	"Termi": "Pysyvät vastaavat",
+	"sivu": "27"
+	},
+	
+	{
+	"ID": 14,
+	"Määritelmä": "Esim: 1. Kehittämismenot 2. Aineettomat oikeudet 3. Liikearvo",
+	"Termi": "Aineettomat hyödykkeet",
+	"sivu": "28"
+	},
+	
+	{
+	"ID": 15,
+	"Määritelmä": "Esim: 1. Maa- ja vesialueet 2. Rakennukset ja rakennelmat 3. Koneet ja kalusto 4. Muut aineelliset hyödykkeet",
+	"Termi": "Aineelliset hyödykkeet",
+	"sivu": "28"
+	},
+	
+	{
+	"ID": 16,
+	"Määritelmä": "Omaisuutta, joka on yrityksen hallussa lyhyemmän aikaa, usein vajaan tilikauden",
+	"Termi": "Vaihtuvat vastaavat",
+	"sivu": "28"
+	},
+	
+	{
+	"ID": 17,
+	"Määritelmä": "Omaisuutta, joka on tarkoitettu sellaisenaan tai edelleen jalostettuna myytäväksi",
+	"Termi": "Vaihto-omaisuus",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 18,
+	"Määritelmä": "1. Pitkäaikaiset: erääntyvät maksettavaksi yli vuoden päästä 2. Lyhytaikaiset: erääntyvät maksettavaksi alle vuoden päästä",
+	"Termi": "Saamiset",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 19,
+	"Määritelmä": "Taseen osuus, joka kertoo, miten omaisuus on rahoitettu. 1. Oma pääoma 2. Tilinpäätössiirrot 3. Pakolliset varaukset 4. Vieras pääoma",
+	"Termi": "Vastattavaa",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 20,
+	"Määritelmä": "Taseen vastattavaa osuus, joka koostuu poistoerosta ja vapaaehtoisista varauksista",
+	"Termi": "Tilinpäätössiirrot",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 21,
+	"Määritelmä": "Suunnitelmanmukaisten poistojen ja kirjanpidon poistojen välinen erotus. Poistoero voidaan purkaa myöhempinä tilikausina tietyin ehdoin",
+	"Termi": "Poistoero",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 22,
+	"Määritelmä": "Konsernin muodostavat yrityksen, jotka edustavat eri elinkeinonhaaroja",
+	"Termi": "Sekakonserni",
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 23,
+	"Määritelmä": "Yrityksen keskeinen ohjausjärjestelmä, jonka avulla varmistetaan, että organisaatio toimii tavoitteiden ja toimintaohjeiden mukaan",
+	"Termi": "Sisäinen valvonta (internal control)",
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 24,
+	"Määritelmä": "Ulkoinen laskentatoimi, joka tuottaa informaatiota erityisesti yrityksen ulkopuolisille sidosryhmille",
+	"Termi": "Rahoituksen laskentatoimi",
+	"sivu": "115"
+	},
+	
+	{
+	"ID": 25,
+	"Määritelmä": "Sisältää eläke-, vero- ja muita maksuja, joiden täsmällistä toteutumisaikaa ja -määrää ei tiedetä",
+	"Termi": "Pakolliset varaukset",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 26,
+	"Määritelmä": "Kirjataan, kun tulevan menon/menetyksen täsmällinen toteutumisaika ja-määrä tunnetaan",
+	"Termi": "Siirtovelka",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 27,
+	"Määritelmä": "Laina, jonka pääoma ja korko saadaan maksaa yhtiön selvitystilassa ja konkurssissa vain muita velkoja huonommalla etuoikeudella",
+	"Termi": "Pääomalaina",
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 28,
+	"Määritelmä": "Laina, joka sisältää yrityksen useilta sijoittajilta keräämän lainasumman vakuudeksi antamat velkakirjat",
+	"Termi": "Joukkovelkakirjalaina",
+	"sivu": "30"
+	},
+	
+	{
+	"ID": 29,
+	"Määritelmä": "Taseen ja tuloslaskelman tueksi ilmoitettavat tarvittavat lisätiedot kertomaan enemmän yrityksen toiminnan tuloksesta ja taloudellisesta asemasta",
+	"Termi": "Liitetiedot",
+	"sivu": "30"
+	},
+	
+	{
+	"ID": 30,
+	"Määritelmä": "Yrityksen selvitys varojen hankinnasta ja niiden käytöstä tilikauden aikana. Sisältää 1. Liiketoiminnan rahavirrat 2. Investointien rahavirrat 3. Rahoituksen rahavirrat",
+	"Termi": "Rahoituslaskelma",
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 31,
+	"Määritelmä": "Yrityksen toiminta-ajatusta toteuttavaa jatkuvaa ja suunnitelmallista tuotteiden/palveluiden jatkuvaa tuottamista/myymistä",
+	"Termi": "Liiketoiminta",
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 32,
+	"Määritelmä": "Rahavirtoja, jotka osoittavat miten hyvin yritys on onnistunut liiketoiminnan avulla tuottamaan rahavaroja",
+	"Termi": "Liiketoiminnan rahavirrat",
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 33,
+	"Määritelmä": "Rahavarojen käyttö tulevan rahavirran kerryttämiseksi pitkällä aikavälillä. Sisältää pysyvistä vastaavista, sijoituksista ja investointiavustuksista saatuja rahavirtoja",
+	"Termi": "Investointien rahavirrat",
+	"sivu": "30"
+	},
+	
+	{
+	"ID": 34,
+	"Määritelmä": "Sääntöjoukko, johon kansainvälinen tilinpäätös perustuu: 1. Yleiset tilinpäätöksen laatimista ja esittämistä koskevat perusteet 2. KV-tilinpäätösstandardit 3. Tulkintaohjeet",
+	"Termi": "IFRS-normisto",
+	"sivu": "35"
+	},
+	
+	{
+	"ID": 35,
+	"Määritelmä": "Varmistaa esimerkiksi, että tilinpäätös ja toimintakertomus antavat oikeat ja riittävät tiedot toiminnan tuloksesta ja yrityksen taloudellisesta asemasta",
+	"Termi": "Tilintarkastus",
+	"sivu": "39"
+	},
+	
+	{
+	"ID": 36,
+	"Määritelmä": "Suorittaa tilintarkastuksen, jos tarkastettava yritys on julkisen kaupankäynnin kohteena tai täyttää tietyt kokovaatimukset",
+	"Termi": "KHT-yhteisö/tilintarkastaja",
+	"sivu": "39"
+	},
+	
+	{
+	"ID": 37,
+	"Määritelmä": "Kyseessä, jos tilintarkastuskertomus 1. Sisältää lisätiedon 2. On ehdollinen 3. On kielteinen 4. Jää antamatta",
+	"Termi": "Mukautettu tilintarkastuskertomus",
+	"sivu": "40"
+	},
+	
+	{
+	"ID": 38,
+	"Määritelmä": "1. Asiakkaat 2. Henkilökunta 3. Omistajat 4. Johto 5. Tavaran- ja palveluiden toimittajat 6. Lainanantajat 7. Valtio",
+	"Termi": "Yrityksen sidosryhmät",
+	"sivu": "45"
+	},
+	
+	{
+	"ID": 39,
+	"Määritelmä": "Pyritään tunnistamaan ja arvioimaan niitä tekijöitä, jotka vaikuttavat yrityksen toimialan kehitykseen. Keskeisessä asemassa ovat myös kilpailijoiden toimenpiteet",
+	"Termi": "Toimiala-analyysi",
+	"sivu": "49"
+	},
+	
+	{
+	"ID": 40,
+	"Määritelmä": "Arvioi yrityksen liiketoiminnallisia ratkaisuja ja sen kykyä muodostaa kilpailuetua suhteessa kilpailijoihin",
+	"Termi": "Strategia-analyysi",
+	"sivu": "49"
+	},
+	
+	{
+	"ID": 41,
+	"Määritelmä": "Arvioi miten yrityksen strategia on toteutunut taloudellisesta näkökulmasta. Analyysin kohteena on yrityksen koko ja kasvu, kannattavuus, tehokkuus, vakavaraisuus ja maksuvalmius",
+	"Termi": "Tunnuslukuanalyysi",
+	"sivu": "49"
+	},
+	
+	{
+	"ID": 42,
+	"Määritelmä": "1. Nettotulos 2. Käytetty pääoma 3. Pääoman kustannus",
+	"Termi": "Arvonmuodostajat",
+	"sivu": "60"
+	},
+	
+	{
+	"ID": 43,
+	"Määritelmä": "1. Myynti ja sen kehitys 2. Voittomarginaali 3. Pysyvät vastaavat 4. Vaihtuvat vastaavat 5. Pääomarakenne 6. Liiketoiminnan riskit",
+	"Termi": "Arvonmuodostajien komponentit",
+	"sivu": "60"
+	},
+	
+	{
+	"ID": 44,
+	"Määritelmä": "1. Koko ja kasvu 2. Kannattavuus 3. Tehokkuus 4. Vakavaraisuus 5. Maksuvalmius",
+	"Termi": "Tunnusluvut",
+	"sivu": "60"
+	},
+	
+	{
+	"ID": 45,
+	"Määritelmä": "P0=D1/(r-g)",
+	"Termi": "Gordonin kasvumalli (kaava)",
+	"sivu": "54"
+	},
+	
+	{
+	"ID": 46,
+	"Määritelmä": "Se osa yrityksen kassavirrasta, jonka yritys voisi jakaa rahoittajille tai omistajille ilman, että yrityksen tuleva kehitys vaarantuisi",
+	"Termi": "Vapaa kassavirta",
+	"sivu": "56"
+	},
+	
+	{
+	"ID": 47,
+	"Määritelmä": "Myynti x liikevoitto-% = liikevoitto x (1-vero-%) = liikevoitto verojen jälkeen - lisäinvestoinnit - lisäkäyttöpääoma = vapaa kassavirta",
+	"Termi": "Vapaa kassavirta (kaava)",
+	"sivu": "57"
+	},
+	
+	{
+	"ID": 48,
+	"Määritelmä": "Arvioidaan liikevaihdon, taseen loppusumman, osakepääoman markkina-arvon tai työntekijöiden määrän perusteella",
+	"Termi": "Yrityksen koko",
+	"sivu": "64"
+	},
+	
+	{
+	"ID": 49,
+	"Määritelmä": "[(kasvu(t)-kasvu(1))/koko(t-1)] x 100",
+	"Termi": "Kasvu-% (kaava)",
+	"sivu": "65"
+	},
+	
+	{
+	"ID": 50,
+	"Määritelmä": "Mitataan absoluuttisesti tai suhteellisesti. Käyttökelpoisia eriä ovat käyttökate, liikevoitto, tulos ennen veroja, nettotulos ja vapaa kassavirta",
+	"Termi": "Kannattavuus",
+	"sivu": "67"
+	},
+	
+	{
+	"ID": 51,
+	"Määritelmä": "(Liikevoitto/liikevaihto) x 100",
+	"Termi": "Liikevoitto-% (kaava)",
+	"sivu": "67"
+	},
+	
+	{
+	"ID": 52,
+	"Määritelmä": "(Nettotulos/liikevaihto) x 100",
+	"Termi": "Nettotulos-% (kaava)",
+	"sivu": "67"
+	},
+	
+	{
+	"ID": 53,
+	"Määritelmä": "[(Nettotulos+korkokulut)/sijoitettu pääoma keskimäärin] x 100",
+	"Termi": "Sijoitetun pääoman tuotto-% (ROIC) (kaava)",
+	"sivu": "68"
+	},
+	
+	{
+	"ID": 54,
+	"Määritelmä": "(Nettotulos/oma pääoma keskimäärin) x 100",
+	"Termi": "Oman pääoman tuotto-% (ROE) (kaava)",
+	"sivu": "69"
+	},
+	
+	{
+	"ID": 55,
+	"Määritelmä": "(Vapaa kassavirta/oman pääoman markkina-arvo) x 100",
+	"Termi": "Vapaan kassavirran tuotto (kaava)",
+	"sivu": "70"
+	},
+	
+	{
+	"ID": 56,
+	"Määritelmä": "(Liikevaihto/taseen koko pääoma keskimäärin) x 100",
+	"Termi": "Koko pääoman kiertonopeus (kaava)",
+	"sivu": "72"
+	},
+	
+	{
+	"ID": 57,
+	"Määritelmä": "(Liikevaihto/vaihto-omaisuuden arvo) x 100",
+	"Termi": "Vaihto-omaisuuden kiertonopeus (kaava)",
+	"sivu": "73"
+	},
+	
+	{
+	"ID": 58,
+	"Määritelmä": "Kuvaa yrityksen kykyä suoriutua rahoitusvelvoitteistaan pitkällä aikavälillä. Voidaan arvioida pääomarakenteen ja tulospohjaisten tunnuslukujen avulla",
+	"Termi": "Rahoituksellinen asema",
+	"sivu": "75"
+	},
+	
+	{
+	"ID": 59,
+	"Määritelmä": "Seuraavat tekijät vaikuttavat erän suuruuteen: 1. Nettotulos 2. Jaettu osinko 3. Ostetut omat osakkeet 4. Oman pääoman palautukset 5. Osakeanti",
+	"Termi": "Oman pääoman suuruus",
+	"sivu": "75"
+	},
+	
+	{
+	"ID": 60,
+	"Määritelmä": "[(Korollinen vieras pääoma-rahat ja arvopaperit)/oma pääoma] x 100",
+	"Termi": "Nettovelkaantumisaste-% (kaava)",
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 61,
+	"Määritelmä": "(Oma pääoma/taseen koko pääoma) x 100",
+	"Termi": "Omavaraisuusaste-% (kaava)",
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 62,
+	"Määritelmä": "Korollinen velka/käyttökate",
+	"Termi": "Lainojen hoitoaika",
+	"sivu": "77"
+	},
+	
+	{
+	"ID": 63,
+	"Määritelmä": "Kuvaa yrityksen kykyä suoriutua lyhyen aikavälin taloudellisista velvoitteistaan",
+	"Termi": "Maksuvalmius",
+	"sivu": "78"
+	},
+	
+	{
+	"ID": 64,
+	"Määritelmä": "Rahoitusomaisuus/lyhytaikainen vieras pääoma",
+	"Termi": "Quick ratio (kaava)",
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 65,
+	"Määritelmä": "Sisältää kassan, rahoitusarvopaperit, lyhytaikaiset saamiset. Erää tarvitaan mm. quick ration laskemisessa",
+	"Termi": "Rahoitusomaisuus",
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 66,
+	"Määritelmä": "Lyhytaikaiset varat/lyhytaikainen vieras pääoma",
+	"Termi": "Current ratio (kaava)",
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 67,
+	"Määritelmä": "Sisältää rahoitusomaisuuden ja vaihto-omaisuuden. Erää tarvitaan mm. current ration laskemisessa",
+	"Termi": "Lyhytaikaiset varat",
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 68,
+	"Määritelmä": "Näitä ovat esimerkiksi: 1. Tilinpäätöksen luotettavuus 2. Kaikki eriin vaikuttavat tekijät 3. Inflaatio 4. Sinisilmäisyys lukuja kohtaan",
+	"Termi": "Tilinpäätösanalyysin rajoitteita",
+	"sivu": "80"
+	},
+	
+	{
+	"ID": 69,
+	"Määritelmä": "Yritys suorittaa tämän, kun ei ole vielä listautunut pörssiin, mutta aikoo osakeannin jälkeen listautua",
+	"Termi": "Listautumisanti (IPO)",
+	"sivu": "89"
+	},
+	
+	{
+	"ID": 70,
+	"Määritelmä": "Kuvaa Helsingin Pörssissä listattujen osakkeiden keskimääräistä kehitystä",
+	"Termi": "OMX Helsinki Cap-indeksi",
+	"sivu": "90"
+	},
+	
+	{
+	"ID": 71,
+	"Määritelmä": "Kuvaa 500 suuren amerikkalaisen yrityksen osakkeiden keskimääräistä kehitystä",
+	"Termi": "SP500-indeksi",
+	"sivu": "90"
+	},
+	
+	{
+	"ID": 72,
+	"Määritelmä": "Tarkoittaa osakkeeseen liittyvää lunastusoikeutta yhtiön uusia osakkeita kohtaan osakeannin yhteydessä",
+	"Termi": "Merkintäoikeus",
+	"sivu": "91"
+	},
+	
+	{
+	"ID": 73,
+	"Määritelmä": "1. Varojen tehokas allokointi yli- ja alijäämäsektoreiden välillä 2. Informaation välittäminen 3. Rahoitussopimusten likvidisyyden parantaminen 4. Riskin hajauttaminen",
+	"Termi": "Rahoitusmarkkinoiden tehtävät",
+	"sivu": "93"
+	},
+	
+	{
+	"ID": 74,
+	"Määritelmä": "Pörssinoteerattu yhtiö on velvollinen kertomaan sijoittajilleen sen taloudessa tapahtuvista merkittävistä muutoksista tällaisen tiedotteen muodossa",
+	"Termi": "Pörssitiedote",
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 75,
+	"Määritelmä": "Pörssinoteeratulla yhtiöllä on velvollisuus julkaista tämä neljä kertaa vuodessa, 3 kk välein",
+	"Termi": "Osavuosikatsaus",
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 76,
+	"Määritelmä": "Suuri laina, joka on jaettu useaan keskenään samaehtoiseen velkakirjaan, jotka ovat jälkimarkkinakelpoisia",
+	"Termi": "Joukkovelkakirjalaina",
+	"sivu": "95"
+	},
+	
+	{
+	"ID": 77,
+	"Määritelmä": "Laina listataan pörssiin, eli siihen liittyviä velkakirjoja voidaan ostaa ja myydä lainan liikkeellelaskun ja takaisinmaksun välillä",
+	"Termi": "Jälkimarkkinakelpoisuus",
+	"sivu": "95"
+	},
+	
+	{
+	"ID": 78,
+	"Määritelmä": "Osakeantiin on haluttu osallistua enemmän, kuin osakkeita on tarjolla, eli arvopapereita on merkitty yli tarjotun määrän",
+	"Termi": "Ylimerkintä",
+	"sivu": "96"
+	},
+	
+	{
+	"ID": 79,
+	"Määritelmä": "Määräytyy riskittömän koron ja riskilisän eli riskipreemion summana",
+	"Termi": "Pääoman hinta",
+	"sivu": "97"
+	},
+	
+	{
+	"ID": 80,
+	"Määritelmä": "Tulevien kassavirtojen nykyarvojen summa, joka lasketaan diskonttokoron avulla",
+	"Termi": "Velkakirjan hinta",
+	"sivu": "97"
+	},
+	
+	{
+	"ID": 81,
+	"Määritelmä": "Sijoittajan edellyttämä korvaus sijoitukseen liittyvästä riskistä. Suuruus vaihtelee eri pääomalajien välillä",
+	"Termi": "Riskipreemio/riskilisä",
+	"sivu": "98"
+	},
+	
+	{
+	"ID": 82,
+	"Määritelmä": "Luokittajien tekemä riippumaton arvio yrityksen kyvystä suoriutua taloudellisista velvoitteistaan. Ilmaistaan kirjainyhdistelmin",
+	"Termi": "Luottokelpoisuus/reittaus",
+	"sivu": "98"
+	},
+	
+	{
+	"ID": 83,
+	"Määritelmä": "Standard & Poor's, Moody's, Fitch",
+	"Termi": "Luottoluokitusyrityksiä",
+	"sivu": "98"
+	},
+	
+	{
+	"ID": 84,
+	"Määritelmä": "Luottosopimuksen erityisehto, joka korvaa reaalivakuuden. Sen tarkoituksena on suojata lainanantajaa. Esim. panttauskielto",
+	"Termi": "Kovenantti/sopimusvakuus",
+	"sivu": "100"
+	},
+	
+	{
+	"ID": 85,
+	"Määritelmä": "Intressiristiriidat sidosryhmien välillä. Esim. 1. Osakkeenomistajien ja vieraan pääoman ehtoisen rahoittajan välillä 2. Osakkeenomistajan ja yrityksen johdon välillä",
+	"Termi": "Agenttiongelmat",
+	"sivu": "102"
+	},
+	
+	{
+	"ID": 86,
+	"Määritelmä": "1. Paras tuotto pitkällä aikavälillä 2. Riskin hajautus 3. Hyvä likviditeetti 4. Sijoituksen arvo riippuu muustakin kuin korkotasosta 5. Lisää talouselämän tuntemusta",
+	"Termi": "Osakesijoittamisen edut",
+	"sivu": "104"
+	},
+	
+	{
+	"ID": 87,
+	"Määritelmä": "Osakemarkkinoiden nimellistuotto miinus inflaatio",
+	"Termi": "Osakemarkkinoiden reaalituotto",
+	"sivu": "107"
+	},
+		
+	{
+	"ID": 88,
+	"Määritelmä": "Osakemarkkinoiden tuoton vaihtelu, eli tuottojen keskihajonta, joka saadaan varianssin neliöjuuresta",
+	"Termi": "Volatiliteetti",
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 89,
+	"Määritelmä": "Yhden sijoituskohteen sijasta säästetään useisiin eri sijoituskohteisiin",
+	"Termi": "Hajauttaminen/diversifiointi",
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 90,
+	"Määritelmä": "Hajautettavissa oleva riski",
+	"Termi": "Epäsystemaattinen riski",
+	"sivu": "108"
+	},
+		
+	{
+	"ID": 91,
+	"Määritelmä": "Ei-hajautettavissa oleva riski, jota ei pystytä kokonaan poistamaan",
+	"Termi": "Systemaattinen riski/markkinariski",
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 92,
+	"Määritelmä": "Kuvaa sitä määrää systemaattista riskiä, joka tietyllä sijoituskohteella on suhteessa keskimääräiseen sijoitukseen",
+	"Termi": "Beta-kerroin",
+	"sivu": "109"
+	},
+	
+	{
+	"ID": 93,
+	"Määritelmä": "Pääoman keskimääräinen painotettu kustannus. Lasketaan siten, että kunkin pääomaerän kustannus kerrotaan pääoman suhteellisella osuudella koko pääomasta",
+	"Termi": "WACC",
+	"sivu": "110"
+	},
+		
+	{
+	"ID": 94,
+	"Määritelmä": "Rahoitusinstrumentteja, jotka sisältävät oman ja vieraan pääoman ehtoisen rahoituksen piirteitä. Näitä ovat 1. Hybridilaina 2. Optiolaina 3. Vaihtovelkakirjalaina",
+	"Termi": "Välirahoitus",
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 95,
+	"Määritelmä": "Laina, jolle yhtiön ei tarvitse maksaa korkoja, ellei se maksa osinkoja osakkeenomistajilleen. Muita piirteitä ovat eräpäivättömyys ja tavallisia lainoja suurempi korkotuotto",
+	"Termi": "Hybridilaina",
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 96,
+	"Määritelmä": "Yrityksen liikkeelle laskema laina, jossa sijoittaja saa velkakirjan mukana yhden tai useamman optiotodistuksen. Todistuksella voi ostaa yrityksen osakkeita määrätyllä hinnalla.",
+	"Termi": "Optiolaina",
+	"sivu": "112"
+	},
+		
+	{
+	"ID": 97,
+	"Määritelmä": "Yrityksen liikkeelle laskema velkakirja, joka voidaan vaihtaa yrityksen osakkeisiin. Vaihdossa velkoja luopuu velallisen oikeuksistaan ja muuttuu yhtiön osakkeenomistajaksi",
+	"Termi": "Vaihtovelkakirjalaina (VVK-laina)",
+	"sivu": "112"
+	},
+	
+	{
+	"ID": 98,
+	"Määritelmä": "Tuottaa informaatiota yrityksen sidosryhmille. Se käsittelee yrityksen ulkoista raportointia, joita ovat esim. tilinpäätöksen osat",
+	"Termi": "Rahoituksen laskentatoimi/Ulkoinen laskentatoimi",
+	"sivu": "115"
+	},
+	
+	{
+	"ID": 99,
+	"Määritelmä": "Tuottaa informaatiota yrityksen johdolle. Se käsittelee yrityksen sisäistä raportointia, jotka voidaan jakaa suunnittelu-, päätöksenteko ja valvontalaskelmiin",
+	"Termi": "Johdon laskentatoimi/Sisäinen laskentatoimi",
+	"sivu": "115"
+	},
+		
+	{
+	"ID": 100,
+	"Määritelmä": "Yrityksen pitkän aikavälin tavoitteet, jotka ohjaavat toimintaa. Yrityksen johtamisen perusta",
+	"Termi": "Visio",
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 101,
+	"Määritelmä": "Yrityksen toiminta-ajatus. Olemassa olon perusta",
+	"Termi": "Missio",
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 102,
+	"Määritelmä": "Pitkän tähtäyksen suunnitelma tavoitetilan saavuttamiseksi",
+	"Termi": "Strategia",
+	"sivu": "116"
+	},
+		
+	{
+	"ID": 103,
+	"Määritelmä": "Johdon laskentatoimen ydin, jolla yrityksen johto pyrkii varmistamaan strategian tehokkaan toteutumisen.",
+	"Termi": "Yrityksen ohjausjärjestelmä",
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 104,
+	"Määritelmä": "Viitekehys, jossa strateginen ohjaus jaetaan neljään tasoon: 1. Yrityksen arvot 2. Vältettävät riskit 3. Kriittisen suorituskyvyn tekijät 4. Strategiset epävarmuustekijät",
+	"Termi": "Levers of Control (LOC)",
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 105,
+	"Määritelmä": "Tyypillisesti se on yksityisen omistajapiirin omistuksessa. Perustettaessa vähimmäispääoma on 2500€.",
+	"Termi": "Oy",
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 106,
+	"Määritelmä": "Ohjaa yrityksen arvoja. Luonteeltaan positiivinen. Motivoi työntekijää etsimään uusia mahdollisuuksia strategian toteuttamiseksi",
+	"Termi": "Uskomusjärjestelmä",
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 107,
+	"Määritelmä": "Rajoittaa vältettäviä riskejä. Luonteeltaan negatiivinen. Rajaa työntekijöiden mahdollisuuksia strategian toteuttamiseksi",
+	"Termi": "Rajajärjestelmä",
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 108,
+	"Määritelmä": "Johto keskittyy poikkeamien seurantaan ja ohjaamiseen niiden avulla",
+	"Termi": "Diagnostinen järjestelmä",
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 109,
+	"Määritelmä": "Johto ja työntekijät käyvät jatkuvasti keksustelua keskenään ja oppivat, sekä uudistavat toimintatapojaan sen perusteella",
+	"Termi": "Interaktiivinen järjestelmä",
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 110,
+	"Määritelmä": "Yrityksen johtaminen perustuu formaaleihin sääntöihin ja strandardoituihin toimintatapoihin. Näkee organisaation koneena",
+	"Termi": "Mekanistinen ohjaus",
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 111,
+	"Määritelmä": "Yrityksen johtaminen on joustavaa ja tietosisällöllisesti monipuolista. Näkee organisaation sosiaalisena yhteisönä",
+	"Termi": "Orgaaninen ohjaus",
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 112,
+	"Määritelmä": "Yrityksen johtaminen perustuu formaaleihin sääntöihin ja strandardoituihin toimintatapoihin. Muodostuu valvonnasta, mittaamisesta ja korjaavien toimenpiteiden tekemisestä",
+	"Termi": "Muodollinen ohjaus",
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 113,
+	"Määritelmä": "Sisältää kirjaamattomia sääntöjä, jotka ovat lähtöisin organisaation kulttuurista",
+	"Termi": "Epämuodollinen ohjaus",
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 114,
+	"Määritelmä": "Yrityksen keskeinen ohausjärjestelmä, jonka avulla varmistetaan, että organisaatio toimii tavoitteiden ja toimintaohjeiden mukaisesti",
+	"Termi": "Sisäinen valvonta",
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 115,
+	"Määritelmä": "Malli, jonka mukaan yrityksen sisäinen valvonta muodostuu seuraavista osa-alueista: 1.Valvontaympäristö 2.Riskien arviointi 3.Valvontatoimenpiteet 4.Tiedotus ja viestintä 5.Seuranta",
+	"Termi": "COSO-malli",
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 116,
+	"Määritelmä": "Tietojärjestelmäkokonaisuus, joka yhdistää kaikki yrityksen tietovirrat yhdeksi yhteiseksi tietokannaksi, joka toimii organisaation kaikkien tietojärjestelmien perustana",
+	"Termi": "ERP-järjestelmä",
+	"sivu": "122"
+	},
+	
+	{
+	"ID": 117,
+	"Määritelmä": "1.Talous- 2.Asiakassuhteiden- 3.Varaston- 4.Toimitusketjujen- 5.Tuotannon, tuotteiden- 6.Henkilöstön hallinta 7.Myynti, markkinointi 8.Hankintaprosessi 9.Huolto, ylläpito",
+	"Termi": "ERP:n moduulit",
+	"sivu": "122"
+	},
+	
+	{
+	"ID": 118,
+	"Määritelmä": "SAP, Oracle, Microsoft",
+	"Termi": "ERP-järjestelmien tarjoajia",
+	"sivu": "123"
+	},
+	
+	{
+	"ID": 119,
+	"Määritelmä": "Erilaistamiseen pyrkivä strategia, kustannustehokkuuteen pyrkivä strategia",
+	"Termi": "Porterin strategian luokitttelu",
+	"sivu": "123"
+	},
+	
+	{
+	"ID": 120,
+	"Määritelmä": "Vanhojen asemien puolustaminen, markkinoilla edelläkävijänä toimiminen",
+	"Termi": "Milesin&Snown strategian luokittelu ",
+	"sivu": "124"
+	},
+	
+	{
+	"ID": 121,
+	"Määritelmä": "1. Tavoitteiden asettaminen 2. Mahdollisten strategioiden tunnistaminen 3. Strategioiden vertaaminen 4. Strategian valitseminen",
+	"Termi": "Pitkän aikavälin suunnittelu",
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 122,
+	"Määritelmä": "1. Stategian toteuttaminen lyhyen aikavälin suunnittelun avulla 2. Lyhyen aikavälin suunnitelman toteuttamisen valvonta 3. Reagointi poikkeamiin",
+	"Termi": "Lyhyen aikavälin suunnittelu",
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 123,
+	"Määritelmä": "1. Vuotuinen valuuttaneutraali orgaaninen kasvu 5% 2. Liiketulos väh. 10% liikevaihdosta 3. Vuotuinen vapaa kassavirta=nettotulos 4. Nettovelka/käyttökate max 3",
+	"Termi": "Amer Sportsin pitkän aikavälin taloudelliset tavoitteet",
+	"sivu": "128"
+	},
+	
+	{
+	"ID": 124,
+	"Määritelmä": "Kokonaisvaltainen yrityksen suorituskyvyn mittausjärjestelmä, joka huomioi 1. Asiakkaan- 2. Sisäisten prosessien- 3. Innovoivuuden, oppimisen- 4. Taloudellisen näkökulman",
+	"Termi": "Balanced Scorecard",
+	"sivu": "129"
+	},
+	
+	{
+	"ID": 125,
+	"Määritelmä": "Kriittisten menestystekijöiden välinen syy-seuraussuhde",
+	"Termi": "Strateginen kartta",
+	"sivu": "131"
+	},
+	
+	{
+	"ID": 126,
+	"Määritelmä": "Esittää yrityksen strategisen toiminnan pääpainoalueet visuaalisena kuvana",
+	"Termi": "Strategiakuva",
+	"sivu": "131"
+	},
+	
+	{
+	"ID": 127,
+	"Määritelmä": "Esittää yrityksen strategian ydinkohdat talon muodossa, jonka perustana on arvot, yläpuolella toiminta-ajatus ja strategia ja kattona tavoitteet ja visio",
+	"Termi": "Strategiatalo",
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 128,
+	"Määritelmä": "Selvittää ja raportoi kustannukset laskentakohteittain",
+	"Termi": "Kustannuslaskenta",
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 129,
+	"Määritelmä": "Tuotannontekijöiden rahassa mitattu määrä",
+	"Termi": "Kustannus",
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 130,
+	"Määritelmä": "Tämän avulla yrityksen johto hallitsee kustannuksia",
+	"Termi": "Kustannusjohtaminen",
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 131,
+	"Määritelmä": "Yrityksen stategian perusteella määritellyt keskeiset kohteet, joiden kustannuksia seurataan. Voivat olla mm. suoritteita, toimintoja, asiakkaita tai projekteja",
+	"Termi": "Laskentakohteet",
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 132,
+	"Määritelmä": "Kustannusten selvittäminen laskentakohteittain",
+	"Termi": "Kustannusten kohdentaminen",
+	"sivu": "134"
+	},
+	
+	{
+	"ID": 133,
+	"Määritelmä": "Ensin kustannukset lasketaan ja erittellään, jonka jälkeen ne kohdistetaan laskentakohteille sillä perusteella, kuinka paljon ne käyttävät tuotannontekijöitä",
+	"Termi": "Kustannuslaskentajärjestelmä",
+	"sivu": "134"
+	},
+	
+	{
+	"ID": 134,
+	"Määritelmä": "Kustannukset, jotka voidaan suoraan osoittaa laskentakohteen kustannuksiksi",
+	"Termi": "Välittömät kustannukset",
+	"sivu": "135"
+	},
+	
+	{
+	"ID": 135,
+	"Määritelmä": "Kustannukset, joita ei voida tai ei kannata kohdistaa suoraan laskentakohteille. Ne kohdistetaan erillisen jakoperusteen eli kohdistimen avulla",
+	"Termi": "Välilliset kustannukset",
+	"sivu": "135"
+	},
+	
+	{
+	"ID": 136,
+	"Määritelmä": "Toiminnan volyymista riippumattomia kustannuksia, kuten kiinteät palkat ja vuokrat",
+	"Termi": "Kiinteät kustannukset",
+	"sivu": "137"
+	},
+	
+	{
+	"ID": 137,
+	"Määritelmä": "Kustannukset, jotka muuttuvat toiminnan volyymin mukaan",
+	"Termi": "Muuttuvat kustannukset",
+	"sivu": "138"
+	},
+	
+	{
+	"ID": 138,
+	"Määritelmä": "Kustannuksia, jotka ovat kiinteitä, kun volyymi on nolla ja kasvavat sen jälkeen suoraan suhteessa volyymiin",
+	"Termi": "Puolimuuttuvat kustannukset",
+	"sivu": ""
+	},
+	
+	{
+	"ID": 139,
+	"Määritelmä": "Kustannuksia, jotka muuttuvat portaittain volyymin kasvaessa yli tietyn rajan, mutta ovat rajojen välillä kiinteitä",
+	"Termi": "Puolikiinteät kustannukset",
+	"sivu": "138"
+	},
+	
+	{
+	"ID": 140,
+	"Määritelmä": "Suuri yritys on yhteydessä ulkopuolisiin markkinoihin ja muut yritykset toimivat sen alihankkijoina",
+	"Termi": "Kärkiyritysverkosto",
+	"sivu": "139"
+	},
+	
+	{
+	"ID": 141,
+	"Määritelmä": "Laskentakauden kustannukset jetaan suoraan samanlaisten kustannusten kesken. Sopii yhden tuotteen tuotantoon, rinnakkaistuotantoon ja vaihtuvaan joukkotuotantoon",
+	"Termi": "Jakolaskenta",
+	"sivu": "140"
+	},
+	
+	{
+	"ID": 142,
+	"Määritelmä": "Laskentakohteille kohdistetaan ensin suoraan välittömät kustannukset ja sen jälkeen välilliset kustannukset jakoperusteen avulla. Sopii monituoteyrityksille",
+	"Termi": "Lisäyslaskenta",
+	"sivu": "140"
+	},
+	
+	{
+	"ID": 143,
+	"Määritelmä": "Keskenään samanlaisten työvaiheiden kustannukset lasketaan jakolaskennalla ja erilaisten työvaiheiden kustannukset lisäyslaskennalla",
+	"Termi": "Hybridilaskenta",
+	"sivu": "141"
+	},
+	
+	{
+	"ID": 144,
+	"Määritelmä": "Välittömät kustannukset kohdistetaan suoraan suoritteille ja välilliset niiden käyttämien toimintojen perusteella resurssi- ja toimintokohdistimen avulla",
+	"Termi": "Toimintokustannuslaskenta",
+	"sivu": "141"
+	},
+	
+	{
+	"ID": 145,
+	"Määritelmä": "Yrityksen toimintojen tehostaminen",
+	"Termi": "Toimintojohtaminen (ABM)",
+	"sivu": "141"
+	},
+	
+	{
+	"ID": 146,
+	"Määritelmä": "Toimintokustannuslaskennan hyödyntäminen toimintojen kustannustehokkuuden parantamisessa",
+	"Termi": "Toimintopohjainen kustannusjohtaminen (ABCM)",
+	"sivu": "142"
+	},
+	
+	{
+	"ID": 147,
+	"Määritelmä": "Kilpailukykyinen markkinahinta-tavoitekate=tavoitekustannus. Auttaa yritystä suunnittelemaan tuotteen kannattavuutta ja hallitsemaan kustannuksia läpi koko arvoketjun",
+	"Termi": "Tavoitekustannuslaskenta",
+	"sivu": "143"
+	},
+	
+	{
+	"ID": 148,
+	"Määritelmä": "Myyntituotot-muuttuvat kustannukset",
+	"Termi": "Katetuotto",
+	"sivu": "144"
+	},
+	
+	{
+	"ID": 149,
+	"Määritelmä": "Auttaa arvioimaan yrityksen suoritteen tuottoja, kustannuksia ja tulosta, kun tuotantomäärissä, hinnoissa ja kustannuksissa tapahtuu muutoksia",
+	"Termi": "Katetuottoanalyysi",
+	"sivu": "144"
+	},
+	
+	{
+	"ID": 150,
+	"Määritelmä": "Yrityksen kokonaistuotot ja kustannukset ovat yhtä suuret. Lasketaan jakamalla kiinteät kustannukset yksikkökohtaisella katteella",
+	"Termi": "Kriittinen piste",
+	"sivu": "144"
+	},
+	
+	{
+	"ID": 151,
+	"Määritelmä": "Koostuu seuraavista: 1. Tarpeen tunnistaminen 2. Tutkimusvaihe 3. Informaation hankinta 4. Päätös 5. Rahoituksen hankinta 6. Toteutus ja valvonta",
+	"Termi": "Investointiprosessi",
+	"sivu": "147"
+	},
+	
+	{
+	"ID": 152,
+	"Määritelmä": "Myyntimäärän ja kriittisen pisteen erotus, joka kertoo milloin tuote muuttuu tappiolliseksi",
+	"Termi": "Varmuusmarginaali",
+	"sivu": "146"
+	},
+	
+	{
+	"ID": 153,
+	"Määritelmä": "1. Hankintakustannus 2. Juoksevat tuotot ja kustannukset, sekä nettotuotto 3. Pitoaika (taloudellinen, fyysinen, tekninen) 4. Jäännösarvo 5. Laskentakorkokanta",
+	"Termi": "Investointipäätökseen vaikuttavat tekijät",
+	"sivu": "148"
+	},
+	
+	{
+	"ID": 154,
+	"Määritelmä": "Investointilaskennan menetelmä, joka lasketaan seuraavasti: hankintakustannus/nettotuotot=takaisinmaksuaika",
+	"Termi": "Takaisinmaksuajan menetelmä",
+	"sivu": "150"
+	},
+	
+	{
+	"ID": 155,
+	"Määritelmä": "Investointilaskennan menetelmä, joka lasketaan diskonttaamalla investoinnin tulevat tuotot laskenta-ajankohtaan",
+	"Termi": "Nettonykyarvomenetelmä",
+	"sivu": "150"
+	},
+	
+	{
+	"ID": 156,
+	"Määritelmä": "Investointilaskennan menetelmä, joka selvittää laskentakoron, jolla investoinnin nettonykyarvo on 0",
+	"Termi": "Sisäisen korkokannan menetelmä",
+	"sivu": "151"
+	}
+	
+]

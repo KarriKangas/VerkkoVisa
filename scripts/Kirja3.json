@@ -1,0 +1,1710 @@
+[
+	{
+	"ID": 0,
+	"Question": "Positiivinen taloustiede ohjeistaa taloudellista päätöksentekoa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "2"
+	},
+	
+	{
+	"ID": 1,
+	"Question": "Talouspoliittisten ohjeiden antamiseen ei liity henkilökohtaisen arvomaailman vaikutusta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "2-3"
+	},
+	
+	{
+	"ID": 2,
+	"Question": "Yritysjohdon taloustiede tarkastelee yritysten toimintaa sekä kilpailullisilla että epätäydellisen kilpailun markkinoilla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "3"
+	},
+	
+	{
+	"ID": 3,
+	"Question": "Ihmisten tarpeet pysyvät melko muuttumattomina koko elämän ajan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "3-4"
+	},
+	
+	{
+	"ID": 4,
+	"Question": "Luonnonvarat ovat yksi keskeisimpiä tuotannontekijöitä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "4"
+	},
+	
+	{
+	"ID": 5,
+	"Question": "Kuluttaja pyrkii maksimoimaan hyötyään toimimalla silti tunnepohjaisesti",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "5"
+	},
+	
+	{
+	"ID": 6,
+	"Question": "Kanarian loman hinta on 500e ja Floridan loma 1000e. Kuluttajan pitää jättää kaksi kertaa matkustamatta Kanarialle, jotta pääsee Floridaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "5"
+	},
+	
+	{
+	"ID": 7,
+	"Question": "Optimoidakseen kuluttaja valitsee hyödykettä sen määrän, jolla rajahyöty vastaa rajakustannusta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "5-6"
+	},
+	
+	{
+	"ID": 8,
+	"Question": "Markkinoilla tarkoitetaan fyysistä kaupankäyntipaikkaa, jossa myyjä ja ostaja kohtaavat",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "7-8"
+	},
+	
+	{
+	"ID": 9,
+	"Question": "Allokointitehokkuuden vallitessa voidaan sanoa että kuluttajan lisähyöty= kuluttajan lisäkustannus",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "10"
+	},
+	
+	{
+	"ID": 10,
+	"Question": "Tehokkuus ja oikeudenmukaisuus ovat useassa yhteydessä toistensa synonyymeja",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "11"
+	},
+	
+	{
+	"ID": 11,
+	"Question": "Vahvan muodon markkinatehokkuuden tapauksessa arvopapereiden hintojen taustalla on kaikki saatavilla oleva julkinen tieto",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "11"
+	},
+	
+	{
+	"ID": 12,
+	"Question": "Yrityksen ollessa rationaalinen hyödynmaksimoija, voidaan sen voittojen kuvata syntyvän myyntitulojen ja kustannuksien erotuksena",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 13,
+	"Question": "Suurin osa kustannuksista on pitkällä aikavälillä muuttuvia",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "15"
+	},
+	
+	{
+	"ID": 14,
+	"Question": "Yksikkökustannus ja rajakustannus ovat yhtä suuria (AC = MC) kun yksikkökustannus on alhaisimmalla mahdollisella tasolla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "17"
+	},
+	
+	{
+	"ID": 15,
+	"Question": "Jos tuotantolaitetta ei saada myytyä sen käyttötarpeen loputtua, ovat sen hankintakustannukset uponneita",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": ""
+	},
+	
+	{
+	"ID": 16,
+	"Question": "Saalisteluhinnoittelussa yritys tavoittelee aggressiivisella markkinoinnilla kilpailijoiden poissulkemista markkinoilta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "18-19"
+	},
+	
+	{
+	"ID": 17,
+	"Question": "Rajatulo käyrä kuvaa yhdestä myydystä lisäyksiköstä saatavaa tulonlisäystä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "19"
+	},
+	
+	{
+	"ID": 18,
+	"Question": "Täydellisen kilpailun tilanteessa yrityksen tarjontakäyrä= yrityksen rajakustannuskäyrä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "20"
+	},
+	
+	{
+	"ID": 19,
+	"Question": "Kun tiedetään kuluttajan budjettirajoite sekä hänen hyötyfunktionsa, voidaan näistä johtaa kysyntäkäyrä tietylle hyödykkeelle",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "21"
+	},
+	
+	{
+	"ID": 20,
+	"Question": "Lähes kaikilla markkinoilla vallitsee täydellisen kilpailun olosuhteet",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "24"
+	},
+	
+	{
+	"ID": 21,
+	"Question": "Pitkän aikavälin tasapainossa ollessaan yritysten voittojen välillä esiintyy eroavaisuuksia",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "25"
+	},
+	
+	{
+	"ID": 22,
+	"Question": "Kun teen hinta laskee, kahvin kysyntä vähenee. Näin käyttäytyvät muutkin substituuttihyödykkeet",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "26"
+	},
+	
+	{
+	"ID": 23,
+	"Question": "Jos palvelun käyttäjiksi tulee lisää ihmisiä, ja kaikkien hyöty kasvaa, voidaan puhua verkostoulkoisvaikutuksesta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "28"
+	},
+	
+	{
+	"ID": 24,
+	"Question": "Kerhohyödykkeiden kohdalla niukkuus syntyy luonnostaan hyödykkeiden luonteen myötä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "29-30"
+	},
+	
+	{
+	"ID": 25,
+	"Question": "Innovaatioiden taloustiede ei ole toimialan taloustieteen alaluokka",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "31"
+	},
+	
+	{
+	"ID": 26,
+	"Question": "Yrityksen rajoja tutkitaan toimialan taloustieteessä sekä organisaatioiden taloustieteessä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "31"
+	},
+	
+	{
+	"ID": 27,
+	"Question": "Kun hintajousto on itseisarvoltaan suurempi kuin yksi, on kysyntä joustamatonta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "33"
+	},
+	
+	{
+	"ID": 28,
+	"Question": "Tarkasteluajanjakson pituus vaikuttaa kysynnän hintajouston suuruuteen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "34"
+	},
+	
+	{
+	"ID": 29,
+	"Question": "Tietyn hyödykkeen markkinakysyntä ja yrityksen yksittäisen tuotteen kysyntä kohtaavat yleensä samanlaisen hintajouston",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "35"
+	},
+	
+	{
+	"ID": 30,
+	"Question": "Inferioristen hyödykkeiden tulojousto on positiivinen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "35"
+	},
+	
+	{
+	"ID": 31,
+	"Question": "Kuluttajien käsityksiin ja mieltymyksiin vaikuttava mainonta yrittää saada kuluttajat näkemään tuotteet ainutlaatuisina",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "36"
+	},
+	
+	{
+	"ID": 32,
+	"Question": "Monopolin tuottamien hyödykkeiden kysyntä on eri asia kuin yleinen markkinakysyntä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "37"
+	},
+	
+	{
+	"ID": 33,
+	"Question": "Monopoli maksimoi voittonsa tuottaessaan markkinoille määrän jolloin MR=MC",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "38"
+	},
+	
+	{
+	"ID": 34,
+	"Question": "Monopolistisessa kilpailussa yritykset toimivat pitkällä tähtäimellä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "41"
+	},
+	
+	{
+	"ID": 35,
+	"Question": "Moraalikato-ongelma viittaa tilanteeseen, jossa toinen osapuolista saattaa toimia toiselta salaa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "49"
+	},
+	
+	{
+	"ID": 36,
+	"Question": "Organisoinnilla tarkoitetaan muun muassa tiedon kulkuun yrityksen sisällä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "50"
+	},
+	
+	{
+	"ID": 37,
+	"Question": "Markkinamekanismi toimii tehokkaasti silloin kun liiketoimi on esim. vakiomuotoinen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "53"
+	},
+	
+	{
+	"ID": 38,
+	"Question": "Opportunistinen käyttäytyminen voi viitata muun muassa siihen, että toinen osapuoli pyrkii hyötymään toisen tekemistä investoinneista",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "54"
+	},
+	
+	{
+	"ID": 39,
+	"Question": "Päämies-asiamies-mallin avulla tarkastellaan rahamääräisten kannustimien roolia",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "55"
+	},
+	
+	{
+	"ID": 40,
+	"Question": "Mitä vähemmän asiamies karttaa riskiä, sitä enemmän hänen palkkauksensa kannattaa sitoa suoritusmittariin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "56"
+	},
+	
+	{
+	"ID": 41,
+	"Question": "Yritysten hallinto- ja ohjausjärjestelmät viittaavat yritysten mm. yritysten valvontajärjestelmiin, jotka määrittelevät työntekijöiden velvollisuudet",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "60"
+	},
+	
+	{
+	"ID": 42,
+	"Question": "Hallinto- ja ohjausjärjestelmien taloustiede tarkastelee yrityksen rahoitusten tarjoajien epävarmuutta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "60"
+	},
+	
+	{
+	"ID": 43,
+	"Question": "Henkilöstön taloustiede keskittyy tutkimaan muun muassa palkkauspäätöksiä sekä palkitsemisjärjestelmiä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "62"
+	},
+	
+	{
+	"ID": 44,
+	"Question": "Kanssatyöntekijöillä ei ole vaikutusta yksittäisten työntekijän tuottavuuteen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "63"
+	},
+	
+	{
+	"ID": 45,
+	"Question": "Pääomakannan uudistus ja osaavan työvoiman lisääminen ovat toistensa substituutteja",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "63"
+	},
+	
+	{
+	"ID": 46,
+	"Question": "Yrittäjyyden taloustiede on yksi vakiintuneimmista soveltavan mikrotaloustieteen osa-alueista",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "66"
+	},
+	
+	{
+	"ID": 47,
+	"Question": "Tasapainotilanteessa pätee se, että markkinoilla kysytty määrä on yhtä suuri kuin sinne tarjottu määrä, jolloin yrittäjät eivät halua vaihtaa palkkatöihin ",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "67-68"
+	},
+	
+	{
+	"ID": 48,
+	"Question": "Inkrementaalisella innovaatiolla tarkoitetaan huomattavan mullistavaa innovaatiota ja muutosta vanhoihin tuotteisiin ja liiketoimintamalleihin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "71"
+	},
+	
+	{
+	"ID": 49,
+	"Question": "Prospektiteorian mukaan tappiot ja voitot suhteutetaan tiettyyn viitearvoon",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "77"
+	},
+	
+	{
+	"ID": 50,
+	"Question": "Normaalimuotoinen kuvaus muodostuu mm. pelaajien valintamahdollisuuksien määrittelystä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "83"
+	},
+	
+	{
+	"ID": 51,
+	"Question": "Kahden yrityksen muodostaessa oligopolin puhutaan duopolista",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "92"
+	},
+	
+	{
+	"ID": 52,
+	"Question": "Dynaamisessa vuorovaikutuksessa käytetään kovaa hinnoittelustrategiaa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "95"
+	},
+	
+	{
+	"ID": 53,
+	"Question": "Yksi Nash-tasapainon oletuksista on että parhaat valinnat jatkavat sopeutumista niin kauan, kunnes ne ovat yhteensopivia",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "86"
+	},
+	
+	{
+	"ID": 54,
+	"Question": "Strategisen vuorovaikutuksen tilanteessa tehdään sitä enemmän tutkimus-ja kehitystoimintaa, mitä suuremmat läikkymisvaikutukset ovat",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "97"
+	},
+	
+	{
+	"ID": 55,
+	"Question": "Ei ole varmuutta siitä, kuinka osapuolet onnistuvat yhteen sovittamaan omat parhaat valintansa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "98-99"
+	},
+	
+	{
+	"ID": 56,
+	"Question": "Henkilön kohdalla voidaan puhua yhteisöllisistä preferensseistä, mikäli hän ei ole lainkaan kiinnostunut oman edun tavoittelusta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "101"
+	},
+	
+	{
+	"ID": 57,
+	"Question": "Yritysten tulisi kyetä erottamaan lyhyen ja pitkänaikavälin muutokset toisistaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "104"
+	},
+	
+	{
+	"ID": 58,
+	"Question": "Kansantalouden tilinpidon laadinnassa käytetään ESA suosituksia",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "109"
+	},
+	
+	{
+	"ID": 59,
+	"Question": "BKT perushintaan saadaan vähentämällä markkinahintaisesta BKT:sta tuotetukipalkkiot ja lisäämällä tuoteverot",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "110"
+	},
+	
+	{
+	"ID": 60,
+	"Question": "BKT soveltuu hyvinvoinnin mittaamiseen paremmin kuin BKTL",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "113"
+	},
+	
+	{
+	"ID": 61,
+	"Question": "Mikäli kansantalouteen tulee vähemmän tuloja kuin mitä sillä on menoja, on sen vaihtotase ylijäämäinen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 62,
+	"Question": "Kun kansantalous kattaa rahoitusalijäämäänsä nettolainanotolla sen ulkomainen nettovarallisuus kasvaa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 63,
+	"Question": "Inflaatioluvun laadunkorjauksella ei ole vaikutusta volyymin muutokseen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 64,
+	"Question": "BKT:n muutoksilla ei ole juuri vaikutusta työmarkkinoihin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "120"
+	},
+	
+	{
+	"ID": 65,
+	"Question": "Tulevat voitot vaikuttavat yritysten motivaatioon panostaa innovaatiotoimintaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 66,
+	"Question": "Schumpeteriläinen vaikutus kuvaa kilpailun kiristymisen positiivista vaikutusta innovaatiotoimintaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "131"
+	},
+	
+	{
+	"ID": 67,
+	"Question": "Kilpailun ollessa vähäistä, negatiivinen schumpeteriläinen vaikutus on suurempi kuin positiivinen kilpailupakenemisvaikutus",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "131"
+	},
+	
+	{
+	"ID": 68,
+	"Question": "Yhden työntekijän tuottavuus riippuu ainoastaan hänen omasta koulutustasostaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 69,
+	"Question": "Okunin lain perusteella voidaan ajatella, että mikäli reaalinen BKT pysyy muuttumattomana, myös työttömyysaste säilyy ennallaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "136"
+	},
+	
+	{
+	"ID": 70,
+	"Question": "Luonnollisella työttömyysasteella tarkoitetaan sitä työttömyyden tasoa, jonka ylittäminen lisää inflaatiopaineita",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "138"
+	},
+	
+	{
+	"ID": 71,
+	"Question": "Rahataloudellisia tekijöitä korostavan teorian mukaan rahan määrän lasku voi nostaa reaalikorkoja",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "141"
+	},
+	
+	{
+	"ID": 72,
+	"Question": "Automaattiset vakauttajat vaimentavat kokonaistarjonnan aiheuttamia suhdannevaihteluja",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "143"
+	},
+	
+	{
+	"ID": 73,
+	"Question": "Kansantalouden tuottavuustasolla ja johtamisen laadulla on positiivinen yhteys",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "146"
+	},
+	
+	{
+	"ID": 74,
+	"Question": "Kyky kilpailla kansainvälisillä markkinoilla riippuu kansantalouden työvoimaosuudesta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "149-150"
+	},
+	
+	{
+	"ID": 75,
+	"Question": "Alhaisemmat yksikkökustannukset suhteessa vertailumaihin pienentävät maan markkinaosuutta vientimarkkinoilla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "150"
+	},
+	
+	{
+	"ID": 76,
+	"Question": "Käyttäytymistieteellinen makrotaloustiede keskittyy tutkimaan kotitalouksien rationaalisia säännönmukaisuuksia",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "154"
+	},
+	
+	{
+	"ID": 77,
+	"Question": "Rationaalisten odotusten oletuksen mukaan odotukset osuvat lähes aina oikeaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "155"
+	},
+	
+	{
+	"ID": 78,
+	"Question": "Osakekurssien vaihtelua perustellaan sijoittajien rationaalisella käyttäytymisellä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "155-156"
+	},
+	
+	{
+	"ID": 79,
+	"Question": "Jos yritys miettii tuotteensa hinnan muuttamista, kannattaa sen tehdä tämä päätös erillään muista alan toimijoista",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "156"
+	},
+	
+	{
+	"ID": 80,
+	"Question": "Taloustiedettä voidaan hyödyntää erityisesti",
+	"Answers": ["Tilanteissa ,joissa kuluttaja ei itse osaa tehdä omaa päätöstään", "Tilanteissa, jossa tarvitaan ennakointia toisten toimijoiden päätöksistä", "Tilanteissa, joissa vallitsee lähes täydellinen varmuus eri toimista"],
+	"CorrAns": 1,
+	"sivu": "1"
+	},
+	
+	{
+	"ID": 81,
+	"Question": "Yritysjohdon taloustiede keskittyy",
+	"Answers": ["Tiedon vaikutukseen taloudellisessa päätöksentekoon", "Henkilöstöhallinnon kysymyksiin", "Yritysten ja niiden henkilöstön taloudellisiin valintoihin", "Yritysten rahoituksen tutkimiseen"],
+	"CorrAns": 2,
+	"sivu": "3"
+	},
+	
+	{
+	"ID": 82,
+	"Question": "Mikä seuraavista ei kuulu ihmisten perustarpeisiin?",
+	"Answers": ["Terveydestä huolehtiminen", "Mahdollisuus lomailla", "Luku- ja laskutaito", "Sopivanlainen ravinnonsaanti"],
+	"CorrAns": 1,
+	"sivu": "3"
+	},
+	
+	{
+	"ID": 83,
+	"Question": "Kansantalouden tuottavuus riippuu",
+	"Answers": ["Voimavarojen hyödyntämisen tehokkuudesta ja tuotannontekijöiden määrästä", "Työntekijöiden määrästä", "Tuotannontekijöiden määrästä ja rahoituksen määrästä", "Rahoituksen määrästä"],
+	"CorrAns": 0,
+	"sivu": "3-4"
+	},
+	
+	{
+	"ID": 84,
+	"Question": "Talous toimii tehottomasti kun:",
+	"Answers": ["Työttömyysaste kasvaa", "Yritykset siirtävät tuotantoaan muualle", "Hyödykkeitä tuotetaan vähemmän kuin mitä olisi mahdollista", "Välituotteita ei ole tarpeeksi saatavilla"],
+	"CorrAns": 2,
+	"sivu": "4"
+	},
+	
+	{
+	"ID": 85,
+	"Question": "Mikä väitteistä on oikein",
+	"Answers": ["Mitä enemmän tuotetta kuluttaja kuluttaa ,sitä enemmän hän hyötyy", "Lisäkulutuksen myötä rationaalisen kuluttajan maksuhalukkuus vähenee", "Rationaalinen kuluttaja pyrkii tilanteeseen, jossa kulutuksesta saatu rajahyöty on aina suurempi kuin siitä syntyvä rajahaitta"],
+	"CorrAns": 1,
+	"sivu": "5"
+	},
+	
+	{
+	"ID": 86,
+	"Question": "Ceteris paribus- ajattelu tarkoittaa",
+	"Answers": ["Talouden taipumusta hakeutua tasapainoon", "Yksittäisen toimijan muutoksia tasapainosta poiketen", "Talouden muutosten tarkastelua vain yhden muuttujan muuttuessa kerralla", "Markkinahintojen reagointia kuluttajien tulojen nousuun"],
+	"CorrAns": 2,
+	"sivu": "10"
+	},
+	
+	{
+	"ID": 87,
+	"Question": "Mikä seuraavista ei pidä paikkaansa?",
+	"Answers": ["Pareto-parannuksen tapauksessa jonkin toimijan asema paranee, heikentämättä kuitenkaan muiden toimijoiden asemaa", "Mikäli markkinat ovat Pareto-tehokkaat, voidaan markkinatulemat määritellä oikeudenmukaisiksi", "X-tehokkuus viittaa yritysten kustannuksia minimoiviin toimiin", "Kaldor-Hicks- parannuksen kohdalla asemaansa parantaneet toimivat voivat periaatteessa suorittaa korvauksia asemaansa menettäneille toimijoille"],
+	"CorrAns": 1,
+	"sivu": "11"
+	},
+	
+	{
+	"ID": 88,
+	"Question": "Mikä seuraavista ei pidä paikkaansa?",
+	"Answers": ["Yrityksen kustannukset riippuvat vallitsevasta palkkatasosta", "Markkinaolosuhteet vaikuttavat myyntituloihin", "Taloustieteessä myös vaihtoehtoiskustannuksia luetaan osaksi kustannuksia", "Tuotantofunktio kertoo tuotantopanosten määrän tietyn hyödykemäärän valmistamiseen"],
+	"CorrAns": 0,
+	"sivu": "14"
+	},
+	
+	{
+	"ID": 89,
+	"Question": "Kasvavilla skaalatuotoilla tarkoitetaan",
+	"Answers": ["Tilannetta, joissa tuotantopanosten määrää kasvatetaan ja tuotantomäärä kasvaa suhteellisesti vähemmän", "Tilannetta, jossa tuotantopanosten lisääminen aiheuttaa yhtä suuren tuotantomäärän lisäyksen", "Tilannetta, jossa tuotantopanosten lisääminen aiheuttaa vähintään kaksinkertaisen tuotannonmäärän lisäyksen"],
+	"CorrAns": 2,
+	"sivu": "15"
+	},
+	
+	{
+	"ID": 90,
+	"Question": "Mikä seuraavista väittämistä on väärin?",
+	"Answers": ["Uponneet kustannukset tulee ensisijaisesti huomioida päätöksenteossa", "Uponneet kustannukset eivät riipu tuotantomäärästä", "Uponneet kustannukset ovat menoja, joita ei voida enää välttää", "Vältettävissä oleviin kustannuksiin voidaan vaikuttaa päätöksenteolla"],
+	"CorrAns": 0,
+	"sivu": "16"
+	},
+	
+	{
+	"ID": 91,
+	"Question": "Mikä seuraavista täydellisen kilpailun ehdoista ei pidä paikkaansa?",
+	"Answers": ["Alalle tulo ja sieltä poistuminen on yrityksille vapaata", "Kuluttajien ostopäätökset syntyvät hintojen perusteella", "Alalla toimivilla yrityksillä voidaan katsoa olevan täydellinen tietämys", "Joillain yrityksillä voi olla suurempia markkinaosuuksia ja siten hieman suuremmat vaikutusmahdollisuudet vallitsevaan hintatasoon"],
+	"CorrAns": 3,
+	"sivu": "19"
+	},
+	
+	{
+	"ID": 92,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Kuluttajan kysyntäkäyrä kuvaa riippuvuussuhdetta kysytyn määrän ja hinnan välillä", "Kysyntäkäyrä on useimmissa tapauksissa laskeva", "Hyödykkeen kysyttyyn määrään vaikuttaa ainoastaan kuluttajien tulot sekä tuotteiden hinta", "Kysyntäkäyrä esitetään yleensä käänteisenä, eli hinta kysytyn määrän funktiona"],
+	"CorrAns": 2,
+	"sivu": "21"
+	},
+	
+	{
+	"ID": 93,
+	"Question": "Mikä seuraavista ei pidä paikkansa?",
+	"Answers": ["Jos kuluttajien tuloissa tai muiden tuotteiden hinnoissa tapahtuu muutoksia, liikutaan kysyntäkäyrällä uuteen tasapainopisteeseen", "Linssit ja sangat ovat esimerkkejä toisiaan täydentävistä hyödykkeistä eli komplementeista", "Substituuttien kohdalla yhden tuotteen hinnan lasku vähentää toisen tuotteen kysyntää", "Kun lasketaan yhteen kuluttajien kysymät määrät kullakin hinnalla, saadaan markkinakysyntä"],
+	"CorrAns": 0,
+	"sivu": "22"
+	},
+	
+	{
+	"ID": 94,
+	"Question": "Mikä seuraavista ei pidä paikkansa?",
+	"Answers": ["Tasapainohinnan vallitessa kuluttajat joko maksimoivat hyötynsä tai yritykset voittonsa", "Täydellisen kilpailun markkinoilla vallitsee allokatiivinen tehokkuus", "Täydellisen kilpailun markkinoilla pätee ehto yhteiskunnan rajahyöty= valmistamisen rajakustannus", "Kuluttajien maksuhalukkuus kohtaa yritysten tuotantohalukkuuden"],
+	"CorrAns": 0,
+	"sivu": "24"
+	},
+	
+	{
+	"ID": 95,
+	"Question": "Mikä seuraavista pitää paikkansa?",
+	"Answers": ["Jos muuttuvat yksikkökustannukset ovat suurempia kuin tuotteen hinta(P<AVC)kannattaa yrityksen poistua markkinoilta välittömästi", "Jos yrityksen myyntitulot riittävät kattamaan muuttuvat yksikkökustannukset mutta eivät kaikkia kiinteitä kustannuksia kannattaa yrityksen silti tuottaa määrä P=MC", "Jos P>AFC, yritys tekee voittoa", "Yksikkökustannukset AC määrittelee sen, kannattaako yrityksen seisauttaa tuotantonsa"],
+	"CorrAns": 1,
+	"sivu": "25"
+	},
+	
+	{
+	"ID": 96,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Kuluttajien tulojen nousu aiheuttaa kysyntäkäyrän siirtymän vasemmalle", "Normaalihyödykkeen tapauksessa lisäys kuluttajien tuloissa siirtää kysyntäkäyrää oikealle", "Inferioristen hyödykkeiden tapauksessa lisäys kuluttajien tuloissa siirtää kysyntäkäyrää oikealle", "Tuotteiden kysyntä heikkenee, jos sen komplementteja tulee markkinoille"],
+	"CorrAns": 1,
+	"sivu": "26"
+	},
+	
+	{
+	"ID": 97,
+	"Question": "Mikä seuraavista pitää paikkansa?",
+	"Answers": ["Henkilöstön taloustiede ja työn taloustiede ovat toistensa synonyymeja", "Peliteoria on yksi soveltavan mikrotaloustieteen osa-alue", "Soveltavan mikrotaloustieteen jakaminen osiin on hankalaa", "Toimialan taloustiede keskittyy tutkimaan täydellistä kilpailua"],
+	"CorrAns": 2,
+	"sivu": "30-31"
+	},
+	
+	{
+	"ID": 98,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Kysynnän ollessa joustamatonta, kysyntäkäyrän muoto on loivasti laskeva", "Kun hintajoustoa arvioidaan pisteessä, jossa hinta on korkea, on kysyntä joustamatonta", "Mitä pidempi tarkasteluajanjakso huomioidaan, sitä joustamattomampaa kysyntä yleensä on", "Mitä joustavampaa yrityksen kysyntä on ,sitä suurempi on sen markkinavoima"],
+	"CorrAns": 1,
+	"sivu": "34"
+	},
+	
+	{
+	"ID": 99,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Kysynnän ristijousto kuvaa tuotteen X kysytyn määrän muutosta suhteessa tuotteen Z hinnan muutokseen", "Komplementtihyödykkeillä ristijousto on negatiivinen", "Kysynnän tulojousto mittaa kuluttajien tulojen muutosten vaikutusta kysyttyyn määrään", "Tarjonnan hintajousto mittaa markkinoille tarjotun määrän muutosta, kun kuluttajien tuloissa tapahtuu muutoksia"],
+	"CorrAns": 3,
+	"sivu": "35"
+	},
+	
+	{
+	"ID": 100,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Tuotedifferentiaation avulla voidaan saada kysynnän hintajoustoa alennettua", "Tuotedifferentiaatio olettaa kuluttajien olevan lähtökohtaisesti samanlaisia", "Vertikaalisen tuotedifferentiaation kohdalla kumpikaan yrityksen tarjoamista hyödykkeistä ei ole kuluttajien mielestä selkeästi parempi", "Jos tuotetta myydään samalla hinnalla, ja kuluttaja preferoivat silti toista yrityksen tuotteista paremmaksi, on kyseessä horisontaalinen tuotedifferentiaatio"],
+	"CorrAns": 0,
+	"sivu": "36"
+	},
+	
+	{
+	"ID": 101,
+	"Question": "Mikä seuraavista ei pidä paikkaansa?",
+	"Answers": ["Tarjouskampanjat ovat esimerkkejä myynninedistämistoimenpiteistä", "Kysynnän mainontajousto kertoo mainonnan lisäyksen vaikutusta hyödykkeen kysyttyyn määrään", "Tietoa tarjoavan mainonnan voidaan katsoa lisäävän tuotteeseen kohdistuvaa kysyntää", "Tietoa tarjoava mainonta voi muuttaa yritysten kysyntäkäyriä jyrkemmiksi"],
+	"CorrAns": 3,
+	"sivu": "36"
+	},
+	
+	{
+	"ID": 102,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Luonnollinen monopoli ei voi saavuttaa luonnollista tehokkuutta", "Luonnollisille monopoleille ominaista ovat korkeat rajakustannukset", "Lainsäädäntö voi taata yritykselle luonnollisen monopoliaseman", "Erilaisten tuoteinnovaatioiden avulla on mahdollista saavuttaa hetkellinen monopoliasema"],
+	"CorrAns": 3,
+	"sivu": "37"
+	},
+	
+	{
+	"ID": 103,
+	"Question": "Mikä seuraavista ei pidä paikkaansa?",
+	"Answers": ["Markkinoilla, joilla vallitsee monopoli, hyödykkeiden kulutus on suurempaa kuin täydellisen kilpailun markkinoilla", "Mikäli monopolin tapauksessa kysyntä on joustamatonta, hinta-kustannusmarginaali on laaja", "Hinnan nousun vaikutus kysyttyyn määrään on merkittävä, mikäli kysyntä on joustavaa", "Lernerin hinnoitteluindeksi kuvaa optimaalista hinnoittelua"],
+	"CorrAns": 0,
+	"sivu": "39"
+	},
+	
+	{
+	"ID": 104,
+	"Question": "Mikä seuraavista monopolistiseen kilpailuun liittyvistä väittämistä ei pidä paikkaansa?",
+	"Answers": ["Markkinoilla on paljon yrityksiä", "Alalle tulo ja alalta poistuminen on vapaata", "Yritysten tuotteet ovat luonteeltaan erilaisia", "Monopolistisen kilpailun tilanteessa yritykset kohtaavat laskevan kysyntäkäyrän"],
+	"CorrAns": 2,
+	"sivu": "41"
+	},
+	
+	{
+	"ID": 105,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Lyhyellä aikavälillä monopolistisen kilpailun takaamat voitot houkuttelevat alalle uusia yrityksiä", "Kun kysyntäkäyrä siirtyy, myös rajatulo käyrä siirtyy", "Uusien yritysten alalle tulo jatkuu niin kauan kunnes ns. ylisuuret voitot ovat karsiutuneet pois", "Hintadiskriminointi toimii vain kysynnän ollessa joustamatonta"],
+	"CorrAns": 3,
+	"sivu": "42"
+	},
+	
+	{
+	"ID": 106,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Yksi syy mittakaavaeduille on kiinteiden kustannusten jakautuminen isolle tuotantomäärälle", "Mittakaavahaitat tarkoittavat yksikkökustannusten ja tuotantomäärän kasvua samaan suuntaan", "Yritys kohtaa aina joko mittakaavaetuja tai mittakaavahaittoja", "Oppimiskäyrä on oikealle laskeva"],
+	"CorrAns": 2,
+	"sivu": "44"
+	},
+	
+	{
+	"ID": 107,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Tiedon taloustiede tutkii mm. tiedon vaikutusta taloudelliseen päätöksentekoon", "Tieto voi kulua käytössä, eli toisin sanoen se vanhenee", "Kokemusperäinen hyödyke viittaa ongelmaan arvioida hyödykettä etukäteen", "Tiedon kaupallinen hyödynnettävyys ei ole helppoa"],
+	"CorrAns": 1,
+	"sivu": "46"
+	},
+	
+	{
+	"ID": 108,
+	"Question": "Mikä seuraavista pitää paikkansa?",
+	"Answers": ["Organisaatioiden taloustiede keskittyy tutkimaan organisaatioiden välistä käyttäytymistä", "Organisaation rakenteella on tärkeä rooli esimerkiksi tiedon välittämisessä johdolle", "Itse organisaation rakenteella ei ole vaikutusta työntekijöiden yhteistyölle", "Organisaation rakenne ei vaikuta organisaation ihmisiin"],
+	"CorrAns": 1,
+	"sivu": "50"
+	},
+	
+	{
+	"ID": 109,
+	"Question": "Mikä seuraavista ei pidä paikkaansa?",
+	"Answers": ["Omistajuuden ja johdon eriytymisellä viitataan tilanteeseen, jossa omistajuus yrityksessä on hajautunutta", "Pienissä ja keskisuurissa yrityksissä päätäntävaltaa käyttää yrityksen hallitus", "Osuuskunnan omistajat ovat päätösvallan käyttäjiä", "Komplementaarisuus ja synergiaedut ovat läheisiä käsitteitä"],
+	"CorrAns": 1,
+	"sivu": "51"
+	},
+	
+	{
+	"ID": 110,
+	"Question": "Mikä seuraavista ei pidä paikkaansa?",
+	"Answers": ["Liiketoimintakustannuksien taloustiede on saanut alkunsa 1940-luvulla", "Liiketoimintakustannuksien taloustiede tarkastelee muun muassa yritys käsitteen rajausta", "Liiketoimintakustannuksien taloustiede tarkastelee yritysten make-or-buy valintoja", "Liiketoimintakustannuksien taloustiede on kiinnostunut sopimussuhteista"],
+	"CorrAns": 0,
+	"sivu": "52"
+	},
+	
+	{
+	"ID": 111,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Hankalammat liiketoimet tuovat säästöjä liiketoimintakustannuksissa", "Liiketoimintakustannukset tulee ymmärtää suppeasti", "Markkinaosapuolen etsimisestä syntyvät kustannukset ovat esimerkki kitkatekijästä"],
+	"CorrAns": 2,
+	"sivu": "52"
+	},
+	
+	{
+	"ID": 112,
+	"Question": "Mikä seuraavista väittämistä on väärin?",
+	"Answers": ["Suhdekohtaiset voimavarat ovat tuottavampia osana taloudellista suhdetta", "Suhdekohtaisten voimavarojen syntymisessä muilla yrityksillä ei ole roolia", "Molemminpuoliset suhdekohtaiset voimavarat voivat aiheuttaa riippuvuuden kahden toimijan välille", "Jos tuotantoprosesseja halutaan tehostaa, toimijat voivat esimerkiksi räätälöidä voimavarojaan"],
+	"CorrAns": 1,
+	"sivu": "54"
+	},
+	
+	{
+	"ID": 113,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Yrityksen kannattavuus riippuu pelkästään toimitusjohtajan valinnoista", "Toimitusjohtajan palkkaa voidaan pitää suoraan hänen omien toimiensa tuloksena", "Mikäli päämies on riskineutraali ja asiamies riskiä karttava, kannattaa sopimus tehdä niin että päämies kantaa osan riskeistä"],
+	"CorrAns": 2,
+	"sivu": "55-56"
+	},
+	
+	{
+	"ID": 114,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Omistusoikeudet kertovat kenellä on valtaa tehdä päätöksiä tietyn asian käytöstä", "Omaisuudensuoja tarkoittaa sitä, että muut eivät saa hyötyä toisen omaisuudesta ilman tämän lupaa", "Viimekätinen päätösoikeus on yrityksissä omistajilla", "Viimekätisen päätösoikeuden merkitys korostuu jos omaisuutta koskevat sopimukset ovat epätäydellisiä"],
+	"CorrAns": 1,
+	"sivu": "57"
+	},
+	
+	{
+	"ID": 115,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Työn kysyntä on johdettua kysyntää", "Yritykselle järkevä työpanoksen määrä on tilanteessa, jossa lisätyötunnin rajatuotoksen arvo on sama kuin siitä maksettu tuntipalkka", "Monopsoni tarkoittaa tilannetta, jossa työtä kysyy markkinoilla kaksi ostajaa", "Epäsymmetrinen tieto voi viitata tilanteeseen, jossa työnantajalta puuttuu tarpeellinen tietämys työtehtävään soveltuvista ehdokkaista"],
+	"CorrAns": 2,
+	"sivu": "62"
+	},
+	
+	{
+	"ID": 116,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Työntekijöiden vaihtuvuus tuottaa ongelmia jokaiselle yritykselle, toimialasta ja koosta riippumatta", "Mikäli työntekijöillä on paljon yrityskohtaista osaamista, on yrityksellä motiivi kehittää sisäisiä työmarkkinoitaan", "Työtehtävien suunnittelussa tulee pyrkiä siihen, että työntekijä pystyy suoriutumaan työtehtävästään mahdollisimman tehokkaasti", "Työtehtävien suunnittelussa tulee pyrkiä siihen, että työntekijä käyttää ja luo työtehtävissään uuttaa tietoa"],
+	"CorrAns": 0,
+	"sivu": "65"
+	},
+	
+	{
+	"ID": 117,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Edward Lazearin jokapaikan höylä- mallin mukaan yrittäjän tärkeimmiksi tehtäviksi voidaan luetella muun muassa erilaisten toimintojen johtaminen ja koordinoiminen", "Yrittäjä delegoi rahoituspääoman hankkimisen, eikä se ole yrittäjyyden kohdalla keskeinen taito", "Yrittäjän vastakohtana voidaan pitää yhden alan erityisasiantuntijaa", "Lazearin mallin mukaan monipuolisuus tarkoittaa sitä, että yrittäjän taidot ovat keskenään tasapainossa"],
+	"CorrAns": 1,
+	"sivu": "68"
+	},
+	
+	{
+	"ID": 118,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Soveltavassa tutkimuksessa hyödynnetään jo olemassa olevaa tietoa, muttei sillä ole yhteyttä käytäntöön", "Tutkimus- ja kehitystoiminta käsittää tuotteen prototyypin kehitystoiminnan sekä sen jälkeisen kehityksen", "Tuoteinnovaatiolla tarkoitetaan parannusta jo olemassa oleviin tuotteisiin", "Prosessi-innovaatio mahdollistaa tuotteen tuottamisen aiempaa edullisemminkustannuksin"],
+	"CorrAns": 2,
+	"sivu": "71"
+	},
+	
+	{
+	"ID": 119,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Innovaatioiden taloustiede tutkii muun muassa onnistuneiden innovaatioiden vaikutusta yritysten toimintaan", "Onnistuneet innovaatiot voivat olla yrityksille keino saada etumatkaa kilpailijoihin", "Kireä kilpailutilanne lisää aina investointihalukkuutta tutkimus- ja kehitystoimintaan uusien innovaatioiden toivossa", "Tiedon läikkyminen on tutkimus- ja kehitystoiminnasta syntyvä positiivinen ulkoisvaikutus"],
+	"CorrAns": 2,
+	"sivu": "71"
+	},
+	
+	{
+	"ID": 120,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Voittoaan maksimoivat yritykset pyrkivät ensisijaisesti päätöksenteossaan huomioimaan kuluttajan ylijäämän", "Patentti on elinikäinen yksinoikeus keksintöön", "Patentin kesto on maksimissaan 15 vuotta", "Prosessi-innovaatio voi tietyissä tilanteissa olla niin huomattava, että innovaation tehnyt yritys voi myydä monopolihinnalla tuotteita kilpailijoiden rajakustannuksia alhaisemmalla hinnalla"],
+	"CorrAns": 3,
+	"sivu": "72-73"
+	},
+	
+	{
+	"ID": 121,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Kahnemanin ja Tverskyn mukaan toimijat turvautuvat päätöksenteossa usein erilaisiin peukalosääntöihin", "Vertailukohtasidonnaisuudella viitataan tietyn vertailukohdan vaikutusta kuluttajan päätöksenteossa", "Omistusvaikutus on ilmentymä, joka kuvaa ihmisten taipumusta pitää parempana toisten omistamia hyödykettä kuin mitä vaihdettavaksi on tarjolla", "Tappiokammon tapauksessa ihmiset luovat kategorioita voitoille ja tappioilla suhteessa tiettyyn viitearvoon"],
+	"CorrAns": 2,
+	"sivu": "74"
+	},
+	
+	{
+	"ID": 122,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Saatavuusharhalla tarkoitetaan ihmisten taipumusta tehdä johtopäätöksiä tapahtumien todennäköisyyksistä ns. huhupuheiden perusteella", "Uponneiden kustannusten harhalla tarkoitetaan taipumusta antaa aiempien kustannusten vaikuttaa päätöksentekoon", "Liiallisen sitoutumisen ongelman tapauksessa ihmiset tekevät päätöksiään pitäytyen liikaa vanhoissa tottumuksissaan", "Status quo- harha viittaa tilanteeseen , jossa toimintaan halutaan sitoa voimavaroja siksi että siihen on aiemminkin niitä laitettu"],
+	"CorrAns": 1,
+	"sivu": "78"
+	},
+	
+	{
+	"ID": 123,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Strategista vuorovaikutusta syntyvät tilanteissa, jossa yritys voi tehdä päätökset itsenäisesti", "Strategisen päättelyyn voidaan liittää taito yhteen sovittaa valintoja kaikkien osapuolten tavoitellessa omaa etuaan", "Nollasummapelissä osapuolten edut ovat kokonaan vastakkaiset", "Kilpailullisissa peleissä sopimusten teko ei ole mahdollista"],
+	"CorrAns": 0,
+	"sivu": "81"
+	},
+	
+	{
+	"ID": 124,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Toistetun pelin tapauksessa samanlaisia valintoja tehdään useampia kertoja peräkkäin", "Strategia on monimutkaistettu toimintaohje", "Tietyissä tilanteissa strategia ja valinta voivat tarkoittaa samaa asiaa", "Mikäli osapuolet ovat luonteeltaan eteenpäin katsovia puhutaan dynaamisuudesta"],
+	"CorrAns": 1,
+	"sivu": "83"
+	},
+	
+	{
+	"ID": 125,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Mikäli jokin valinta on selkeästi parempi kuin muut, huolimatta vastapuolen valinnasta, voidaan puhua dominoivasta strategiasta", "Dominoidut strategiat voidaan sulkea pois vedoten siihen, ettei rationaalinen pelaaja niitä valitse", "Paras vastaus tuottaa molemmille parhaimman tuleman, huolimatta siitä mitä toinen valitsee", "On mahdollista että pelillä on Nash- tasapaino ilman dominoituja tai dominoivia strategioita"],
+	"CorrAns": 2,
+	"sivu": "84-86"
+	},
+	
+	{
+	"ID": 126,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Ekstensiivisessä muodossa esitettyjen pelien kohdalla oletetaan osapuolten tekevän peräkkäisiä rationaalisia valintoja", "Taaksepäin järkeilyssä yritetään parantaa aiemmin tehtyjä valintoja", "Ehdollisesti dominoidut valinnat karsiutuvat pelipuusta pois sillä niitä ei valita", "Taaksepäin järkeily ei anna mahdollisuutta katteettomien lupausten vaikutukselle"],
+	"CorrAns": 1,
+	"sivu": "87-89"
+	},
+	
+	{
+	"ID": 127,
+	"Question": "Mikä seuraavista pitää paikkansa?",
+	"Answers": ["Kun oligopoliyrityksen päätösmuuttujana toimii tarjottu määrä, puhutaan Bertrand-oligopolista", "Kun oligopoliyrityksen päätösmuuttujana toimii tuotteen hinta, puhutaan Cournot-oligopolista", "Mikäli tuotteet ovat homogeenisia Bertrand-oligopolin tapauksessa, vain hinnalla on ratkaiseva merkitys", "Mikäli Bertrand-oligopolin tapauksessa tuotteet ovat differoituja, asiakaskunta on yleensä hyvin hintaherkkää"],
+	"CorrAns": 2,
+	"sivu": "93"
+	},
+	
+	{
+	"ID": 128,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Kolluusiolla tarkoitetaan yritysten välillä vallitsevaa erimielisyyttä vallitsevasta kilpailutilanteesta", "Hiljainen kolluusio voidaan saavuttaa ilman yhteydenpitoa", "Kartellit ovat luonteeltaan pitkäkehtoisia", "Kolluusion saavutettuaan yrityksillä ei ole houkutusta muuttaa toimintaansa"],
+	"CorrAns": 1,
+	"sivu": "95"
+	},
+	
+	{
+	"ID": 129,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Peliteoria liittyy muun muassa tiedon jakautumiseen toimijoiden kesken", "Käyttäytymistieteellinen peliteoria huomioi rajatun rationaalisuuden", "Käyttäytymistieteellinen peliteoria keskittyy tutkimaan toimijoiden päätöksiä, jotka tehdään ns. tyhjiössä", "Pelaajat valitsevat omat parhaat vastauksensa perustuen uskomuksiin muiden pelaajien valinnoista"],
+	"CorrAns": 2,
+	"sivu": "98"
+	},
+	
+	{
+	"ID": 130,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Suhdannepoliittiset toimenpiteet toimivat pitkän aikavälin muutosten korjauksessa", "Yritysten ei ole tarvetta ennakoida talouspoliittisia päätöksiä, sillä on laadittu talous- ja elinkeinopoliittisia politiikkasuosituksia", "Julkisen valinnan teoria perehtyy demokraattisen päätöksen teon tutkimiseen", "Julkisen valinnan teorian mukaan poliittiset päätöksentekijät kykenevät tekemään yhteiskunnan kokonaishyvinvoinnin kannalta parhaita päätöksiä"],
+	"CorrAns": 2,
+	"sivu": "105"
+	},
+	
+	{
+	"ID": 131,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa? ",
+	"Answers": ["Yritykset voivat rahoittaa investointejaan ulkoisen rahoituksen turvin", "Yritykset maksavat tuotannontekijäkorvauksia esimerkiksi osinkojen muodossa", "Kotitaloudet eivät suoraan omista kansantalouden pääomaa", "Verojen jälkeiset nettotulot menevät kotitalouksilta säästämiseen"],
+	"CorrAns": 1,
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 132,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa? ",
+	"Answers": ["Maanpuolustus on esimerkki julkisesta palvelusta", "Avotalouden kohdalla työvoiman liikkuvuus on merkittävin sidos muihin maihin", "Tuonnin käsite sisältää muun muassa investointihyödykkeiden tuonnin", "Avoimessa taloudessa osa kansantalouden säästöistä päätyy kotimaan ulkopuolelle"],
+	"CorrAns": 1,
+	"sivu": "107-108"
+	},
+	
+	{
+	"ID": 133,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Tulomenetelmässä lasketaan yhteen palkat, sosiaaliturvamaksut sekä voitot", "Kokonaiskysynnän eriä ovat yksityinen ja julkinen kulutus sekä nettovienti", "Ensituloilla tarkoitetaan palkansaajakorvauksia, yrittäjä- ja omaisuustuloja sekä tulonsiirtoja", "Bruttokansantulo markkinahintaan saadaan lisäämällä markkinahintaiseen bruttokansantuotteeseen ulkomailta saadut ensitulot ja vähentämällä ulkomaille maksetut ensitulot"],
+	"CorrAns": 3,
+	"sivu": "110"
+	},
+	
+	{
+	"ID": 134,
+	"Question": "Mikä seuraavista ei pidä paikkaansa? ",
+	"Answers": ["Nettokansantulo saadaan kun bruttokansantulosta vähennetään poistot", "Käytettävissä olevat tulot saadaan kun nettokansantulosta vähennetään vastikkeettomat tulonsiirrot ulkomaille", "Vastikkeettomia tulonsiirtoja ovat muun muassa sosiaalimaksut ulkomailla asuville suomalaisille", "Varastojen muutos ei ole kokonaiskysynnän erä"],
+	"CorrAns": 2,
+	"sivu": "110-111"
+	},
+	
+	{
+	"ID": 135,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Julkisyhteisöissä arvonlisäys muodostuu lähes täysin palkansaajakorvauksista", "Maksutase kertoo sidoksista muihin maihin kansainvälisen kaupan ja pääomaliikkeiden välityksellä", "Vaihtotaseen eriä ovat kauppatase, palvelutase ja tuotannontekijä korvausten tase"],
+	"CorrAns": 2,
+	"sivu": "114-115"
+	},
+	
+	{
+	"ID": 136,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Pääomatase pitää kirjaa pääomansiirroista, joihin kuuluu mm. investointiavut", "Rahoitustase kirjaa ulkomaisten tulonsiirtojen muutokset", "Ylijäämäinen rahoitustase tarkoittaa että kansantalous on kasvattanut ulkomaista nettovarallisuuttaan", "Maksutaseen kaksi tärkeintä osaa ovat vaihtotase ja pääomatase"],
+	"CorrAns": 0,
+	"sivu": "114-115"
+	},
+	
+	{
+	"ID": 137,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Indeksit kuvaavat tietyn ajankohdan tilannetta viiteajankohtaan", "Kun hintojen muutokseen lisätään volyymin muutos saadaan nimellisarvon muutos", "Kuluttajahintaindeksi mittaa kuluttajien käytöksen vaihtelua suhteessa viiteajankohtaan", "Hintojen muutoksen mittaamiseen käytetään tuotteiden painotettuja keskiarvoja"],
+	"CorrAns": 2,
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 138,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Suhdannevaihteluista aiheutuvat erot selittävät maiden välisiä eroja hyvinvoinnissa", "Talouspolitiikalle ja yrityksille suurimmat vaikeudet koittavat suhdanteiden aikana", "Laskusuhdanteen aikana talouskasvu pysähtyy", "Suhdannevaihtelut ovat poikkeamia pitkän aikavälin kasvu-uralta"],
+	"CorrAns": 3,
+	"sivu": "118-119"
+	},
+	
+	{
+	"ID": 139,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Talouden kasvuteoriat tarkastelevat pitkän aikavälin kasvua", "Työn tuottavuus tarkoittaa tuotannon määrää per työtunti", "Työtuntien määrää voi kasvattaa rajattomasti", "Tulojen kasvulla on lisäävä vaikutus vapaa-ajan kysynnälle"],
+	"CorrAns": 2,
+	"sivu": "120"
+	},
+	
+	{
+	"ID": 140,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Neoklassinen kasvuteoria ei keskity selittämään syitä teknologian kehittymiselle", "Neoklassinen kasvuteoria tarkastelee sekä täydellisen että epätäydellisen kilpailun markkinoita", "Neoklassisen kasvuteorian mallissa tutkimus- ja kehitystoimintaan panostaminen nähdään lähes mahdottomaksi, koska siihen ei ole rahaa", "Neoklassinen kasvuteoria ei juuri anna tarvittavia ohjeita talouspolitiikan päättäjille"],
+	"CorrAns": 1,
+	"sivu": "122"
+	},
+	
+	{
+	"ID": 141,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Neoklassinen kasvuteoria ei huomioi inhimillistä pääomaa", "Neoklassisen kasvuteorian mukaan voidaan päätellä maiden välisten elintasoerojen kasvavan", "Tiedon leviämistä korostava endogeeninen kasvuteoria keskittyy tarkastelemaan tiedon roolia ja leviämistä", "Teknologinen tieto kehittyy yrityksissä erillisenä projektina"],
+	"CorrAns": 2,
+	"sivu": "123"
+	},
+	
+	{
+	"ID": 142,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Tiedon leviämistä korostavan kasvuteorian mukaan maiden väliset erontaso erot tulevat kasvamaan", "AK-mallin mukaan julkinen valta ei voi vaikuttaa pitkän aikavälin talouskasvuun", "AK-mallien ennusteet sopivat hyvin yhteen empiiristen tutkimusten kanssa", "Tiedon leviämistä korostava kasvuteoria näkee yritykse täysin samanlaisina"],
+	"CorrAns": 0,
+	"sivu": "123"
+	},
+	
+	{
+	"ID": 143,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Yritykset voivat omassa innovaatiotoiminnassaan hyödyntää muiden yritysten aiemmin tekemiä innovaatioita", "Tuotevalikoimamallissa tarkastellaan uusien välituotteiden vaikutusta talouskasvulle", "Yrityksen tuottavuus on sitä korkeampi mitä enemmän työntekijöitä sillä on", "Innovaatioiden määrää korostavan kasvuteorian yksi periaatteista on että lisävoitot kannustavat yrityksiä innovaatiotoimintaan"],
+	"CorrAns": 2,
+	"sivu": "124-125"
+	},
+	
+	{
+	"ID": 144,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Innovaatioiden laatua korostavassa kasvuteoriassa tutkitaan yritysten kykyä tehdä innovaatioita aiempaa halvemmilla kustannuksilla", "Joseph Schumpeter on tullut tunnetuksi luovan tuhon-mallista", "Schumpeteriläisen kasvuteorian mukaan yritysten innovaatiotoiminta kasvattaa työn tuottavuutta, muttei sillä ole vaikutusta BKT:n arvoon", "Yritysten kannattaa panostaa sitä vähemmän tutkimus-ja kehitystoimintaan, mitä suuremmat ovat niistä saadut nettovoitot"],
+	"CorrAns": 1,
+	"sivu": "125"
+	},
+	
+	{
+	"ID": 145,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Nykyisessä makrotaloustieteellisessä tutkimuksessa innovaatioiden laatua korostavalla kasvuteorialla on vahva jalansija", "Yritysdynamiikalla tarkoitetaan uusien yritysten markkinoille tuloa", "Tuotevalikoimamalli perustuu pitkälti yritysten väliseen vahvaan kilpailuun", "Schumpeteriläisen kasvuteorian mukaan myös yritysten markkinoilta poistuminen voi olla myönteistä"],
+	"CorrAns": 0,
+	"sivu": "124-126"
+	},
+	
+	{
+	"ID": 146,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Neoklassinen kasvuteoria ja AK-mallit huomioivat sekä täydellisen että epätäydellisen kilpailun", "Kilpailulla on aina positiivinen vaikutus innovointikannustimiin", "Yritysten hyödyntämän teknologian edistyneisyyttä voidaan havainnollistaa teknologiaportaiden avulla", "Teknologia-askel tapahtuu kun jokin yritys poistuu markkinoilta, toisin sanoen sen hyödyntämä teknologia häviää"],
+	"CorrAns": 2,
+	"sivu": "126-129"
+	},
+	
+	{
+	"ID": 147,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Vähäisen kilpailun tapauksessa toimialojen kannattavuus on hyvä", "Kun kilpailu kiristyy, lisääntyvät myös yritysten motiivit ottaa teknologisia lisäaskeleita", "Lievästi kireän kilpailun tapauksessa yritykset ovat samalla teknologia-askelmalla", "Äärimmäisen kireän kilpailun tapauksessa yritykset ovat peräkkäisillä teknologia-askelmilla"],
+	"CorrAns": 2,
+	"sivu": "129"
+	},
+	
+	{
+	"ID": 148,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Koulutuksen avulla työntekijät ovat valmiimpia kehittämään uutta teknologiaa", "Innovaatioperusteiset kasvuteoriat painottavat kaikenlaisen koulutuksen tärkeyttä", "Rahoitusjärjestelmän rooliin kuuluu myös huonojen hankkeiden tunnistaminen", "Tieto yrittäjien ja rahoittajien välillä voi olla epäsymmetristä"],
+	"CorrAns": 1,
+	"sivu": "131-132"
+	},
+	
+	{
+	"ID": 149,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa? ",
+	"Answers": ["Toimialojen suhdannevaihtelut ovat lievempiä kuin koko kansantalouden suhdannevaihtelut", "Tuotantokuilu tarkoittaa erotusta toteutuneen ja potentiaalisen tuotannon välillä", "Potentiaalinen tuotanto tarkoittaa tuotannon tasoa inflaatiopaineet huomioon otettuna", "Mikäli tuotantokuilu on negatiivinen, on työntekijöiden järkevää vaatia palkankorotuksia"],
+	"CorrAns": 1,
+	"sivu": "134"
+	},
+	
+	{
+	"ID": 150,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Suomessa työttömyysaste on korkeimmillaan alkutalvesta", "Pitkittynyt työttömyys heikentää todennäköisyyksiä työllistyä uudelleen", "Työttömyys palautuu pienien viiveiden jälkeen normaaliksi melko pian muutosten jälkeen", "Hysteerillä tarkoitetaan taloustieteessä ominaisuutta, joka liittyy kuluttajien laumakäyttäytymiseen"],
+	"CorrAns": 1,
+	"sivu": "136"
+	},
+	
+	{
+	"ID": 151,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Tuotteen hinnan lasku edellyttää muutoksia työpanoksen määrässä", "Korkotason muutoksilla ei ole juuri vaikutusta tuotteen kysyntään", "Mikäli välituotteiden määrä vähenee, laskee myös rajatuotoksen arvo", "Keynesiläinen teoria tarkastelee kokonaiskysynnän vaihtelua"],
+	"CorrAns": 1,
+	"sivu": "136-137"
+	},
+	
+	{
+	"ID": 152,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["BKT ja investoinnit käyttäytyvät eri tavoin suhdanteissa", "Kokonaiskysynnän vähenemisen vaikutus voi olla huomattava varsinkin kun reaalipalkat ovat jäykkiä", "Kokonaiskysynnän vahvistuminen voi johtaa yritysten koventuneeseen kilpailuun työvoimasta", "Uusklassinen teoria olettaa suhdannevaihteluiden saavan alkunsa talouden sisäisistä tarjontatekijöistä"],
+	"CorrAns": 2,
+	"sivu": "137-138"
+	},
+	
+	{
+	"ID": 153,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkansa?",
+	"Answers": ["Uuskeynesiläisessä teoriassa yhdistyvät uusklassinen ja keynesiläinen teoria", "Hinnat ja palkat ovat pitkällä aikavälillä jäykkiä", "Pitkällä aikavälillä teknologinen kehitys vaikuttaa kokonaistuotantoon", "Rahataloudellisia tekijöitä korostavan teorian mukaan rahan tarjonnalla on vaikutusta BKT:n suuruuteen"],
+	"CorrAns": 1,
+	"sivu": "138"
+	},
+	
+	{
+	"ID": 154,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Investointivaje johtaa pääomakannan supistumiseen", "Jos keskuspankki haluaa alentaa ohjauskorkoa, se myy avomarkkinaoperaatioissa arvopapereita talletuspankeille", "Rahan määrän ja koron säätelyllä keskuspankki pyrkii vaikuttamaan reaalitalouden toimintoihin", "Korkojen lasku kannustaa yrityksiä investointeihin"],
+	"CorrAns": 1,
+	"sivu": "139-140"
+	},
+	
+	{
+	"ID": 155,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Työn tuottavuuden kasvu- työpanoksen laadun vaikutus= kokonaistuottavuus", "Työn tuottavuuden kasvusta kokonaistuottavuuden osuus on noin 50%", "Yritysdynamiikka on merkittävä talouskasvun syy", "Yrittäjyys ja yritysdynamiikka korostuvat teknologisen murroksen aikana"],
+	"CorrAns": 1,
+	"sivu": "141-142"
+	},
+	
+	{
+	"ID": 156,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Yritysten ikä ja koko ovat heikosti korreloituneita", "Ne pienet yritykset, jotka selviävät alalle tulon haasteista, kasvavat sen jälkeen muita nopeammin", "Innovaatio toiminta on keino selvitä markkinoilla", "Uusien alalle tulevien yritysten tuottavuus on matalampaa kuin jo alalla olevien yritysten"],
+	"CorrAns": 0,
+	"sivu": "143-146"
+	},
+	
+	{
+	"ID": 157,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Vanhat, heikosti tuottavat yritykset poistuvat markkinoilta ilman ennakkosignaaleja", "Yrityksen hyvä kilpailukyky näkyy alhaisempina välituotteiden hintoina kuin kilpailijoilla", "Jos vienti jatkuvasti on suurempaa kuin tuonti, kansantalous voi ajautua velkaantumiskierteeseen", "Julkisen talouden elvytystoimet toimivat vientimarkkinoiden ongelmien ratkaisemiseen"],
+	"CorrAns": 2,
+	"sivu": "145-147"
+	},
+	
+	{
+	"ID": 158,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Kilpailukykyä voidaan parantaa alentamalla työn hintaa", "Korkean- asteen koulutuksella on vaikutusta tuottavuuskasvuun", "Schumpeteriläisen kasvuteorian mukaan teknologia-askeleilla on rooli tuottavuuden kasvussa", "Tutkimus-ja kehitystoiminnalla on vahva rooli akuuteissa tuottavuusongelmissa"],
+	"CorrAns": 3,
+	"sivu": "148"
+	},
+	
+	{
+	"ID": 159,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Riskialttein keino parantaa hinta-ja kustannuskilpailukykyä on alentaa työn hintaa", "Tarkoituksenmukaista oman valuutan arvon heikentämistä kutsutaan devalvoimiseksi", "Välipanokset tulee huomioida koko talouden kustannuksissa", "Rakenteellisella kilpailukyvyllä tarkoitetaan kilpailukyvyn kehitystä viimeisen 10 vuoden aikana suhteessa tärkeimpiin vertailumaihin"],
+	"CorrAns": 1,
+	"sivu": "148-149"
+	},
+	
+	{
+	"ID": 160,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Positiivisen taloustieteen tavoite on rajota tieteellinen selitys erilaisille taloudellisille ilmiöille", "Normatiivista taloustiedettä on se, että päätöksentekijöille kuvataan malleja hyödyntäen, mitä vaihtöehtoja heillä on käytettävissä", "Taloustiede voi olla positiivista, negatiivista tai normatiivista", "Molemmat 1. ja 2. ovat oikein"],
+	"CorrAns": 0,
+	"sivu": "2"
+	},
+	
+	{
+	"ID": 161,
+	"Question": "Mitä seuraavista raha EI ole kirjan mukaan?",
+	"Answers": ["Vaihdon väline", "Laskentayksikkö", "Arvon säilyttäjä", "Neuvottelujen avustaja"],
+	"CorrAns": 3,
+	"sivu": "8"
+	},
+	
+	{
+	"ID": 162,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Talousjärjestelmillä ja markkinoilla ei ole yleistä taipumusta hankkiutua tasapainoon", "Tasapainoon pääseminen on suhteellisen nopeaa", "Tasapainolla on tietynlainen taipumus ylläpitää itseään", "Kaikki ovat väärin"],
+	"CorrAns": 2,
+	"sivu": "10"
+	},
+	
+	{
+	"ID": 163,
+	"Question": "Mikä seuraavista väittämistä EI pidä paikkaansa?",
+	"Answers": ["Allokatiivinen tehokkuus on tilanne, jossa kutakin hyödykettä tuotetaan juuri sen verran, että viimeisimmän tuotetun hyödykkeen yritykselle tuottama lisähyöty on yhtä suuri kuin sen tuottamisen lisäkustannus", "Pareto-tehokkuus on tilanne, jossa yhdenkään toimijan asemaa ei voida parantaa ilman, että jonkun muun asemaa heikennetään", "X-tehokkuus tarkoittaa, että yritykset toimivat kustannuksia minimoivalla tavalla"],
+	"CorrAns": 0,
+	"sivu": "11"
+	},	
+	
+
+	{
+	"ID": 164,
+	"Question": "Kuluttajan teoria olettaa, että kuluttaja on voitonmaksimoija",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 165,
+	"Question": "Taloustieteen voittokäsite vastaa aina myös kirjanpidollista voittokäsitettä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "14"
+	},	
+	
+
+	{
+	"ID": 166,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["AC, average costs= AC(q) = TC(q) / C(q)", "MC, marginal cost = TC(q) – AC(q)", "TC, total cost = TC(q) = C(q) + F", "Kaikki ovat väärin"],
+	"CorrAns": 2,
+	"sivu": "16"
+	},
+	
+	{
+	"ID": 167,
+	"Question": "Uponneet kustannukset ovat päätöksenteon kannalta merkityksellisiä kustannuksia, jotka ovat jo menneet",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "18"
+	},	
+	
+
+	{
+	"ID": 168,
+	"Question": "Mikä seuraavista EI ole täydellisen kilpailun olosuhteissa lueteltu?",
+	"Answers": ["Yrityksiä voi tulla alalle ja poistua sieltä vapaasti", "Kuluttajia ja hyödykettä myyviä yrityksiä on vain muutamia", "Kaikkien yritysten hyödykkeet ovat samanlaisia", "Kaikilla alalla olevilla on täydellinen tietämys mm. hyödykkeestä"],
+	"CorrAns": 1,
+	"sivu": "20"
+	},
+	
+	{
+	"ID": 169,
+	"Question": "Täydellisen kilpailun markkinoilla rajatuloa on yhtä suuri kuin hyödykkeestä saatu hinta (MR = P)",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "20"
+	},	
+	
+
+	{
+	"ID": 170,
+	"Question": "Kuluttajan markkinakäyrä kertoo, minkälainen riippuvuussuhde kysytyn määrän ja hyödykkeen hinnan välillä on",
+	"Answers": ["OIkein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "21"
+	},
+	
+	{
+	"ID": 171,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Kun kyse on normaalihyödykkeestä, kysyntäkäyrä siirtyy tulojen kasvaessa vasemmalle", "Taulutietokoneet ja niillä pelattavat pelit ovat komplementteja", "Ferrari on esimerkki inferioisesta hyödykkeestä", "Molemmat 1. ja 2. ovat oikein"],
+	"CorrAns": 1,
+	"sivu": "23"
+	},	
+	
+
+	{
+	"ID": 172,
+	"Question": "Kun yritykset toimivat kilpailullisilla markkinoilla, ja kun markkinahinta P on tiedossa, lyhyellä aikavälillä tapahtuu kolme asiaa. Mikä seuraavista EI kuulu joukkoon?",
+	"Answers": ["Rajakustannukset (MC) kertovat, että tuotantomäärä kannattaa asettaa pisteeseen, jossa MC(q) = P, jos yrityksen kannattaa tuottaa jotain", "Muuttuvat yksikkökustannukset (APC) määrittävät, kannattaako yrityksen tuottaa jotain (P > AVC) vai seisauttaa tuotantonsa (P < AVC)", "Yksikkökustannukset (AC) määrittävät, kuinka kannattavaa toiminta on"],
+	"CorrAns": 1,
+	"sivu": "26"
+	},
+	
+	{
+	"ID": 173,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Jos hyödyke on käytössä kuluva ja kulutuksessa avoin, se on julkishyödyke", "Jos hyödyke on käytössä kulumaton ja poissuljettava, se on yhteisresurssi", "Jos hyödyke on käytössä kulumaton ja kulutuksessa avoin, se on julkishyödyke", "Jos hyödyke on käyössä kuluva ja kulutuksessa avoin, se on yksityishyödyke"],
+	"CorrAns": 2,
+	"sivu": "29"
+	},	
+	
+
+	{
+	"ID": 174,
+	"Question": "Esimerkki julkishyödykkeestä on vaihdannassa käytettävän rahan vakaa arvo",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 175,
+	"Question": "Ulkoisvaikutukset, julkishyödykkeet ja yhteisresurssit ovat esimerkkejä siitä, miten markkinat voivat olla täydelliset ja silti toimia tehottomasti",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "30"
+	},	
+	
+
+	{
+	"ID": 176,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Mitä pidemmästä tarkastelujaksosta on kyse, sitä joustamattomampaa kysyntä yleensä on", "Mitä joustavampaa yrityksen tuotteeseen kohdistuva kysyntä on, sitä enemmän yrityksellä on markkinavoimaa", "Mitä joustamattomampaa yrityksen tuotteeseen kohdistuva kysyntä on, sitä leveämpi sen hinta-kustannusmarginaali yleensä on", "Molemmat 2. ja 3. ovat oikein"],
+	"CorrAns": 2,
+	"sivu": "35"
+	},
+	
+	{
+	"ID": 177,
+	"Question": "Jos A:n ja B:n kysynnän ristijousto on 0.9, mikä seuraavista EI pidä paikkaansa?",
+	"Answers": ["B:n kysyntä laskee 0,1%, kun A:n hinta laskee yhden prosentin", "Ristijousto on positiivinen, eli A ja B ovat substituutteja", "Kyseinen ristijousto voidaan mitata jakamalla A:n kysytyn määrän suhteellinen muutos B:n hinnan suhteellisella muutoksella"],
+	"CorrAns": 0,
+	"sivu": "36"
+	},	
+	
+
+	{
+	"ID": 178,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Jos hyödykkeen kysynnän mainontajousto on 0.9, kun mainontaa lisätään 10%, hyödykkeen kysyntä kasvaa 0.9%", "Vertikaalinen tuotedifferentaatio on tilanne, jossa kumpikaan kahden yrityksen tuotteista ei ole selkeästi kaikkien kuluttajien mielestä toista parempi", "Yritykset mainostavat yleensä erittäin paljon varsinkin toimialoilla, jotka ovat kannattamattomia voitto- tia hinta-kustannusmarginaaleilla mitattuna", "Kaikki ovat väärin"],
+	"CorrAns": 3,
+	"sivu": "37"
+	},
+	
+	{
+	"ID": 179,
+	"Question": "Mikä seuraavista väitteistä liittyen Lernerin hinnoitteluindeksiin pitää paikkansa?",
+	"Answers": ["Sääntö kuvaa optimaalista kysyntää", "Kirjaimellisesti sääntö soveltuu vain tilanteisiin, joissa vallitsee täydellinen kilpailu", "Yhtälön vasemmalla puolella on hinta-kustannusmarginaali suhteutettuna hintaan", "Indeksi yhdistää hinta-kustannusmarginaalin kysynnän ristijoustoon"],
+	"CorrAns": 2,
+	"sivu": "40"
+	},	
+	
+
+	{
+	"ID": 180,
+	"Question": "Mikä seuraavista väitteistä liittyen hintadiskriminointiin pitää paikkansa?",
+	"Answers": ["Perusidea on, että niiltä kuluttajilta, joiden kysyntä on joustamatonta, veloitetaan alhaisempi hinta kuin niiltä, joiden kysyntä on joustavaa", "Täydellinen asiakaskohtainen hintadiskriminointi on ensimmäisen asteen hintadiskriminointia", "Kun lähes samaa tuotetta myydään eri kuluttajaryhmille eri hintaan, kyseessä on kolmannen asteen hintadiskrimointi"],
+	"CorrAns": 1,
+	"sivu": "41"
+	},
+	
+	{
+	"ID": 181,
+	"Question": "Mikä seuraavista EI päde, kun monopolistinen kilpailu vallitsee?",
+	"Answers": ["Markkinoilla toimii suuri määrä yrityksiä, joista suurin osa on suuria suhteessa markkinan kokoon", "Alalle voi tulla ja sieltä voi poistua vapaasti ainakin pitkällä aikavälillä", "Yrityksien tuotteet ovat samankaltaisia, mutta eivät täsmälleen samanlaisia", "Yrityksen tuotteet ovat toisiaan kulutuksessa korvaavia (substituutteja), mutta eivät täsmälleeen samanlaisia"],
+	"CorrAns": 0,
+	"sivu": "42"
+	},	
+	
+
+	{
+	"ID": 182,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Yritys kärsii mittakaavahaitoista, kun AC(q) kasvaa, kun q kasvaa", "On mahdollista, että yrityksellä ei ole mittakaavaetuja eikä –haittoja", "Oppimiskäyrä viittaa siihen, mikä tuotannon mittakaava on tällä hetkellä eli nykyisellä tarkasteluajanjaksolla", "Monituoteyritykset tuottavat monia eri hyödykkeitä tai ainakin montaa eri mallia tai versiota samasta hyödykkeestä"],
+	"CorrAns": 2,
+	"sivu": "44"
+	},
+	
+	{
+	"ID": 183,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Täydellinen tieto tarkoittaa, että kaikki tietävät yhtä vähän tai yhtä paljon asiasta", "Epätäydellinen tieto tarkoittaa, että yksi ihminen tietää paljon vähemmän kuin muut", "Jos tieto on epätäydellistä, päätöksenteolle on ominaista, että siihen voi liittyä riski", ""],
+	"CorrAns": 2,
+	"sivu": "46"
+	},	
+	
+
+	{
+	"ID": 184,
+	"Question": "Mennyttä ristijouston hyötyä kutsutaan myös von Neumann-Morgenstern–hyödyksi",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "47"
+	},
+	
+	{
+	"ID": 185,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Odotettuja voittojaan maksimoiva yritys on riskiä etsivä", "Riskineutraalin yrityksen odotettu hyöty on lineaarinen funktio voittojen odotusarvosta", "Ihmiset ovat tyypillisesti riskineutraaleja"],
+	"CorrAns": 1,
+	"sivu": "48"
+	},	
+	
+
+	{
+	"ID": 186,
+	"Question": "Kätketyn valinnan ongelmasta käytetään usein nimitystä moraalikato-ongelma tai peitetoiminta (moral hazard)",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "50"
+	},
+	
+	{
+	"ID": 187,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Komplementaarisuus viittaa siihen, että kokonaisuus on suurempi tai parempi kuin sen osien summa", "Komplementaarisuus ei ole kovin tärkeää toiminnan tehokkuudelle", "Jos A, B ja C välillä on komplementaarinen suhde, niistä muodostuva liiketoimintakokonaisuus on subventoitu järjestelmä"],
+	"CorrAns": 0,
+	"sivu": "52"
+	},	
+	
+
+	{
+	"ID": 188,
+	"Question": "Yrityksen keskeiset taloudelliset voimavarat voivat olla suhdekohtaisia, jolloin ne ovat tuottavampia, kun niitä käytetään tarkoituksessa, joka tukee niiden ja muiden yritysten välisiä suhteita",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "54"
+	},
+	
+	{
+	"ID": 189,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Asetelmaa, jossa on yksi ostaja ja kaksi myyjää, kutsutaan kahdenväliseksi monopoliksi", "Suhdekohtaisuudella on erityistä merkitystä silloin, kun käytettävissä on vain täydellisiä sopimuksia", "Hyvin merkittävä suhdekohtaisuus voi selittää, miksi tuotantoketjun kaksi erillistä toimijaa yhdistyy osaksi samaa yritystä", "Opportunistinen käyttäytyminen viittaa siihen, että ajatellaan kaikkien yhteistä etua"],
+	"CorrAns": 2,
+	"sivu": "55"
+	},	
+	
+
+	{
+	"ID": 190,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Suoriteperusteisen palkan kannattavuus liittyy siihen, että jokin palkkausjärjestely johtaa suurempiin kokonaisansioihin kuin toinen", "Suoriteperusteisen palkan kannattavuus liittyy siihen, että ansiot muuttuvat, kun suoriutuminen jollakin mittarilla mitattuna muuttuu", "Suoriteperusteisen palkan kannattavuus liityy siihen, että suoritteita tehdään enemmän, koska työntekijöitä palkataan enemmän"],
+	"CorrAns": 1,
+	"sivu": "57"
+	},
+	
+	{
+	"ID": 191,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Työn taloustieteessä tarkastelun kohteena ovat mm. työn johtaminen", "Työpanoksen tarve eli työn tarjonta on johtettua kysyntää", "Monopsoni on tilanne, jossa työtä kysyy vain yksi ostaja", "Kaikki ovat oikein"],
+	"CorrAns": 2,
+	"sivu": "62"
+	},	
+	
+
+	{
+	"ID": 192,
+	"Question": "Jos kitka- ja etsintäkustannukset ovat merkittäviä, yksittäinen yritys kohtaa todennäköisesti laskevan työn tarjontakäyrän",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "63"
+	},
+	
+	{
+	"ID": 193,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Kun pohditaan, minkälaisia työntekijöitä yrityksen kannattaa palkata, paras ratkaisu ei tyypillisesti ole se, että valiteen ne, joilla tarvitsee maksaa alhaisinta palkkaa", "Kun pohditaan, minkälaisia työntekijöitä kannattaa palkata, paras ratkaisu on se, että palkataan ne, joiden tuottavuus on korkein", "Yksittäisten työntekijöiden tuottavuus työssään ei riipu siitä, kuinka osaavia kanssatyöntekijät ovat", "Molemmat 1. ja 2. ovat oikein"],
+	"CorrAns": 0,
+	"sivu": "63"
+	},	
+	
+
+	{
+	"ID": 194,
+	"Question": "Työntekijöiden vaihtuvuus on erityinen ongelma työnantajille ja työntekijöille aloilla ja niiden tehtävien osalta, joissa tarvittava osaaminen on yleistä ja siirrettävissä yrityksestä toiseen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "66"
+	},
+	
+	{
+	"ID": 195,
+	"Question": "Markkinoilta poistumiseen vaikuttavat kaikki muut paitsi jo uponneet alalletulon kustannukset, F",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "68"
+	},	
+	
+
+	{
+	"ID": 196,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Markkinoilla sopeutuminen tapahtuu niin, että yrityksiä poistuu alalta, jos kysyntä hiipuu", "Markkinatasapainossa hinta on sopeutunut, eikä alalletulo tai sieltä poistuminen ole kannattavaa", "Edvard Lazearin jokapaikanhöylä –malli tarkastelee palkkatyöhön ryhtymisen tilastoja", "Kaikki ovat väärin"],
+	"CorrAns": 1,
+	"sivu": "69"
+	},
+	
+	{
+	"ID": 197,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Tuoteinnovaatio voi tarkoittaa täysin uutta tavaraa tai palvelua", "Prosessi-innovaatio on se, että tietty tavara tai palvelu onnistutaan tuottamaan aikaisempaa alhaisemmin kustannuksin", "Inkrementaalinen innovaatio on tuoteinnovaation vastinpari", "Radikaali innovaatio viittaa teknologiseen epäjatkuvuuskohtaan"],
+	"CorrAns": 2,
+	"sivu": "72"
+	},	
+	
+
+	{
+	"ID": 198,
+	"Question": "Omistusvaikutus on yksi vertailukohtaisuuden ilmentymä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 199,
+	"Question": "Preferenssiennakointiharha on ihmisten mieltymysten (preferenssien) muuttumiseen liittyvä harha",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "78"
+	},	
+	
+
+	{
+	"ID": 200,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Saatavuusharha viittaa ihmisten taipumukseen päätellä tietyn ilmiön todennäköisyyttä siitä, kuinka helppoa heidän on muistaa esimerkkejä ilmiöstä", "Uponneiden kustannusten harha viittaa kasvavaan haluun sitoa lisävoimavaroja toimintaan sen vuoksi, että siihen on jo aiemmin sitouduttu", "Status quo –harha viittaa siihen, että ihmiset pitäytyvät päätöksissä, joita muutkin tekevät", ""],
+	"CorrAns": 0,
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 201,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Dominoidut strategiat voidaan eliminoida pois, koska rationaalinen pelaaja ei sellaisia käytä", "Paras vastaus on valita tai strategiaa, joka tuottaa osapuolelle parhaan mahdollisen tuleman, riippumatta siitä, mitä toinen valitsee", "Nash-tasapaino muodostuu, jos toisen strategia on paras vastaus"],
+	"CorrAns": 0,
+	"sivu": "85-86"
+	},	
+	
+
+	
+	{
+	"ID": 202,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Kun oligopoliyritysten keskeinen päätösmuuttuja on markkinoille myytäväksi tarjotun tuotteen määrä, puhutaan Bertrand-oligopolista", "Cournot-oligopoli sopii kuvaamaan markkinoita, joilla kapasiteetin käyttöaste on matala", "Bertrand-malli on käyttökelpoinen erityisesti, kun kapasiteettirajoitteita ei ole"],
+	"CorrAns": 2,
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 203,
+	"Question": "Eksplisiittinen kolluusio viittaa kartelliin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "97"
+	},	
+	
+
+	
+	{
+	"ID": 204,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Cournot-duopolin ominaisuus on se, että mikäli yrityksen rajakustannus laskee, sen kannattaa vähentää tuotantomääräänsä", "Cournot-duopolissa yritys, jolla on korkeammat rajakustannukset, saa pienemmän markkinaosuuden ja alhaisemmat voitot", "Molemmat ovat oikein"],
+	"CorrAns": 1,
+	"sivu": "98"
+	},
+	
+	{
+	"ID": 205,
+	"Question": "Mikä seuraavista EI ole osa maksutasetta?",
+	"Answers": ["Tilinpäätöstase", "Vaihtotase", "Pääomatase", "Rahoitustase"],
+	"CorrAns": 0,
+	"sivu": "117"
+	},	
+	
+
+	
+	{
+	"ID": 206,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Pääomatase kertoo, miten vaihtotaseen alijäämä rahoitetaan tai miten ylijäämä sijoitetaan ulkomaille", "Nimellisen arvon muutos = volyymin muutos – hintojen muutos", "Rahoitustase pitää kirjaa siitä, miten ulkomaisten saamisten ja velkojen erät ovat muuttuneet"],
+	"CorrAns": 2,
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 207,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Työvoimakustannusindeksi kuvaa työpanoksen hinnan kehitystä työnantajan näkökulmasta", "Ansiotasoindeksi kuvaa työpanoksen hinnan kehitystä yritysten näkökulmasta", "BKT:n hintaindeksi mittaa BKT:n kysynnän muutosta", "Molemmat 1. ja 2. ovat oikein"],
+	"CorrAns": 0,
+	"sivu": "119"
+	},	
+	
+
+	
+	{
+	"ID": 208,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Neoklassinen kasvuteoria on sama kuin AK-malli", "Innovaatioien laatua korostava teoria vallitsi 1960-luvulla", "Tiedon leviämistä korostava malli tuli Solow-Swan – mallin jälkeen", "Kaikki ovat väärin"],
+	"CorrAns": 2,
+	"sivu": "124"
+	},
+	
+	{
+	"ID": 209,
+	"Question": "Luonnollinen työttömyysaste viittaa työttömyyden siihen tasoon, että se on 2% väestöstä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "138"
+	}
+
+	
+]

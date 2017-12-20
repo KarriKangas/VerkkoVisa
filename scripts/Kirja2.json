@@ -1,0 +1,2021 @@
+[
+	{
+	"ID": 0,
+	"Question": "Yksityisen osakeyhtiön erityispiirteet on laissa huomioitu pelkästään yksityisiä osakeyhtiöitä koskevin säännöksin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 1,
+	"Question": "Konserni syntyy, jos yrityksellä on määräysvalta yhdessä tai useammassa muussa yrityksessä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "17"
+	},
+	
+	{
+	"ID": 2,
+	"Question": "Millä seuraavista tavoista määräysvalta ei synny?",
+	"Answers": ["Kun yrityksellä on enemmän kuin puolet kaikkien osakkeiden tai osuuksien tuottamasta äänimäärästä", "Kun yrityksellä on oikeus nimittää tai erottaa enemmistö hallituksen jäsenistä", "Kun yritys tosiasiallisesti käyttää määräysvaltaa", "Kun yrityksellä on enemmän kuin puolet kaikista osakkeista"],
+	"CorrAns": 3,
+	"sivu": "17-18"
+	},
+	
+	{
+	"ID": 3,
+	"Question": "Mikä seuraavista ei ole yksi pienen konsernin tunnusmerkiksi määritellyistä rajoista?",
+	"Answers": ["Liikevaihto tai sitä vastaava tuotto 7,3 milj. euroa", "Taseen loppusumma 3,65 milj. euroa", "Tytäryhtiöiden keskimääräinen omistusosuus 100 %", "Palveluksessa keskimäärin 50 henkilöä"],
+	"CorrAns": 2,
+	"sivu": "20"
+	},
+	
+	{
+	"ID": 4,
+	"Question": "Mikä seuraavista asiakirjoista ei aina kuulu tilinpäätökseen?",
+	"Answers": ["Tuloslaskelma", "Tase", "Rahoituslaskelma", "Liitetiedot"],
+	"CorrAns": 2,
+	"sivu": "22"
+	},
+	
+	{
+	"ID": 5,
+	"Question": "Mikä seuraavista eristä esitetään kululajikohtaisessa tuloslaskelmassa liikevoiton jälkeen?",
+	"Answers": ["Ostot tilikauden aikana", "Poistot ja arvonalentumiset", "Satunnaiset erät", "Liiketoiminnan muut kulut"],
+	"CorrAns": 2,
+	"sivu": "24"
+	},
+	
+	{
+	"ID": 6,
+	"Question": "Taseen vastattavaa-puoli jaetaan pysyviin vastattaviin ja vaihtuviin vastattaviin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "27"
+	},
+	
+	{
+	"ID": 7,
+	"Question": "Mikä seuraavista eristä ei kuulu taseen vastattavaa-puolelle?",
+	"Answers": ["Vieras pääoma", "Tilinpäätössiirtojen kertymät", "Rahat ja pankkisaamiset", "Oma pääoma"],
+	"CorrAns": 2,
+	"sivu": "27"
+	},
+	
+	{
+	"ID": 8,
+	"Question": "Taseen vastattavaa-puoli kertoo, miten yrityksen omaisuus on rahoitettu",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 9,
+	"Question": "Mikä seuraavista väittämistä on väärin? Kirjanpitolain mukaan pakollinen varaus tehdään vähentämällä tuotoista velvoitteista vastaisuudessa aiheutuvat menot ja menetykset, jos",
+	"Answers": ["Ne kohdistuvat päättyneeseen tai aikaisempaan tilikauteen", "Niiden toteutumista on tilinpäätöstä laadittaessa pidettävä epävarmana tai epätodennäköisenä", "Niitä vastaava tulo ei ole varma eikä todennäköinen", "Ne perustuvat lakiin tai kirjanpitovelvollisen sitoumukseen sivullista kohtaan"],
+	"CorrAns": 1,
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 10,
+	"Question": "Mikä seuraavista ei ole rahoituslaskelman rahavirta?",
+	"Answers": ["Investointien rahavirta", "Taloudellinen rahavirta", "Liiketoiminnan rahavirta", "Rahoituksen rahavirta"],
+	"CorrAns": 1,
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 11,
+	"Question": "Mikä seuraavista ei ole rahoituksen rahavirtojen osoittamaa oman tai vieraan pääoman muutosta tilikauden aikana?",
+	"Answers": ["Maksullinen oman pääoman lisäys", "Pysyvien vastaavien aineellisten ja aineettomien hyödykkeiden ja sijoitusten hankinnasta suoritetut maksut", "Pääomalainojen nostot ja takaisinmaksut", "Maksetut osingot"],
+	"CorrAns": 1,
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 12,
+	"Question": "Toimintakertomuksen sisällön perussäännökset sisältyvät yhteisöoikeudellisiin lakeihin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "34"
+	},
+	
+	{
+	"ID": 13,
+	"Question": "IAS-standardit ovat IFRS-standardien edeltäjiä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "34"
+	},
+	
+	{
+	"ID": 14,
+	"Question": "IFRS-lyhenne tulee sanoista International Financial Reporting Standards",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "34"
+	},
+	
+	{
+	"ID": 15,
+	"Question": "Mikä seuraavista väittämistä on väärin vertailtaessa suomalaista tilinpäätöskäytäntöä IFRS-tilinpäätöksiin?",
+	"Answers": ["IFRS-tilinpäätös mahdollistaa tai vaatii markkinahintaperusteen käyttöä uudelleenarvostusten kautta", "suomalainen tilinpäätösnormisto on yksityiskohtaisempi konsernitilinpäätöksen laadintaperiaatteissa", "IFRS korostaa sijoittajanäkökulmaa", "suomalainen tilinpäätöskäytäntö korostaa tuloslaskelman ja jakokelpoisen tuloksen laskemista"],
+	"CorrAns": 1,
+	"sivu": "35"
+	},
+	
+	{
+	"ID": 16,
+	"Question": "Kansainväliset tilinpäätösstandardit on määritelty IFRIC- ja SIC-standardeissa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "35"
+	},
+	
+	{
+	"ID": 17,
+	"Question": "Mitä seuraavista taseen eristä ei ole pakko esittää IFRS-taseessa?",
+	"Answers": ["Biologiset hyödykkeet", "Sijoituskiinteistöt", "Aineettomat hyödykkeet", "Meijerihyödykkeet"],
+	"CorrAns": 3,
+	"sivu": "35"
+	},
+	
+	{
+	"ID": 18,
+	"Question": "Tilintarkastajana voi toimia vain luonnollinen henkilö",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "39"
+	},
+	
+	{
+	"ID": 19,
+	"Question": "Mikä seuraavista ei ole ominaista mukautetulle tilintarkastuskertomukselle?",
+	"Answers": ["Se sisältää lisätiedon", "Se sisältää ansiomerkinnän", "Se on ehdollinen", "Se on kielteinen"],
+	"CorrAns": 1,
+	"sivu": "40"
+	},
+	
+	{
+	"ID": 20,
+	"Question": "Mikä seuraavista tilinpäätökseen liittyvistä väitteistä ei pidä paikkaansa?",
+	"Answers": ["Tilikaudeksi sanotaan sitä, ajanjaksoa, jolta yrityksen tulos on tuloslaskelman avulla esitetty", "Tilikauden pituus on aina 12 kk ", "Yleisin tilikausi on kalenterivuosi", "Tilinpäätös on yrityksen tilikaudelta laatima kokonaisuus"],
+	"CorrAns": 1,
+	"sivu": "19"
+	},
+	
+	{
+	"ID": 21,
+	"Question": "Tasetilin tehtävänä on selvittää yrityksen kuluneen tilikauden aikana syntynyt tuloksen suuruus ja mistä tekijöistä se koostuu",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "19"
+	},
+	
+	{
+	"ID": 22,
+	"Question": "Mikä seuraavista eristä ei kuulu rahoituslaskelman liiketoiminnan rahavirtaan?",
+	"Answers": ["Liikevoitto", "Käyttöpääoman muutos", "Saadut korot", "Aineellisten hyödykkeiden luovutustulot"],
+	"CorrAns": 3,
+	"sivu": "33"
+	},
+	
+	{
+	"ID": 23,
+	"Question": "Mikä seuraavista ei kuulu taseen vaihtuviin vastaaviin?",
+	"Answers": ["Sijoitukset", "Saamiset", "Vaihto-omaisuus", "Rahoitusarvopaperit"],
+	"CorrAns": 0,
+	"sivu": "27"
+	},
+	
+	{
+	"ID": 24,
+	"Question": "Mikä seuraavista ei kuulu kirjassa esitettyyn Amer Sports Oyj:n esimerkinomaiseen tilintarkastuskertomuksen arviointikohteisiin?",
+	"Answers": ["Hallituksen ja toimitusjohtajan vastuu", "Konsernitilinpäätös", "Toimintakertomus", ". Yrityksen kannattavuus"],
+	"CorrAns": 3,
+	"sivu": "40-42"
+	},
+	
+	{
+	"ID": 25,
+	"Question": "Konsernin tytäryhtiön tulee laatia konsernitilinpäätös",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "19"
+	},
+	
+	{
+	"ID": 26,
+	"Question": "Taseen tehtävä on kuvata yrityksen taloudellista asemaa tilinpäätöspäivänä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "27"
+	},
+	
+	{
+	"ID": 27,
+	"Question": "Vaihtuvat vastaavat ovat yleensä yrityksen hallussa vajaan tilikauden ajan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "28"
+	},
+	
+	{
+	"ID": 28,
+	"Question": "Kirjanpitoasetuksen mukainen tuloslaskelmakaavio perustuu kululajipohjaiseen jaotteluun",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 29,
+	"Question": "Mikä seuraavista ei ole yksi yleisistä tilinpäätösperiaatteista Suomessa?",
+	"Answers": ["Oletus kirjanpitovelvollisen toiminnan jatkuvuudesta", "Tilikauden tuloksesta riippumaton varovaisuus", "Kunkin hyödykkeen ja muun tase-eriin merkittävän erän erillisarvostus", "Tilinavauksen perustuminen edellisen tilikauden päättäneeseen tuloslaskelmaan"],
+	"CorrAns": 3,
+	"sivu": "22"
+	},
+	
+	{
+	"ID": 30,
+	"Question": "Kaikkien yritysten tuloslaskelmissa on lähes 40 erää, jotka ovat tarpeen oikean ja riittävän kuvan antamiseksi",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "23"
+	},
+	
+	{
+	"ID": 31,
+	"Question": "Poistoista käytetään yleensä nimitystä suunnitelman mukaiset poistot",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "28"
+	},
+	
+	{
+	"ID": 32,
+	"Question": "Mikä seuraavista ei kuulu pysyvien vastaavien sijoituksiin?",
+	"Answers": ["Osuudet saman konsernin yrityksissä", "Saamiset saman konsernin yrityksiltä", "Muut saamiset", "Rahoitusarvopaperit"],
+	"CorrAns": 3,
+	"sivu": "28"
+	},
+	
+	{
+	"ID": 33,
+	"Question": "Poistoero kertoo käyttöomaisuudesta tehtyjen suunnitelman mukaisten poistojen ja kirjanpidon poistojen välisen erotuksen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 34,
+	"Question": "Pääomalainalla on kaikkia muita velkoja parempi asema yhtiön selvitystilassa ja konkurssissa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 35,
+	"Question": "Millä seuraavista tavoista liiketoiminnan rahavirrat voidaan esittää?",
+	"Answers": ["Suoralla nettoperusteisella laskelmalla", "Epäsuoralla nettoperusteisella laskelmalla", "Suoralla bruttoperusteisella laskelmalla", "Ei millään edellä mainituista"],
+	"CorrAns": 2,
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 36,
+	"Question": "Tilintarkastaja voidaan jättää valitsematta pienessä yhteisössä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "39"
+	},
+	
+	{
+	"ID": 37,
+	"Question": "Mikä seuraavista eristä kuuluu toimintokohtaiseen tuloslaskelmaan?",
+	"Answers": ["Myynnin ja markkinoinnin kulut", "Valmistus omaan käyttöön", "Poistot ja arvonalentumiset", "Henkilöstökulut"],
+	"CorrAns": 0,
+	"sivu": "25"
+	},
+	
+	{
+	"ID": 38,
+	"Question": "Bruttokate on esitettynä kululajikohtaisessa tuloslaskelmassa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "25"
+	},
+	
+	{
+	"ID": 39,
+	"Question": "Ennakkomaksuja voi olla sekä pysyvien vastaavien aineettomien että aineellisten hyödykkeiden erissä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "28"
+	},
+	
+	{
+	"ID": 40,
+	"Question": "Osakeyhtiön lisäksi yritystoimintaa voi Suomessa harjoittaa esimerkiksi osuusyhtiö",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "17"
+	},
+	
+	{
+	"ID": 41,
+	"Question": "Mikä seuraavista kirjanpitovelvollisuutta koskevista väittämistä on väärin?",
+	"Answers": ["Jokainen, joka harjoittaa liike- tai ammattitoimintaa, on toiminnastaan kirjanpitovelvollinen", "Kirjanpitovelvollisen on laadittava tilinpäätös, jonka avulla harmaata taloutta pystytään torjumaan", "Tilinpäätös perustuu kirjanpitovelvollisen tilikauden aikana pitämään kirjanpitoon", "Tilinpäätösinformaation laajuuden vaatimukset vaihtelevat mm. kirjanpitovelvollisen koon mukaan"],
+	"CorrAns": 1,
+	"sivu": "19"
+	},
+	
+	{
+	"ID": 42,
+	"Question": "Pääkirjanpito kuvaa liiketapahtumia aikajärjestyksessä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "19"
+	},
+	
+	{
+	"ID": 43,
+	"Question": "Miksi seuraavista konsernia ei voida kutsua tuotanto- ja vaihdantaprosessien perusteella?",
+	"Answers": ["Vertikaaliseksi", "Horisontaaliseksi", "Lineaariseksi", "Sekakonserniksi"],
+	"CorrAns": 2,
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 44,
+	"Question": "Rinnakkaiskonsernissa tytäryhtiöt ovat toisiinsa nähden samanlaisessa asemassa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 45,
+	"Question": "Koska Suomi liittyi Euroopan unioniin vasta 1995, se voi poiketa kirjanpitolainsäädännössään EU:n tilinpäätösdirektiivien periaatteista",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "21"
+	},
+	
+	{
+	"ID": 46,
+	"Question": "Kirjanpitoasetus antaa yleiset määräykset kirjanpidosta ja tilinpäätöksestä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "22"
+	},
+	
+	{
+	"ID": 47,
+	"Question": "Vuonna 2000 tai sen jälkeen alkavilta tilikausilta EU-alueella sijaitsevien pörssiyhtiöiden on laadittava konsolidoidut tilinpäätökset kansainvälisten tilinpäätösstandardien mukaisesti",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "34"
+	},
+	
+	{
+	"ID": 48,
+	"Question": "Yksityisen osakeyhtiön vähimmäisosakepääoma on 2 500 euroa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 49,
+	"Question": "Mikä seuraavista väittämistä ei pidä paikkansa?",
+	"Answers": ["Amer Sports Oyj on osakeyhtiö", "Amer Sports Oyj on pörssiyhtiö", "Amer Sports Oyj on yksityinen osakeyhtiö", "Amer Sports Oyj on emoyhtiö"],
+	"CorrAns": 2,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 50,
+	"Question": "Julkisesti noteeratun yrityksen markkina-arvo voidaan laskea kertomalla osakkeiden lukumäärä osakkeen markkinahinnalla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "45"
+	},
+	
+	{
+	"ID": 51,
+	"Question": "Mikä seuraavista ei ole yrityksen sidosryhmä?",
+	"Answers": ["Henkilökunta", "Valtio", "Viranomaiset", "Omistajat"],
+	"CorrAns": 2,
+	"sivu": "45"
+	},
+	
+	{
+	"ID": 52,
+	"Question": "Mikä seuraavista ei ole merkittävä päätöskriteeri yritykseen sijoittamisessa?",
+	"Answers": ["Osingonjakopolitiikka", "Osingonmaksukyky", "Taloudellinen menestys", "Kasvuodotukset ja siihen liittyvät riskit"],
+	"CorrAns": 3,
+	"sivu": "47"
+	},
+	
+	{
+	"ID": 53,
+	"Question": "Tilinpäätösanalyysissa tulee muokata tilinpäätöksen tietoja hyväksikäyttäjän kannalta käyttökelpoisempaan muotoon sekä arvioida, kuinka luotettavia tilinpäätöksen tiedot ovat juuri tästä käyttäjänäkökulmasta tarkasteltuna",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "47"
+	},
+	
+	{
+	"ID": 54,
+	"Question": "Mitä seuraavista VeHa-menetelmä tarkoittaa?",
+	"Answers": ["Velan hallinta", "Vedetään hatusta", "Verkoston hallinta", "Verotuksen harmonisointi"],
+	"CorrAns": 1,
+	"sivu": "48"
+	},
+	
+	{
+	"ID": 55,
+	"Question": "Mikä seuraavista ei ole tunnusomaista toimiala-analyysille?",
+	"Answers": ["Pyrkimys tunnistaa ja arvioida niitä tekijöitä, jotka vaikuttavat yrityksen toimialan kehitykseen", "Yrityksen todennäköisen menestyspotentiaalin selville saaminen", "Kilpailevien yritysten toimenpiteiden arvioiminen", "Yritysten liiketoiminnallisten ratkaisujen arvioiminen"],
+	"CorrAns": 3,
+	"sivu": "49"
+	},
+	
+	{
+	"ID": 56,
+	"Question": "Kiina ja Yhdysvallat ovat ottaneet IFRS-normiston ensimmäisinä käyttöön",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "50"
+	},
+	
+	{
+	"ID": 57,
+	"Question": "Tunnuslukuanalyysissa kohteina ovat yrityksen koko ja kasvu, kannattavuus, tehokkuus, vakavaraisuus ja maksuvalmius",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "51"
+	},
+	
+	{
+	"ID": 58,
+	"Question": "Minkä seuraavista avulla ei voi arvioida yrityksen kykyä täyttää velvollisuutensa sidosryhmille?",
+	"Answers": ["Kasvu", "Vakavaraisuus", "Likviditeetti", "Osaketuotto"],
+	"CorrAns": 0,
+	"sivu": "51"
+	},
+	
+	{
+	"ID": 59,
+	"Question": "Yrityksen arvonmäärittämisen lähtökohtana on, että osakkeenomistajalle vain niillä kassavirroilla, jotka he saavat yrityksestä, on merkitystä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "53"
+	},
+	
+	{
+	"ID": 60,
+	"Question": "Mikäli yritys maksaa saman, 10 000 euron suuruisen osingon vuodesta toiseen, mikä on yrityksen arvo? Sijoittajien tuottovaatimus on 15 %",
+	"Answers": ["1 500 euroa", "66 667 euroa", "11 500 euroa", "8 695 euroa"],
+	"CorrAns": 1,
+	"sivu": "54"
+	},
+	
+	{
+	"ID": 61,
+	"Question": "Gordonin kasvumalli ei huomioi osinkojen muutosta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "54"
+	},
+	
+	{
+	"ID": 62,
+	"Question": "Osinkopohjaisia arvonmääritysmalleja voidaan pitää parempina kuin yrityksen kassavirta tai tulospohjaisia malleja",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "55"
+	},
+	
+	{
+	"ID": 63,
+	"Question": "Yrityksen kassavirta vuonna 1 on 5 000 ja seuraavana vuonna 10 000. Osakkeenomistajien tuottovaatimus on 10 %. Yrityksen arvo vuonna 0 on 13 636 euroa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "55"
+	},
+	
+	{
+	"ID": 64,
+	"Question": "Mitä seuraavista ei tarvita vapaan kassavirran laskemiseen?",
+	"Answers": ["Myynti (euroina)", "Osingon määrä", "Liikevoitto verojen jälkeen", "Lisäinvestoinnit (euroina)"],
+	"CorrAns": 1,
+	"sivu": "57"
+	},
+	
+	{
+	"ID": 65,
+	"Question": "Mikä seuraavista ei ole arvonmuodostaja?",
+	"Answers": ["Liikevaihto", "Kannattavuus", "Käytetyn pääoman määrä", "Pääoman kustannus"],
+	"CorrAns": 0,
+	"sivu": "59"
+	},
+	
+	{
+	"ID": 66,
+	"Question": "Mikä seuraavista tunnusluvuista on yhteydessä pääoman kustannukseen?",
+	"Answers": ["Tehokkuus", "Vakavaraisuus", "Kannattavuus", "Koko ja kasvu"],
+	"CorrAns": 1,
+	"sivu": "60"
+	},
+	
+	{
+	"ID": 67,
+	"Question": "Yrityksen markkinaosuudella voidaan arvioida yrityksen kokoa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "64"
+	},
+	
+	{
+	"ID": 68,
+	"Question": "Absoluuttisilla kannattavuuslukemilla eri yritysten välinen vertailu on helppoa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "67"
+	},
+	
+	{
+	"ID": 69,
+	"Question": "Mikä seuraavista kannattavuuden tunnusluvuista ei huomioi nettotulosta lainkaan?",
+	"Answers": ["Nettotulosprosentti", "Sijoitetun pääoman tuottoprosentti", "Oman pääoman tuottoprosentti", "Liikevoittoprosentti"],
+	"CorrAns": 3,
+	"sivu": "67-69"
+	},
+	
+	{
+	"ID": 70,
+	"Question": "Oman pääoman tuottoprosentin lyhenne on ROIC",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "69"
+	},
+	
+	{
+	"ID": 71,
+	"Question": "Yrityksen nettotulos on 30 000 euroa. Yrityksen oma pääoma on keskimäärin 50 000 euroa. Mikä on yrityksen oman pääoman tuottoprosentti",
+	"Answers": ["37,5 %", "62,5 %", "60 %", "167 %"],
+	"CorrAns": 2,
+	"sivu": "69"
+	},
+	
+	{
+	"ID": 72,
+	"Question": "Mikä seuraavista ei ole kannattavuuden tunnusluku?",
+	"Answers": ["Vapaan kassavirran tuotto", "Sijoitetun pääoman tuottoprosentti", "Oman pääoman tuottoprosentti", "Vaihto-omaisuuden kiertonopeus"],
+	"CorrAns": 3,
+	"sivu": "73"
+	},
+	
+	{
+	"ID": 73,
+	"Question": "Vapaan kassavirran käyttökelpoisuus kannattavuuden mittarina on kyseenalainen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "71"
+	},
+	
+	{
+	"ID": 74,
+	"Question": "Yrityksen liikevaihto on 14 miljoonaa euroa ja taseen koko pääoma 7 miljoonaa euroa. Yrityksen koko pääoman kiertonopeus on 2",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "72"
+	},
+	
+	{
+	"ID": 75,
+	"Question": "Tilinpäätöstiedoilla vaihto-omaisuuden kiertonopeutta on mahdotonta laskea tarkasti",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "73"
+	},
+	
+	{
+	"ID": 76,
+	"Question": "Yrityksen liikevaihto on 10 miljoonaa euroa ja vaihto-omaisuuden arvo 6 miljoonaa euroa. Mikä seuraavista väittämistä on oikein?",
+	"Answers": ["Vaihto-omaisuuden kiertonopeus on 0,6 ja kiertoaika n. 608 päivää", "Vaihto-omaisuuden kiertonopeus on 1,67 ja kiertoaika 219 päivää", "Vaihto-omaisuuden kiertonopeus on 0,6 ja kiertoaika 219 päivää", "Vaihto-omaisuuden kiertonopeus on 1,67 ja kiertoaika n. 608 päivää"],
+	"CorrAns": 1,
+	"sivu": "73-74"
+	},
+	
+	{
+	"ID": 77,
+	"Question": "Yritystoimintaa voi rahoittaa vieraan pääoman ehtoisella ja oman pääoman ehtoisella rahoituksella",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "75"
+	},
+	
+	{
+	"ID": 78,
+	"Question": "Mikä seuraavista tunnusluvuista ei kuvaa yrityksen rahoituksellista asemaa?",
+	"Answers": ["Nettovelkaantumisaste", "Omavaraisuusaste", "Lainojen hoitoaika", "Current Ratio"],
+	"CorrAns": 3,
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 79,
+	"Question": "Mikä seuraavista väittämistä kuvaa omaa pääomaa?",
+	"Answers": ["Pääoma pitää aikanaan maksaa pois", "Pääoman määrään voidaan vaikuttaa ottamalla lainaa tai maksamalla lainaa pois", "Pääoman määrään vaikuttaa yrityksen nettotulos", "Suurempi pääoman osuus tekee rahoitukselliset vaikeudet todennäköisemmäksi"],
+	"CorrAns": 2,
+	"sivu": "75"
+	},
+	
+	{
+	"ID": 80,
+	"Question": "Nettovelkaantumisasteeseen vaikuttavat korollinen vieras pääoma, rahat ja arvopaperit sekä omistajien tuottovaatimus",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 81,
+	"Question": "Yrityksen oma pääoma on 8 miljoonaa euroa. Taseen koko pääoma on 24 miljoonaa euroa. Mikä on yrityksen omavaraisuusaste?",
+	"Answers": ["33 %", "25 %", "75 %", "67 %"],
+	"CorrAns": 0,
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 82,
+	"Question": "Yrityksien lainojen hoitoajat ovat seuraavat: Yritys A 3,5; Yritys B 2,6 ja Yritys C 5,6. Kaikilla yrityksillä on yhtä suuri käyttökate Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Yritys B:n korollinen nettovelka on suurempi kuin Yritys C:n", "Yritys C pystyy parhaiten selviämään vieraan pääoman rahoittajien velvoitteista tuloksentekokyvyn avulla", "Yritys B pystyy parhaiten selviämään vieraan pääoman rahoittajien velvoitteista tuloksentekokyvyn avulla", "Mikään väittämistä ei pidä paikkansa"],
+	"CorrAns": 2,
+	"sivu": "77"
+	},
+	
+	{
+	"ID": 83,
+	"Question": "Yrityksen current ratio antaa yleensä korkeamman arvon kuin quick ratio",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 84,
+	"Question": "Mikä seuraavista kuuluu rahoitusomaisuuteen",
+	"Answers": ["Kassa", "Rahoitusarvopaperit", "Lyhytaikaiset saamiset", "Kaikki ylläolevat"],
+	"CorrAns": 3,
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 85,
+	"Question": "Mikä seuraavista väittämistä koskien quick ratiota ja current ratiota pitää paikkansa?",
+	"Answers": ["Yritysanalyytikot raportoivat edellä mainittuja tunnuslukuja", "Amer Sports Oyj:n pitkän aikavälin tavoitteissa tunnusluvut ovat tärkeässä roolissa", "Poikkeuksellisissa olosuhteissa tunnusluvut menettävät merkityksensä", "Mikään näistä ei pidä paikkaansa"],
+	"CorrAns": 3,
+	"sivu": "79"
+	},
+	
+	{
+	"ID": 86,
+	"Question": "Mikä seuraavista toimijoista katsotaan yrityksen sidosryhmäksi?",
+	"Answers": ["Lehdistö", "Kilpaileva yritys", "Henkilökunta", "Viranomainen"],
+	"CorrAns": 2,
+	"sivu": "45"
+	},
+	
+	{
+	"ID": 87,
+	"Question": "Mikä seuraavista on yksi nettotulokseen vaikuttavista komponenteista?",
+	"Answers": ["Voittomarginaali", "Pysyvät vastaavat", "Vaihtuvat vastaavat", "Pääomarakenne"],
+	"CorrAns": 0,
+	"sivu": "60"
+	},
+	
+	{
+	"ID": 88,
+	"Question": "Mikä seuraavista on yksi käytettyyn pääomaan vaikuttavista komponenteista?",
+	"Answers": ["Voittomarginaali", "Vaihtuvat vastaavat", "Pääomarakenne", "Liiketoiminnan riskit"],
+	"CorrAns": 1,
+	"sivu": "60"
+	},
+	
+	{
+	"ID": 89,
+	"Question": "Mikä seuraavista on yksi pääoman kustannukseen vaikuttavista komponenteista?",
+	"Answers": ["Myynti ja sen kehitys", "Pysyvät vastaavat", "Voittomarginaali", "Liiketoiminnan riskit"],
+	"CorrAns": 3,
+	"sivu": "60"
+	},
+	
+	{
+	"ID": 90,
+	"Question": "Nettokäyttöpääomaan kuuluvat koneet ja kalusto, vaihto-omaisuus, myyntisaamiset ja ostovelat",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "73"
+	},
+	
+	{
+	"ID": 91,
+	"Question": "Osakeannit kasvattavat vierasta pääomaa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "75"
+	},
+	
+	{
+	"ID": 92,
+	"Question": "Pääomarakenne ei heijastu yrityksen arvostukseen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 93,
+	"Question": "Rahoituksellisen aseman tunnuslukuja käytetään, kun arvioidaan rahoituksellista asemaa suhteessa toimialan yleiseen tasoon",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "78"
+	},
+	
+	{
+	"ID": 94,
+	"Question": "Yrityksen liikevoitto on 50 miljoonaa euroa. Yrityksen nettotulos on 10 miljoonaa euroa. Yrityksen liikevaihto on 130 miljoonaa euroa. Mikä seuraavista pitää paikkansa?",
+	"Answers": ["Yrityksen nettotulosprosentti on 20 %", "Yrityksen liikevoittoprosentti on alle 40 %", "Yrityksen nettotulosprosentti on suurempi kuin liikevoittoprosentti", "Kaikki ylläolevat ovat väärin"],
+	"CorrAns": 1,
+	"sivu": "67"
+	},
+	
+	{
+	"ID": 95,
+	"Question": "Kiertonopeuden tunnusluvut vastaavat kysymykseen: ”Kuinka monta päivää?”",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "74"
+	},
+	
+	{
+	"ID": 96,
+	"Question": "IFRS-tilinpäätösnormiston keskeisenä tavoitteena on palvella kansainvälisiä sijoittajia",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "48"
+	},
+	
+	{
+	"ID": 97,
+	"Question": "Inflaatio ei vaikuta hankittujen varallisuuserien arvoihin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "80"
+	},
+	
+	{
+	"ID": 98,
+	"Question": "Yrityksen rahoituskysymykset jakautuvat kahtia taseen mukaisesti",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "85"
+	},
+	
+	{
+	"ID": 99,
+	"Question": "Yritys tuottaa omistajilleen taloudellista lisäarvoa, jos sen pääoman keskimääräinen painotettu kustannus on suurempi kuin investointien tuotot",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "86"
+	},
+	
+	{
+	"ID": 100,
+	"Question": "Mitä seuraavista hyödyistä Amer Sports Oyj tavoitteli osakeannillaan?",
+	"Answers": ["Taseen vahvistaminen", "Operatiivisen joustavuuden parantaminen", "Operatiivisen tehokkuuden parantaminen", "Kaikkia ylläolevia"],
+	"CorrAns": 3,
+	"sivu": "87"
+	},
+	
+	{
+	"ID": 101,
+	"Question": "Mikä seuraavista ei liity vieraaseen pääomaan?",
+	"Answers": ["Pankkilaina", "Osake-emissio", "Joukkovelkakirja", "Bullet-laina"],
+	"CorrAns": 1,
+	"sivu": "91"
+	},
+	
+	{
+	"ID": 102,
+	"Question": "Kotitaloudet ovat esimerkki rahoituksen ylijäämäsektorista",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "91"
+	},
+	
+	{
+	"ID": 103,
+	"Question": "Mitä likvidimpi sijoitus, sitä vaikeampi se on muuttaa välittömästi käteiseksi rahaksi",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "91"
+	},
+	
+	{
+	"ID": 104,
+	"Question": "Lainaa ottava yritys kuuluu rahoitusmarkkinoilla ylijäämäsektoriin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "91"
+	},
+	
+	{
+	"ID": 105,
+	"Question": "Mikä seuraavista ei kuvaa Suomea tilanteessa, jossa Suomella ei olisi omia rahoitusmarkkinoita?",
+	"Answers": ["Osakeantien järjestäminen mahdollista vain yrityksen pääkonttorista myymällä", "Sijoittajat vaatisivat osakesijoitukselle likviditeettipreemion", "Likviditeettipreemion lisäksi erillistä riskipreemiota ei vaadittaisi", "Sijoittajien mahdollisuudet hajauttaa omistustaan olisivat rajalliset"],
+	"CorrAns": 2,
+	"sivu": "92-93"
+	},
+	
+	{
+	"ID": 106,
+	"Question": "Mikä seuraavista ei ole rahoitusmarkkinoiden tehtävä?",
+	"Answers": ["Varojen allokointi mahdollisimman tehokkaasti yli- ja alijäämäisen sektorin välillä", "Kilpailukyvyn parantaminen ja viennin edistäminen", "Rahoitussopimusten likvidisyyden parantaminen", "Riskin hajauttaminen"],
+	"CorrAns": 1,
+	"sivu": "93"
+	},
+	
+	{
+	"ID": 107,
+	"Question": "Pörssinoteeratut yhtiöt ovat sitoutuneet julkaisemaan ns. osavuosikatsauksen neljän kuukauden välein",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 108,
+	"Question": "Jälkimarkkinakelpoisilla joukkovelkakirjalainoilla voi käydä kauppaa julkisella markkinapaikalla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "95"
+	},
+	
+	{
+	"ID": 109,
+	"Question": "Valtion obligaatioita pidetään yleensä riskillisempinä kuin julkisesti noteerattujen yritysten",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "97"
+	},
+	
+	{
+	"ID": 110,
+	"Question": "Sekä oman että vieraan pääoman ehtoisen rahan hinta määräytyy riskittömän koron ja riskilisän summana",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "97"
+	},
+	
+	{
+	"ID": 111,
+	"Question": "Mikä seuraavista ei ole luottoluokittaja?",
+	"Answers": ["Oracle", "Standard & Poor’s", "Moody’s", "Fitch"],
+	"CorrAns": 0,
+	"sivu": "124"
+	},
+	
+	{
+	"ID": 112,
+	"Question": "Mikä seuraavista väittämistä on väärin?",
+	"Answers": ["Standard & Poor’sin korkein luottoluokitus on AAA", "Moody’s tarkentaa luokituksia luvuilla 1-3", "Standard & Poor’sin luottoluokan BB omaavaa lainaa kutsutaan Investment grade–lainaksi", "Roskalainoista käytetään myös nimitystä High yield"],
+	"CorrAns": 2,
+	"sivu": "99"
+	},
+	
+	{
+	"ID": 113,
+	"Question": "Esimerkkinä reaalivakuudesta on se, että yritys sitoutuu pitämään omavaraisuusasteensa yli 25 prosentissa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "100"
+	},
+	
+	{
+	"ID": 114,
+	"Question": "Mikä seuraavista väittämistä koskien sopimusvakuuksia ei pidä paikkansa?",
+	"Answers": ["Sopimusvakuuksia kutsutaan kovenanteiksi", "Suurten yritysten lainoissa ei yleensä käytetä sopimusvakuuksia", "Sopimusvakuuksien avulla voidaan laskea luoton korkomarginaalia", "Sopimusvakuuksien avulla voidaan pidentää luoton juoksuaikaa"],
+	"CorrAns": 1,
+	"sivu": "100-101"
+	},
+	
+	{
+	"ID": 115,
+	"Question": "Agenttiongelmia merkitystä voidaan vähentää rahoitusmarkkinoiden instrumenteilla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "102"
+	},
+	
+	{
+	"ID": 116,
+	"Question": "Osakkeenomistajien ja vieraan pääoman ehtoisen rahoittajan ristiriidassa osakkeenomistajat haluavat välttää riskejä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "102"
+	},
+	
+	{
+	"ID": 117,
+	"Question": "Mikä seuraavista pörssiyhtiöitä koskevista väittämistä ei pidä paikkansa?",
+	"Answers": ["Pörssiyhtiöille muodostuu markkinahinta", "Sijoittajan on vaikea verrata tuottoja ja riskejä", "Pörssiyhtiön oman pääoman kustannus on alhaisempi", "Listautuminen tuo markkinointiin ja rekrytointiin liittyviä arvoja"],
+	"CorrAns": 1,
+	"sivu": "103"
+	},
+	
+	{
+	"ID": 118,
+	"Question": "Mikä seuraavista osakesijoittamista koskevista väitteistä on väärin?",
+	"Answers": ["Osakkeiden avulla voi hajauttaa riskiä", "Osakesijoituksen arvo on sidottu korkotason kehitykseen", "Osakkeen saa helposti muutettua käteiseksi rahaksi", "Pitkällä aikavälillä osakesijoittaminen lyö laudalta muut sijoitusmuodot"],
+	"CorrAns": 1,
+	"sivu": "104"
+	},
+	
+	{
+	"ID": 119,
+	"Question": "Hyvin menestyvä yritys maksaa lainastaan korkeampaa korkoa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "105"
+	},
+	
+	{
+	"ID": 120,
+	"Question": "Osakepääoman riskipreemio määräytyy rahoitusteorian mukaan WACC-mallilla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 121,
+	"Question": "Arvopapereiden ollessa positiivisesti korreloituneita toisen arvopaperin arvon noustessa toisen arvo laskee",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 122,
+	"Question": "Hajauttamisella eli diversifioinnilla tarkoitetaan sitä, että yhden sijoituskohteen sijasta säästetään useisiin erilaisiin sijoituskohteisiin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 123,
+	"Question": "Mikä seuraavista ei ole hajauttamisen seuraus?",
+	"Answers": ["Portfolion tuoton volatiliteetti laskee", "Portfolion epäsystemaattinen riski pienenee", "Portfolion systemaattinen riski pienenee", "Volatiliteetti laskee erityisesti, jos uusien osakkeiden korrelaatio vanhojen kanssa on alhainen"],
+	"CorrAns": 2,
+	"sivu": "108-109"
+	},
+	
+	{
+	"ID": 124,
+	"Question": "Mikä seuraavista väittämistä on väärin?",
+	"Answers": ["Beta-kertoimella kuvataan sitä määrää systemaattista riskiä, joka tietyllä sijoituskohteella on suhteessa keskimääräiseen sijoitukseen", "Koko osakemarkkinoiden beta-kerroin on yksi", "Mitä riskisempi yritys, sitä matalampi beta-kerroin", "Yritys A:n beta-kerroin on 1,3 ja yrityksen B 0,8. A on riskisempi kuin B"],
+	"CorrAns": 2,
+	"sivu": "109"
+	},
+	
+	{
+	"ID": 125,
+	"Question": "Korkeammalla tuottovaatimuksella diskontattujen tulevien kassavirtojen arvo on alhaisempi eli yrityksen arvo on alhaisempi",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "109"
+	},
+	
+	{
+	"ID": 126,
+	"Question": "Pääoman keskimääräinen painotettu kustannus lasketaan niin, että kunkin pääomaerän kustannus kerrotaan pääoman suhteellisella osuudella koko pääomasta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "110"
+	},
+	
+	{
+	"ID": 127,
+	"Question": "Yrityksen oman pääoman kustannus on 5 % ja vieraan pääoman 3 %. Yrityksen oman pääoman määrä on 4 miljoonaa euroa ja vieraan pääoman määrä 5 miljoonaa euroa. Yrityksen WACC-arvo on n. 3,89 %",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "110"
+	},
+	
+	{
+	"ID": 128,
+	"Question": "WACC on joskus suurempi kuin sekä oman että vieraan pääoman kustannus",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "110"
+	},
+	
+	{
+	"ID": 129,
+	"Question": "Hybridilaina on esimerkki oman pääoman ehtoisesta lainasta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 130,
+	"Question": "Mikä seuraavista väittämistä on väärin?",
+	"Answers": ["Hybridilainan koronmaksu on taattu", "Hybridilainalla ei ole eräpäivää", "Hybridilaina ei ole selkeästi omaa eikä vierasta pääomaa", "Hybridilainan sijoittajat saavat parempaa korkoa kuin tavallista lainaa tarjoavat"],
+	"CorrAns": 0,
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 131,
+	"Question": "Optiolainaan liittyvä velkakirja on yleensä ns. bullet-laina",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "112"
+	},
+	
+	{
+	"ID": 132,
+	"Question": "Velkojan kannattaa vaihtaa vaihtovelkakirjalaina osakkeiksi, jos osakekurssi tippuu alle sen tason, millä laskennallisella hinnalla lainanhaltija pystyy osakkeet hankkimaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "112"
+	},
+	
+	{
+	"ID": 133,
+	"Question": "Pankin edustaja määrittää markkinoiden yleiset riskipreemiot",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "98"
+	},
+	
+	{
+	"ID": 134,
+	"Question": "Pankkien on jaettava ei-julkiset luottoluokituksensa kilpailijoille",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "100"
+	},
+	
+	{
+	"ID": 135,
+	"Question": "Yhtiön maksaessa osinkoja sen omavaraisuusaste laskee",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "101"
+	},
+	
+	{
+	"ID": 136,
+	"Question": "EBIT kertoo yrityksen tuloksen korkojen ja verojen jälkeen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "103"
+	},
+	
+	{
+	"ID": 137,
+	"Question": "Osakkeenomistajien kokonaistuotto muodostuu osinkojen ja osakkeen hinnan arvonnousun summana",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "105"
+	},
+	
+	{
+	"ID": 138,
+	"Question": "Lainalle annettu vakuus vaikuttaa lainarahan riskipreemioon",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "100"
+	},
+	
+	{
+	"ID": 139,
+	"Question": "Mikä seuraavista lyhenteistä ei liity yrityksen rahoitukseen?",
+	"Answers": ["ABC", "EBIT", "TSR", "OMX"],
+	"CorrAns": 0,
+	"sivu": "141"
+	},
+	
+	{
+	"ID": 140,
+	"Question": "p.a. on lyhenne sanoista post annum",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "99"
+	},
+	
+	{
+	"ID": 141,
+	"Question": "Bullet-laina tarkoittaa sitä, että laina maksetaan takaisin lyhennyksinä lainan voimassaoloaikana",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "90"
+	},
+	
+	{
+	"ID": 142,
+	"Question": "Voitonjakosuhteella tarkoitetaan sitä, kuinka suuri osa tilikauden tuloksesta käytetään lainojen takaisinmaksuun",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "91"
+	},
+	
+	{
+	"ID": 143,
+	"Question": "Vain pieni osa osakeyhtiöistä on julkisesti noteerattuja",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "103"
+	},
+	
+	{
+	"ID": 144,
+	"Question": "Vieraan pääoman sijoittajan vuosittain saama korko riippuu yrityksen tuloksesta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "104"
+	},
+	
+	{
+	"ID": 145,
+	"Question": "Mikä seuraavista optiolainaa koskevista väittämistä on väärin?",
+	"Answers": ["Lainaosuudelle maksetaan yleensä markkinakorkoja alhaisempaa korkoa", "Lainanantajan asema on lähempänä osakkeenomistajaa kuin tavallisessa lainassa", "Sijoittaja saa mahdollisuuden ostaa yrityksen osakkeita jollakin etukäteen määrätyllä hinnalla", "Mikäli osakekurssi laskee ali optiotodistuksen merkintähinnan, kannattaa sijoittajan toteuttaa optio"],
+	"CorrAns": 3,
+	"sivu": "112"
+	},
+	
+	{
+	"ID": 146,
+	"Question": "Mikä seuraavista väittämistä on väärin?",
+	"Answers": ["Johdon laskentatoimi eli ulkoinen laskentatoimi tuottaa informaatiota yrityksen johdolle", "Johdon laskentatoimi käsittelee yrityksen sisällä tapahtuvaa raportointia", "Johdon laskentatoimen tavoitteena on tuottaa informaatiota, jonka avulla valitun strategian toteuttaminen on mahdollista", "Johdon laskentatoimi ei ole sidottu lainsäädäntöön samalla tavalla kuin rahoituksen laskentatoimi"],
+	"CorrAns": 0,
+	"sivu": "115"
+	},
+	
+	{
+	"ID": 147,
+	"Question": "Visio on näkemys tavoitetilasta pitkällä tähtäyksellä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "115"
+	},
+	
+	{
+	"ID": 148,
+	"Question": "Yrityksen strategia ja arvot ovat yleensä salaista tietoa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 149,
+	"Question": "Levers of Control –viitekehyksessä strateginen ohjaus jaetaan neljään tasoon. Mikä seuraavista ei ole yksi näistä tasoista?",
+	"Answers": ["Yrityksen arvot", "Vältettävät riskit", "Kriittiset suorituskyvyn tekijät", "Strategiset suorituskyvyn tekijät"],
+	"CorrAns": 3,
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 150,
+	"Question": "LOC lasketaan kertomalla ROE ja ROIC keskenään",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 151,
+	"Question": "Mikä seuraavista diagnostisiin ohjausjärjestelmiin liittyvistä väittämistä on väärin?",
+	"Answers": ["Näiden järjestelmien avulla johto voi seurata ja valvoa, miten yrityksen suorituskyky vastaa sille asetettuja tavoitteita strategian saavuttamiseksi", "Tehokas käyttö edellyttää oikeiden suorituskyvyn mittareiden valintaa", "Diagnostiset ohjausjärjestelmät perustuvat poikkeamiin", "Kaikki ylläolevat ovat oikein"],
+	"CorrAns": 3,
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 152,
+	"Question": "Muodollisten järjestelmien rakenne on usein näkymätön",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 153,
+	"Question": "Sisäisen valvonnan avulla saadaan riittävä varmuus siitä, että yrityksen raportoima taloudellinen informaatio on luotettavaa ja yritystä koskevien lakien ja säädösten mukaista",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 154,
+	"Question": "COSO-lyhenne tulee sanoista Company of Sponsoring Organizations",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 155,
+	"Question": "Sisäinen valvonta on kaikkien yritysten osalta lain ja suositusten velvoittamaa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "120"
+	},
+	
+	{
+	"ID": 156,
+	"Question": "Mikä seuraavista sisäisen valvonnan väittämistä ei pidä paikkansa?",
+	"Answers": ["Yrityksen hallitus on vastuussa yrityksen sisäisen valvonnan asianmukaisesta järjestämisestä", "Toimitusjohtajalla on kokonaisvastuu sisäisen valvontajärjestelmän luomisesta, käyttöönotosta ja ylläpitämisestä", "Suurissa yrityksissä toimitusjohtaja viestii sisäisen valvonnan periaatteet suoraan työntekijöille", "Käytännössä jokainen työntekijä on vastuussa sisäisestä valvonnasta"],
+	"CorrAns": 2,
+	"sivu": "120"
+	},
+	
+	{
+	"ID": 157,
+	"Question": "Toiminnanohjausjärjestelmä eli ERP-järjestelmä on tietojärjestelmäkokonaisuus, joka tukee suurinta osaa yrityksen eri toimintojen tiedonhallinnasta ja informaation tarpeesta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "122"
+	},
+	
+	{
+	"ID": 158,
+	"Question": "ERP-järjestelmässä sama tieto pitää syöttää erikseen useaan kertaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "122"
+	},
+	
+	{
+	"ID": 159,
+	"Question": "Mikä seuraavista ei ole ERP-järjestelmän moduuli?",
+	"Answers": ["Taloushallinto", "Hankintaprosessi", "Henkilöstön hallinta", "Kaikki ylläolevat"],
+	"CorrAns": 3,
+	"sivu": "122"
+	},
+	
+	{
+	"ID": 160,
+	"Question": "Mikä seuraavista väittämistä on väärin?",
+	"Answers": ["ERP-järjestelmät ovat määrämuotoisia", "ERP-järjestelmät pystytään muokkaamaan yksilöllisesti kullekin yritykselle", "ERP-järjestelmien yleistymisellä on ollut huomattava vaikutus laskentatoimen tehtävissä työskentelevien henkilöiden työhön", "ERP-järjestelmät ovat vähentäneet rutiinityötä"],
+	"CorrAns": 1,
+	"sivu": "123"
+	},
+	
+	{
+	"ID": 161,
+	"Question": "SAP on esimerkki ERP-järjestelmästä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "124"
+	},
+	
+	{
+	"ID": 162,
+	"Question": "Laskentatoimen informaation laajuus ei perustu",
+	"Answers": ["Kohteeseen", "Määrittämistapaan", "Valuuttaan", "Aikahorisonttiin"],
+	"CorrAns": 2,
+	"sivu": "124"
+	},
+	
+	{
+	"ID": 163,
+	"Question": "Miles ja Snow (1978) luokittelevat strategiat painotuksen mukaan erilaistamiseen ja kustannustehokkuuteen pyrkiviin strategioihin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "124"
+	},
+	
+	{
+	"ID": 164,
+	"Question": "Mikä seuraavista väittämistä ei kuvaa kustannustehokasta strategiaa",
+	"Answers": ["Yritys tähtää kustannusjohtajuuteen", "Yritys kilpailee matalalla hinnalla", ". Yritys tarvitsee johtamisessa laajaa informaatiota", "Yritykselle on erityisen tärkeää informaatio oman tuotannon kustannuksista"],
+	"CorrAns": 2,
+	"sivu": "125"
+	},
+	
+	{
+	"ID": 165,
+	"Question": "Ohjausjärjestelmien muutoksen onnistumiseen vaikuttaa organisaatiossa esimerkiksi X:n esittämän viitekehyksen mukaan monet tekijät, joista osa helpottaa, mahdollistaa tai vauhdittaa muutosta ja osa estää, vaikeuttaa tai hidastaa sitä. X:n paikalle kuuluu",
+	"Answers": ["Porter", "Miles", "Snow", "Kasurinen"],
+	"CorrAns": 3,
+	"sivu": "125"
+	},
+	
+	{
+	"ID": 166,
+	"Question": "Mikä seuraavista ei kuulu lyhyen aikavälin suunnitteluun?",
+	"Answers": ["Strategian toteuttaminen lyhyen aikavälin suunnittelun avulla", "Lyhyen aikavälin suunnitelman toteutumisen valvonta", "Reagointi poikkeamiin lyhyen aikavälin suunnitelmasta", "Strategian valitseminen"],
+	"CorrAns": 3,
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 167,
+	"Question": "SWOT-analyysi perustuu yrityksen vahvuuksien, heikkouksien, mahdollisuuksien ja uhkientunnistamiseen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 168,
+	"Question": "Mikä seuraavista toimitusjohtajaa koskevista väittämistä on väärin?",
+	"Answers": ["Toimitusjohtaja raportoi hallitukselle", "Toimitusjohtaja avustaa johtokuntaa", "Toimitusjohtaja on vastuussa yhtiön päivittäisestä hallinnosta", "Toimitusjohtaja varmistaa, että yhtiön taloushallinto on järjestetty luotettavalla tavalla"],
+	"CorrAns": 1,
+	"sivu": "129"
+	},
+	
+	{
+	"ID": 169,
+	"Question": "Balanced Scorecard sisältää vain taloudellisia mittareita",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "130"
+	},
+	
+	{
+	"ID": 170,
+	"Question": "Motivaatio ja tuottavuus ovat esimerkkejä Balanced Scorecardin taloudellisista mittareista",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "130"
+	},
+	
+	{
+	"ID": 171,
+	"Question": "Strateginen kartta kuvaa syy- ja seurausketjua",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "131"
+	},
+	
+	{
+	"ID": 172,
+	"Question": "Reliabiliteetti kuvaa mittariston riittävää tarkkuutta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "131"
+	},
+	
+	{
+	"ID": 173,
+	"Question": "Mikä seuraavista on kustannuslaskennan tehtävä?",
+	"Answers": ["Ohjata organisaatiota siten, että se toteuttaa yrityksen pitkän tähtäimen tavoitteet", "Kustannuksien hallitseminen kustannusjohtamisen avulla", "Laskentakohteiden valinta", "Ei mikään ylläolevista"],
+	"CorrAns": 3,
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 174,
+	"Question": "Yrityksen strategia muodostaa strategiatalon",
+	"Answers": ["Perustan", "Mission", "Rakennuspylväät", "Katon"],
+	"CorrAns": 2,
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 175,
+	"Question": "Kustannuslaskenta seuraa yrityksen reaaliprosessia ja rahaprosessia",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 176,
+	"Question": "Laskentakohteet ovat tekijöitä, jotka vaikuttavat kustannuksiin ja aiheuttavat niitä tietyllä aikavälillä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "134"
+	},
+	
+	{
+	"ID": 177,
+	"Question": "Mikä seuraavista kustannusten kohdistamiseen liittyvistä väittämistä on väärin?",
+	"Answers": ["Kustannusten kohdistaminen tapahtuu yleensä kahdessa vaiheessa", "Laskentakohteille kohdistetaan ensimmäiseksi välittömät kustannukset", "Välillisiä kustannuksia ovat esimerkiksi raaka-aineet", "Aivan pieniä kustannuksia ei aina kannata rekisteröidä erikseen"],
+	"CorrAns": 2,
+	"sivu": "135"
+	},
+	
+	{
+	"ID": 178,
+	"Question": "Välillisten kustannusten kohdistaminen laskentakohteelle tapahtuu jakoperusteen eli kohdistimen avulla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "135"
+	},
+	
+	{
+	"ID": 179,
+	"Question": "Mikä seuraavista kustannusten kohdistamatta jättämistä koskevista väittämistä on väärin?",
+	"Answers": ["Kustannusten kohdistamatta jättäminen pienentää kustannuslaskennan laajuutta", "Kustannusten kohdistamatta jättäminen yksinkertaistaa järjestelmää", "Kustannusten kohdistamatta jättäminen parantaa päätöksenteon laatua", "Kaikki ylläolevat väittämät ovat oikein"],
+	"CorrAns": 2,
+	"sivu": "137"
+	},
+	
+	{
+	"ID": 180,
+	"Question": "Mikä seuraavista väittämistä on oikein?",
+	"Answers": ["Toiminnan volyymistä riippumattomia kustannuksia kutsutaan muuttuviksi kustannuksiksi", "Puolikiinteät kustannukset ovat kiinteitä, kun volyymi on nolla ja kasvavat sen jälkeen", "Pitkällä ajanjaksolla kaikki kustannukset ovat muuttuvia", "Muuttuvien kustannusten kuvaaja on aina suora"],
+	"CorrAns": 2,
+	"sivu": "138"
+	},
+	
+	{
+	"ID": 181,
+	"Question": "Jos suurin osa kustannustiedoista on vain verkoston yhden yrityksen käytössä, puhutaan avointen kirjojen laskentajärjestelmästä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "139"
+	},
+	
+	{
+	"ID": 182,
+	"Question": "Mihin tuotantotyyppiin jakolaskenta ei sovi?",
+	"Answers": ["Jatkuva joukkotuotanto", "Rinnakkaistuotanto", "Vaihtuva joukkotuotanto", "Sarjatuotanto"],
+	"CorrAns": 3,
+	"sivu": "140"
+	},
+	
+	{
+	"ID": 183,
+	"Question": "Ekvivalenssiluvut ovat tärkeitä toimintokustannuslaskennalle",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "140"
+	},
+	
+	{
+	"ID": 184,
+	"Question": "Hybridilaskenta yhdistää lisäyslaskennan ja toimintolaskennan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "141"
+	},
+	
+	{
+	"ID": 185,
+	"Question": "Toimintolaskennassa ensimmäisessä vaiheessa toiminnoille kehitetään sen volyymiä mittaava toimintokohdistin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "142"
+	},
+	
+	{
+	"ID": 186,
+	"Question": "Mikä seuraavista ei ole tyypillistä tavoitekustannuslaskennalle?",
+	"Answers": ["Asiakassuuntaisuus", "Tuotekehityskeskeisyys", "Kustannustehosteisuus", "Poikkitoiminnallisuus"],
+	"CorrAns": 2,
+	"sivu": "143"
+	},
+	
+	{
+	"ID": 187,
+	"Question": "Tavoitekustannus sisältää vain valmistuskustannukset",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "144"
+	},
+	
+	{
+	"ID": 188,
+	"Question": "Mikä seuraavista ei kuulu katetuottolaskelman kaavaan?",
+	"Answers": ["Muuttuvat kustannukset", "Katetuotto", "Bruttokate", "Tulos"],
+	"CorrAns": 2,
+	"sivu": "145"
+	},
+	
+	{
+	"ID": 189,
+	"Question": "Yrityksen myyntituotot ovat 10 miljoonaa euroa, muuttuvat kustannukset 4 miljoonaa euroa ja kiinteät kustannukset 5 miljoonaa euroa. Kuinka suuri katetuotto yrityksellä on?",
+	"Answers": ["6 miljoonaa euroa", "5 miljoonaa euroa", "7 miljoonaa euroa", "ei mikään ylläolevista"],
+	"CorrAns": 0,
+	"sivu": "145"
+	},
+	
+	{
+	"ID": 190,
+	"Question": "Katetuottolaskennan keskeinen kiinnostuksen kohde on myyntimäärän kriittinen piste",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "145"
+	},
+	
+	{
+	"ID": 191,
+	"Question": "Kriittinen piste on se myyntimäärä, jolloin katetuotto riittää kattamaan muuttuvat kustannukset",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "145"
+	},
+	
+	{
+	"ID": 192,
+	"Question": "Mikä seuraavista investointiprosesseja koskevista väittämistä on väärin?",
+	"Answers": ["Investointiprosessi alkaa investointitarpeen tunnistamisesta", "Informaation hankintavaiheessa tutkitaan, minkä investoinnin ennustetut tuotot ja kustannukset täyttävät parhaimmin asetetut tavoitteet", "Rahoituksen järjestäminen tulee prosessissa investointipäätöksenteon jälkeen", "Prosessin viimeisenä tulee investoinnin toteutus ja valvonta"],
+	"CorrAns": 1,
+	"sivu": "148"
+	},
+	
+	{
+	"ID": 193,
+	"Question": "Investoinnin jäännösarvo voi olla positiivinen, nolla tai negatiivinen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "149"
+	},
+	
+	{
+	"ID": 194,
+	"Question": "Takaisinmaksuajan menetelmä ottaa huomioon rahan aika-arvon",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "150"
+	},
+	
+	{
+	"ID": 195,
+	"Question": "Mikä seuraavista sisäisen korkokannan menetelmää kuvaavista väitteistä on väärin?",
+	"Answers": ["Sisäinen korkokanta pyrkii selvittämään sen laskentakoron, jota käyttämällä investoinnin nettonykyarvo on nolla", "Jos sisäinen korkokanta on suurempi kuin laskentakorkokanta, on investointi kannattava", "Mitä suurempi sisäisen korkokannan ja laskentakorkokannan erotus on, sitä kannattavampi investointi", "Investoinnit voidaan asettaa kannattavuusjärjestykseen sisäisen koron mukaan, jos niiden tuottovaatimukset ovat eri suuret"],
+	"CorrAns": 3,
+	"sivu": "151"
+	},
+	
+	{
+	"ID": 196,
+	"Question": "Mitä lyhenne OY yrityksen nimen lopussa kertoo?",
+	"Answers": ["Yritys on julkinen osakeyhtiö", "Yrityksellä on yli 1000 työntekijää", "Yritys on yksityinen osakeyhtiö", "Ei mikään edellisistä"],
+	"CorrAns": 2,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 197,
+	"Question": "Julkisen osakeyhtiön vähittäispääomavaatimus on 2500€",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 198,
+	"Question": "Liikevaihto=myyntituotot, joista on vhäennetty myönnetyt alennukset",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "17"
+	},
+	
+	{
+	"ID": 199,
+	"Question": "Milloin yrityksellä on määräysvalta toisessa yrityksessä?",
+	"Answers": ["Kun sillä on enemmän kuin 80% tämän yrityksen osakkeiden tai osuuksien tuottamasta äänimäärästä", "Mikäli yrityksellä on oikeus nimittää tai erottaa enemmistö jäsenistä toisen yrityksen hallituksessa", "Jos yritys tosiasiallisesti käyttää määräysvaltaa siinä", "Molemmat 2. ja 3. ovat oikein"],
+	"CorrAns": 3,
+	"sivu": "18"
+	},	
+	
+
+	{
+	"ID": 200,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Horisontaalisen konsernin muodostavat yritykset, jotka edustavat saman elinkeinohaaran erilaisia tuotantovaiheita", "Jos yritykset edustavat eri elinkeinohaaroja, kyseessä on kansainvälinen konserni", "Tuotanto- ja vaihdantaprosessien perusteella konsernia voidaan kutsua vertikaaliseksi, horisontaaliseksi tai kansainväliseksi konserniksi", "Kaikki ovat väärin"],
+	"CorrAns": 3,
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 201,
+	"Question": "Jokainen, joka harjoittaa liike- tai ammattitoimintaa, on toiminnastaan kirjanpitovelvollinen, poislukien PK-yritykset",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "19"
+	},	
+	
+
+	{
+	"ID": 202,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Tilikausi voi poiketa pääsääntöisestä 12 kuukauden tilikaudesta", "Liiketapahtumat on kirjattava kirjanpitoon aikajärjestyksessä (pääkirjanpito) sekä asiajärjestyksessä (peruskirjanpito)", "Menotositteesta käy selvillä luovutettu suorite", "Molemmat 1. ja 2. ovat oikein"],
+	"CorrAns": 0,
+	"sivu": "19"
+	},
+	
+	{
+	"ID": 203,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Liiketapahtumaa kuvaavaa kirjanpitoon tehtävää merkintää sanotaan kirjaukseksi tai vienniksi", "Tulotositteesta on käytävä ilmi luovutettu suorite", "Liiketapahtumat on kirjattava kirjanpitoon muun muassa aikajärjestyksessä (pääkirjanpito)", "Tulostilin tehtävänä on selvittää kuluneen tilikauden aikana syntynyt tuloksen, voiton tai tappion, suuruus ja mistä se koostuu"],
+	"CorrAns": 2,
+	"sivu": "19"
+	},	
+	
+	{
+	"ID": 204,
+	"Question": "Pienet konsernit on vapautettu konsernitilinpäätöksen laatimisesta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "19"
+	},
+	
+	{
+	"ID": 205,
+	"Question": "Pieni konserni on konserni, jossa korkeintaan yksi seuraavista rajoista ylittyy. Mikä näistä rajoista ei kuulu joukkoon?",
+	"Answers": ["Palveluksessa keskimäärin 50 henkilöä", "Liikevaihto tai vastaava tuotto 7 300 000€", "Taseen loppusumma 3 650 000€", "Kaikki kuuluvat joukkoon"],
+	"CorrAns": 1,
+	"sivu": "20"
+	},	
+	
+
+	{
+	"ID": 206,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Emoyrityksen toimintakertomuksessa esitetään lakisääteiset tiedot konsernista", "Varsinainen konsernikirjanpito on emoyrityksen vastuulla", "Konsernitilinpäätös laaditan seuraavalta päivältä kuin emoyrityksen tilinpäätös"],
+	"CorrAns": 0,
+	"sivu": "20"
+	},
+	
+	{
+	"ID": 207,
+	"Question": "Mitkä ovat voitonjakoeriä?",
+	"Answers": ["Maksetut vakuutukset, palkat ja sosiaaliturvamaksut", "Maksetut verot, palkat ja korot", "Maksetut osingot, osakkeet ja verot", "Maksetut osingot, korot ja verot"],
+	"CorrAns": 3,
+	"sivu": "21"
+	},	
+	
+
+	{
+	"ID": 208,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Euroopan union tilinpäätösdirektiivien taustamalli on meno-tulo-teoria", "Meno-tulo-teorian mukaan tulot jaksotetaan siihen laskentakauteen, jonka tuloja ne ovat olleet kerryttämässä", "Suomalainen kirjanpitolainsäädäntö ei voi poiketa EU:n tilinpäätösdirektiivien periaatteista", "Suomalaisessa tilinpäätöskäytännössä yrityksen tuloksen laskeminen tuloslaskelman avulla ei ole ollut kovin keskeistä"],
+	"CorrAns": 2,
+	"sivu": "21"
+	},
+	
+	{
+	"ID": 209,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Tuloslaskelman esittämistapa on säädetty osakeyhtiölaissa", "Yritystoimintaa harjoittaessa tuloslaskelman kaavoja on kaksi: kululajikohtainen ja toimintokohtainen", "Kululajipohjainen on yritystoiminnassa yleisemmin käytetty esittämistapa", "Tuloslaskelman muoto saattaa vaihdella yritystoiminnan luonteen ja laajuuden mukaisesti"],
+	"CorrAns": 0,
+	"sivu": "23"
+	},	
+	
+
+	{
+	"ID": 210,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa liittyen kululajikohtaisen tuloslaskelman järjestykseen ylhäältä-alas-katsottuna?",
+	"Answers": ["Henkilöstökulut tulevat poistojen ja arvonalentumisten jälkeen", "Liiketoiminnan muiden kulujen jälkeen voidaan todeta liikevoitto", "Heti liikevaihdon jälkeen tulevat liiketoiminnan muut tuotot", "Rahoitustuottojen jälkeen tulevat tilinpäätössiirrot"],
+	"CorrAns": 1,
+	"sivu": "24"
+	},
+	
+	{
+	"ID": 211,
+	"Question": "Mikä seuraavista väittämistä koskien toimintokohtaista tuloslaskelmaa pitää paikkansa?",
+	"Answers": ["Hankinnan ja valmistuksen kulut sisältävät myytävien tuotteiden hankkimisesta tai valmistamisesta aiheutuvat kulut (mm. valmistuksen palkat)", "Myynnin ja markkinoinnin kulut koostuvat esimerkiksi tuotteiden jakelusta aiheutuneista kuluista", "Hallinnon kuluja ovat esimerkiksi toimistokulut", "Kaikki ovat oikein"],
+	"CorrAns": 3,
+	"sivu": "25"
+	},	
+	
+
+	{
+	"ID": 212,
+	"Question": "Mikä seuraavista väitteistä liittyen taseeseen pitää paikkansa?",
+	"Answers": ["Pysyviin vastaaviin kuuluvat muun muassa saamiset ja vaihto-omaisuus", "Taseesta käy ilmi, paljonko omaisuutta yrityksellä on kiinni yritystoiminnassaan tarkasteluhetkellä", "Vastattavaa-osioon kuuluvat oma pääoma, tilinpäätössiirtojen kertymä, vapaaehtoiset varaukset sekä vieras pääoma", "Taseen tehtävä on kuvata yrityksen taloudellista asemaa tilinpäätöspäiviä edeltävinä hetkinä"],
+	"CorrAns": 1,
+	"sivu": "27"
+	},
+	
+	{
+	"ID": 213,
+	"Question": "Pysyviin vastaaviin kuuluvat aineettomat hyödykkeet sisältävät muun muassa…",
+	"Answers": ["Kehittämismenot, verot, liikearvon, keskeneräiset hankinnat", "Keskeneräiset ja valmiit hankinnat, rakennusten sijoitukset", "Aineettomat oikeudet, liikearvon, kehittämismenot"],
+	"CorrAns": 2,
+	"sivu": "28"
+	},	
+	
+
+	{
+	"ID": 214,
+	"Question": "Rakennuksista ja rakennelmista ei voi tehdä poistoja",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "28"
+	},
+	
+	{
+	"ID": 215,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Omaisuuden fyysiset ominaisuudet määrittävät sen, mihin tase-erään omaisuus kuuluu", "Pitkäaikaiseksi saamiseksi katsotaan saaminen tai se osa saamisesta, joka erääntyy maksettavaksi kymmentä vuotta pidemmän ajan kuluttua", "Tilinpäätössiirtojen kertymä muodostuu kahdesta ryhmästä: poistoerosta ja pakollisista varauksista", "Taseen vastattavaa-puoli kertoo, miten yrityksen omaisuus on rahoitettu"],
+	"CorrAns": 3,
+	"sivu": "29"
+	},	
+	
+
+	{
+	"ID": 216,
+	"Question": "Mikä seuraavista EI kuulu kirjanpitovelvollisen esitettäviin liitetietoihin (kirjanpitoasetuksen toisen luvun mukaan)?",
+	"Answers": ["Tuloslaskelmaa koskevat liitetiedot", "Liitetiedot tilintarkastajan palkkiosta", "Liitetiedot työntekijöiden palkoista", "Tuloveroja koskevat liitetiedot"],
+	"CorrAns": 2,
+	"sivu": "30"
+	},
+	
+	{
+	"ID": 217,
+	"Question": "Mikä seuraavista väitteistä liittyen rahoituslaskelmaan EI pidä paikkaansa?",
+	"Answers": ["Rahoituslaskelma on osa tilinpäätöstä", "Suora rahoituslaskelma on nettoperusteinen", "Liiketoiminnan rahavirtoja ovat esimerkiksi henkilöstölle maksetut palkat ja palkkiot"],
+	"CorrAns": 1,
+	"sivu": "32"
+	},	
+	
+
+	{
+	"ID": 218,
+	"Question": "Rahoituksen rahavirrat osoittavat oman ja vieraan pääoman muutokset tilikauden aikana",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 219,
+	"Question": "Mikä seuraavista väitteistä liittyen kansainväliseen tilinpäätöskäytäntöön pitää paikkansa?",
+	"Answers": ["Nämä standardit korostavat sijoittajan näkökulmaa", "IFRS standardit korostavat tuloslaskelman ja jakokelpoisen tuloksen laskemista", "IFRS-tilinpäätöksessä tuloslaskelma korostuu taseeseen verrattuna", "Standardeissa määritellään varsinainen tasekaava"],
+	"CorrAns": 0,
+	"sivu": "35"
+	},	
+	
+
+	{
+	"ID": 220,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Tilintarkastuskertomuksen lopputuloksena syntyy tilintarkastus", "Tilintarkastaja voidaan jättää valitsematta pienessä yhteisössä", "Emoyrityksen tilintarkastajan ei täydy tarkastaa konsernitilinpäätöstä"],
+	"CorrAns": 1,
+	"sivu": "39"
+	},
+	
+	
+	{
+	"ID": 221,
+	"Question": "Mukautettu tilintarkastus voi...",
+	"Answers": ["Olla ehdollinen", "Olla kielteinen", "Jäädä kokonaan antamatta", "Kaikki ovat oikein"],
+	"CorrAns": 3,
+	"sivu": "40"
+	},	
+	
+
+	{
+	"ID": 222,
+	"Question": "Milloin tilintarkastus voi jäädä kokonaan antamatta?",
+	"Answers": ["Kun tilintarkastajanja toimivan johdon välillä on erimielisyyttä", "Kun erimielisyyden vaikutus tilinpäätökseen on niin olennaista, että kertomus ei tuo riittävästi esiin puuttellisuutta", "Kun tilintarkastuksen laajuutta on rajoitettu niin olennaisesti, että tilintarkastaja ei ole pystynyt hankkimaan tarpeellista määrää tarvittavaa tietoa", "Molemmat 2. ja 3. ovat oikein"],
+	"CorrAns": 2,
+	"sivu": "40"
+	},
+	
+	
+	{
+	"ID": 223,
+	"Question": "Mitkä ovat yrityksen tilinpäätösanalyysin lähtökohtana?",
+	"Answers": ["Tilinpäätökset, eli taseet ja tuloslaskelmat", "Toimintakertomukset", "Liitetiedot", "Tilinpäätökset, eli taseet, tuloslaskelmat ja liitetiedot"],
+	"CorrAns": 3,
+	"sivu": "45"
+	},	
+	
+
+	{
+	"ID": 224,
+	"Question": "Lehdistö ja kilpailijat ovat esimerkkejä yrityksen sidosryhmistä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "45"
+	},
+	
+	
+	{
+	"ID": 225,
+	"Question": "Mitä strategia-analyysissä arvioidaan?",
+	"Answers": ["Tulevaisuuden kehitysnäkymiä", "Tekijöitä, jotka vaikuttavat yrityksen toimialan kehitykseen", "Kykyä muodostaa kilpailuetua"],
+	"CorrAns": 2,
+	"sivu": "49"
+	},	
+	
+
+	{
+	"ID": 226,
+	"Question": "Varsinainen tilinpäätös alkaa tunnuslukuanalyysilla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "50"
+	},
+	
+	
+	{
+	"ID": 227,
+	"Question": "Riskianalyysin avulla arvoidaan sitä, miten yritys pystyy täyttämään velvollisuutensa eri kilpailijoihin verrattuna",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "51"
+	},	
+	
+
+	{
+	"ID": 228,
+	"Question": "Pääomakustannukseen vaikuttaa toisaalta liiketoiminnan riskisyys, toisaalta yrityksen pääomarakenne",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "52"
+	},
+	
+	
+	{
+	"ID": 229,
+	"Question": "Gordonin mallissa oletetaan osinkojen kasvuvauhdin olevan vakio tulavaisuudessa yli ajan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "52"
+	},	
+	
+
+	{
+	"ID": 230,
+	"Question": "Millä seuraavista EI voida arvioida yrityksen kokoa?",
+	"Answers": ["Taseen loppusumma", "Toimistojen lukumäärä", "Työntekijöiden määrää", "Osakepääoman markkina-arvo"],
+	"CorrAns": 1,
+	"sivu": "64"
+	},
+	
+	{
+	"ID": 231,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["ROIC mittaa, kuinka paljon tuottoa yritys on saanut aikaiseksi omalle pääomalle", "Oman pääoman tuotto on englanniksi return on equity", "Molemmat ovat oikein"],
+	"CorrAns": 1,
+	"sivu": "69"
+	},	
+	
+
+	
+	{
+	"ID": 232,
+	"Question": "Mikä seuraavista väitteistä liittyen vapaan kassavirran tuottoon pitää paikkansa?",
+	"Answers": ["Kyseinen erä esitetään yritysanalyytikoiden raporteissa joko kannattavuuden tunnuslukuna tai osana kassavirtapohjaisia tunnuslukuja", "", "", ""],
+	"CorrAns": 0,
+	"sivu": "70"
+	},
+	
+	{
+	"ID": 233,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Rahoituksellinen asema kuvastaa sitä, miten yritystoiminta on rahoitettu", "Rahoituksellinen asema kuvastaa yrityksen kykyä suoriutua rahoitusvelvoitteistaan pitkällä aikavälillä", "Rahoituksellista asemaa voidaan arvoida kannattavuuden tunnuslukujen avulla", "Molemmat 1. ja 2. ovat oikein"],
+	"CorrAns": 3,
+	"sivu": "75"
+	},
+	
+
+	
+	{
+	"ID": 234,
+	"Question": "Erittäin hyvä maksuvalmius on yritykselle taloudellinen rasite",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "78"
+	},
+	
+	{
+	"ID": 235,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Current ratiossa likvidejä varoja tarkastellaan laajemmin kuin quick ratiossa", "Quick ratiossa oletetaan, että myös vaihto-omaisuus on realisoitavissa lyhyellä aikavälillä", "Rahoitusomaisuuteen kuuluu kassan lisäksi vain rahoitusarvopaperit", "Molemmat 1. ja 3. ovat oikein"],
+	"CorrAns": 0,
+	"sivu": "79"
+	},	
+	
+
+	
+	{
+	"ID": 236,
+	"Question": "Rahoituspäätökset liittyvät siihen, miten saada liiketoiminnalla omaisuudelle mahdollisimman hyvä tuotto",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "85"
+	},
+	
+	{
+	"ID": 237,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Voitonjakosuhde on Suomessa ollut tyypillisesti 30-50 %", "Kotitaloudet edustavat tyypillisesti talouden alijäämäsektoria", "Elinkaaren eri vaiheissa yritysten rahoitustarpeet yleensä muuttuvat"],
+	"CorrAns": 1,
+	"sivu": "91"
+	},	
+	
+
+	
+	{
+	"ID": 238,
+	"Question": "Mikä seuraavista EI kuulu rahoitusmarkkinoiden tehtäviin?",
+	"Answers": ["Informaation välittäminen", "Rahoitussopimusten likvidisyyden parantaminen", "Varojen allokointi mahdollisiman nopeasti yrityksen ja kilpailijoiden välillä", "Riskin hajauttaminen"],
+	"CorrAns": 2,
+	"sivu": "93"
+	},
+	
+	{
+	"ID": 239,
+	"Question": "Oman ja vieraan pääoman kustannukset määräytyvät rahoitusmarkkinoilla, jos yritys on julkisesti noteerattu",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "94"
+	},	
+	
+
+	
+	{
+	"ID": 240,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Veltakirjan hinta on yksinkertaisesti menneiden kassavirtojen nykyarvojen summa", "Valtion liikkeeseen laskemiin obligaatioihin ei liity korkoriskiä", "Korkoriski on sitä pienempi, mitä pidemmän voimassaoloajan obligaatiosta on kysymys", "Sekä oman että vieraan pääoman ehtoisen rahan hinta määräytyy riskittömän koron ja riskipreemion summana"],
+	"CorrAns": 3,
+	"sivu": "97"
+	},
+	
+	{
+	"ID": 241,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Luokkia, jotka ovat vähintään Bba (Standard & Poor’s) ja Baa (Moody’s) kutsutaan investment grade-luokiksi", "High yield-luokilla viitataan hyvään luottokelpoisuuteen", "Suomen valtiolla on erinomainen luottoluokittelu", "Investment grade-luokkaa kutsutaan myös nimellä “junk bond”"],
+	"CorrAns": 2,
+	"sivu": "99"
+	},	
+	
+
+	
+	{
+	"ID": 242,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Kovenantit korostavat luottopäätöksessä yrityksen menneitä kassavirtoja ja niiden merkitystä", "Jos yrityksen riskipreemio on 1,11 %, sillä on 111 korkopistettä (basis point)", "Kovenanttien tavoitteena on toimia lainanottajan suojana"],
+	"CorrAns": 1,
+	"sivu": "101"
+	},
+	
+	{
+	"ID": 243,
+	"Question": "Oman pääoman kustannus määräytyy ns. implisiittisesti markkinoiden tuottovaatimuksen perustella",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "105"
+	},	
+	
+
+	
+	{
+	"ID": 244,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Osakepääoman riskipreemio ei määräyty rahoitusteorian mukaan", "Kun katsotaan osakemarkkinoiden reaalituottoja eri maista, Australialla on USA:aa pienempi luku", "Osakemarkkinoiden reaalituottojen 20 maan keskiarvo on 5", ""],
+	"CorrAns": 2,
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 245,
+	"Question": "Osakemarkkinoiden keskimääräinen riskipreemio historiassa on 4,1 prosenttia",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "108"
+	},	
+	
+
+	
+	{
+	"ID": 246,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Riskiä rahoitusmarkkinoilla mitataan sijoituskohteen, esimerkiksi osakkeen, tuoton vaihtelulla eli volyymilla", "Volatiliteetti on tuottojen keskihajonta eli varianssi potenssiin kaksi", "Hajauttamisella eli diversifioinnilla trakoitetaan sitä, että yhden sijoituskohteen sijasta säästetään useisiin erilaisiin sijoituskohteisiin", "Molemmat 2. ja 3. ovat oikein"],
+	"CorrAns": 2,
+	"sivu": "108"
+	}
+	
+	
+	
+
+	
+	
+
+	
+]

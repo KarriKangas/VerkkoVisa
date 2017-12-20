@@ -1,0 +1,3399 @@
+[
+	{
+	"ID": 0,
+	"Question": "Mikä seuraavista klassisia teorioita koskevista väittämistä ei pidä paikkaansa",
+	"Answers": ["Weberin mukaan byrokratian etuna oli rationaalisuuden tuoma tehokkuus", "Eräs Taylorin johtamisperiaatteista oli urakkapalkkaus", "Fayolin mukaan organisaation toimintoihin kuuluivat muun muassa tekniset, hallinnolliset sekä turvallisuuteen liittyvät toiminnot", "Taylor ei uskonut työn suunnittelun ja toteutuksen eriyttämiseen"],
+	"CorrAns": 3,
+	"sivu": "6"
+	},
+	
+	{
+	"ID": 1,
+	"Question": "Mikä seuraavista ei pidä paikkaansa? Byrokratian ihannemallia on jälkikäteen kritisoitu, koska",
+	"Answers": ["Valtasuhteiden selkeä näkyvyys lisää organisaation työntekijöiden välisiä jännitteitä", "Byrokratia ei huomioi työntekijöiden välisten suhteiden aiheuttamaa ennalta-arvaamatonta käytöstä", "Byrokratian pitkälle viety hierarkia nopeuttaa ja tehostaa tiedonkulkua", "Sääntöjen liiallinen määrä johtaa toiminnan jäykkyyteen"],
+	"CorrAns": 2,
+	"sivu": "5"
+	},
+	
+	{
+	"ID": 2,
+	"Question": "Mikä seuraavista toiminnoista eivät kuulu Fayolin organisaatioiden toimintojen jaotteluun?",
+	"Answers": ["taloudelliset toiminnot", "markkinoinnilliset toiminnot", "kirjanpidolliset toiminnot", "turvallisuuteen liittyvät toiminnot"],
+	"CorrAns": 1,
+	"sivu": "7"
+	},
+	
+	{
+	"ID": 3,
+	"Question": "Mikä seuraavista Hawthorne-tutkimuksiin liittyvistä väittämistä pitää paikkansa?",
+	"Answers": ["Tutkimuksien ensimmäisessä vaiheessa pyrittiin selvittämään, millaisia vaikutuksia palkkauksella on ihmisten työtehoon", "Hawthorne-tutkimukset johtivat tieteellisen liikkeenjohdon syntyyn", "Tutkimukset järjestettiin selvittämään fyysisten olosuhteiden vaikutusta työn tehokkuuteen", "Hawthorne-tutkimukset sysäsivät tarkastelun organisaation teknisiin ja taloudellisiin rakenteisiin"],
+	"CorrAns": 2,
+	"sivu": "8"
+	},	
+	
+	
+	{
+	"ID": 4,
+	"Question": "Lawrence ja Lorsch käyttivät tutkimuksissaan erilaistuneisuuden ja integraation käsitteitä. Mikä seuraavista niihin liittyvistä väittämistä pitää paikkansa?",
+	"Answers": ["Erilaistuneisuudella tarkoitetaan organisaation työntekijöiden erilaisten persoonien hyödyntämistä", "Integraatio tarkoittaa osastojen välisen yhteistyön astetta, toiminnan koordinaatiota ja osastojen välisen yhteistyön hyvyyttä", "Tutkimusten mukaan menestyäkseen yrityksen integraation ja erilaistuneisuuden ei tarvitse olla sopusoinnussa ympäristön vaatimusten kanssa", "Stabiilissa ympäristössä organisaatioiden tulisi kyetä olemaan samanaikaisesti sekä hyvin erilaistuneita että integroituneita"],
+	"CorrAns": 1,
+	"sivu": "13"
+	},
+	
+	
+	{
+	"ID": 5,
+	"Question": "Klassisissa organisaatioteorioissa tehokkuudella tarkoitetaan organisaation:",
+	"Answers": ["johtamisen tehokkuutta", "sisäistä tehokkuutta", "toimintojen tehokkuutta", "tuloksentekokykyä"],
+	"CorrAns": 1,
+	"sivu": "2"
+	},
+	
+	{
+	"ID": 6,
+	"Question": "Gulick ja Urwick yhdistivät Fayolin johtamisperiaatteet lyhenteeseen POSDCORB. Mikä seuraavista ei sisälly tähän jaotteluun?",
+	"Answers": ["Organisointi", "Budjetointi", "Yhteistyö", "Suhteet sidosryhmiin"],
+	"CorrAns": 3,
+	"sivu": "7-8"
+	},
+	
+	{
+	"ID": 7,
+	"Question": "Mikä seuraavista väitteistä ei pidä paikkaansa?",
+	"Answers": ["Markkinoinnin tieteen katsotaan syntyneen 1960-luvulla", "On yleisesti todettu, että modernin markkinoinnin aikakausi alkoi 1950-luvulla", "Markkinointiajattelu selittää yritysten ja asiakkaiden käyttäytymistä erilaisissa markkinoinnin tilanteissa", "Tuotelähtöinen ajattelu oli vallalla noin 1850-luvulta aina 1920-luvulle saakka"],
+	"CorrAns": 3,
+	"sivu": "24"
+	},
+	
+	{
+	"ID": 8,
+	"Question": "Mikä seuraavista Kerinin jaottelua koskevista ei pidä paikkaansa?",
+	"Answers": ["Vuosien 1936–1945 välisenä aikana vallitsevina teemoina markkinoinnissa olivat markkinoinnin perusteiden ja peruskäsitteiden selventäminen", "Vuosien 1956–1965 välisenä aikana vallitsevana teemana markkinoinnissa oli markkinoinnin vaikutusten arviointi", "Vuosien 1966–1975 välisenä aikana vallitsevana teemana markkinoinnissa oli  ostaja- ja organisaatioprosessien tunnistaminen", "Vuosien 1986–1995 välisenä aikana vallitsevana teemana markkinoinnissa oli markkinointistrategian rakentaminen"],
+	"CorrAns": 3,
+	"sivu": "25"
+	},
+	
+	{
+	"ID": 9,
+	"Question": "Mikä seuraavista johtamis- ja markkinointinäkemyksien muutokseen liittyvä väittämä ei pidä paikkaansa?",
+	"Answers": ["Ilmiöitä pyritään selittämään entistä eksaktimmin", "Objektiiviset seikat ovat saaneet rinnalleen subjektiivisten seikkojen tarkastelun", "Organisaation sisältä tapahtuva tarkastelu on korvautunut ympäristön ja organisaation välisellä tarkastelulla", "Eettisesti ja sosiaalisesti kestävillä toimenpiteillä on entistä suurempi osa yritysten toiminnassa"],
+	"CorrAns": 0,
+	"sivu": "30"
+	},
+	
+	{
+	"ID": 10,
+	"Question": "Mikä seuraavista markkinoinnin roolia koskeva väittämä pitää paikkansa?",
+	"Answers": ["Kysyntäsuuntaisuus seurasi asiakassuuntaisuutta", "Tuotesuuntaisuudessa tuotetta alettiin aggressiivisesti myymään asiakkaille", "Myyntisuuntaisuudessa painopiste oli myyntitekniikoiden kehittämisessä", "Kaikki yllä olevat ovat väärin"],
+	"CorrAns": 2,
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 11,
+	"Question": "Mikä seuraavista asiakkaan roolia koskevista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Tuotanto- ja tuotesuuntaisuuden aikana asiakas oli ”kokematon kuluttaja", "Myyntisuuntaisuuden aikana asiakas oli aktiivinen myyntitoimenpiteiden kohde", "Kysyntäsuuntaisuuden aikana asiakkaat nähtiin erilaistamattomana massana", "Suhdesuuntaisuudessa asiakas oli aktiivinen kumppani"],
+	"CorrAns": 1,
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 12,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Burns ja Stalker täydensivät Lawrencen ja Lorschin aloittamia tutkimuksia", "Burnsin ja Stalkerin tutkimukset käsittelivät organisaation ja sen asiakkaiden välistä suhdetta", "Burnsin ja Stalkerin mukaan tehokkain organisoituminen on sellainen, joka sopusoinnussa ympäristön vaatimuksien kanssa", "Orgaaninen organisaatio perustuu perinteisille auktoriteettisuhteille"],
+	"CorrAns": 2,
+	"sivu": "11"
+	},
+	
+	{
+	"ID": 13,
+	"Question": "Mikä seuraavista kulttuurinäkökulmaa koskevista väittämistä ei pidä paikkaansa?",		
+	"Answers": ["Kulttuuri-sana juontaa juurensa latinan kielen sanasta viljelys", "Kroeberin ja Kluckhohnin mukaan kulttuuri-sana tuli englannin kieleen saksasta", "Organisaatiotutkimuksessa 1970-lukua leimasi tietynlainen mytologisoituminen", "Organisaatiokulttuurilla voidaan tarkoittaa niitä tapoja, joita organisaation palveluksessa olevilla ihmisillä on"],
+	"CorrAns": 2,
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 14,
+	"Question": "Mikä seuraavista pitää paikkansa?",
+	"Answers": ["Schall (1983) on esittänyt ajatuksen kulttuurin syvärakenteesta", "Myytit ovat tosikertomuksia organisaation historiasta", "Riitit ovat dramaattisia, suunniteltuja tapahtumasarjoja", "Kaikki yllä olevat ovat oikein"],
+	"CorrAns": 2,
+	"sivu": "21"
+	},
+	
+	{
+	"ID": 15,
+	"Question": "Burns ja Stalker tekivät ensimmäisen merkittävän tutkimuksen organisaation ja sen ympäristön välisestä suhteesta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "11"
+	},
+	
+	{
+	"ID": 16,
+	"Question": "Adhokratia on organisaatiotyyppi, jonka rakenne muuttuu kulloistenkin tarpeiden mukaiseksi",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "16"
+	},
+	
+	{
+	"ID": 17,
+	"Question": "Tulosyksikkömalli toimii hyvin organisaation yksiköiden toimiessa eri toimialoilla tai markkina-alueilla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "16"
+	},
+	
+	{
+	"ID": 18,
+	"Question": "Kulttuurinäkökulma tuli organisaatiotutkimukseen 1970-luvulla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "17"
+	},
+	
+	{
+	"ID": 19,
+	"Question": "Organisaatiokulttuurista käsitteenä vallitsee yksimielisyys",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 20,
+	"Question": "Artefakteja ovat esimerkiksi slangi ja huumori",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "20"
+	},
+	
+	{
+	"ID": 21,
+	"Question": "Kerinin markkinointiajattelun ja teorian kehityssuuntien jaottelun mukaan markkinointi kvantitatiivisena tieteenä keskittyi markkinointitoimintojen kehittämiseen ja tehostamiseen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "25"
+	},
+	
+	{
+	"ID": 22,
+	"Question": "Markkinointi integroivana tieteenä keskittyi markkinointistrategian rakentamiseen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "25"
+	},
+	
+	{
+	"ID": 23,
+	"Question": "Markkinoinnin roolin muuttuminen myyntisuuntaiseksi tarkoitti käytännössä tuotteiden nopean vaihtuvuuden tavoittelua",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "28-29"
+	},
+	
+	{
+	"ID": 24,
+	"Question": "Niin sanotut ostajan markkinat ovat vallinneet aina 1980-luvulta alkaen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 25,
+	"Question": "Kirjan mukaan ulkomaankaupan osuus Suomen bruttokansantuotteesta on noin",
+	"Answers": ["30%", "35%", "40%", "45%"],
+	"CorrAns": 2,
+	"sivu": "33"
+	},
+	
+	{
+	"ID": 26,
+	"Question": "Skaala- tai mittakaavaedulla tarkoitetaan, että:",
+	"Answers": ["Kun yritys kasvattaa tuotantoaan ja lisää volyymia, tuotannon keskimääräiset kustannukset tiettyyn rajaan asti laskevat", "Kun yritys kasvattaa tuotantoaan ja lisää volyymia, tuotannon keskimääräiset kustannukset laskevat lineaarisesti", "Kun yritys kasvattaa tuotantoaan ja lisää volyymia, tuotannon keskimääräiset kustannukset nousevat lineaarisesti", "Kun yritys kasvattaa tuotantoaan ja lisää volyymia, tuotannon keskimääräiset kustannukset laskevat eksponentiaalisesti"],
+	"CorrAns": 0,
+	"sivu": "33"
+	},
+	
+	{
+	"ID": 27,
+	"Question": "Suurtuotannon eduilla ei tarkoiteta:",
+	"Answers": ["Alhaisempia yksikkökustannuksia", "Tuotteen tarjoamista kilpailijoita halvempaan hintaan", "Skaalaetuja", "Suuria kiinteitä kustannuksia"],
+	"CorrAns": 3,
+	"sivu": "34"
+	},
+	
+	{
+	"ID": 28,
+	"Question": "Franchiseantajalle suurin etu kirjan mukaan on, että:",
+	"Answers": ["Järjestelmä mahdollistaa idean ja liiketoiminnan nopean leviämisen kohtuullisin kustannuksin ilman tavallisia pääoma- tai organisaatiovaikeuksia", "Paikalliset yrittäjät ovat motivoituneempia kuin palkatut työntekijät", "Järjestelmä mahdollistaa globaalin toiminnan ilman, että franchiseantajan on toimittava ulkomailla", "Franchising ei vaadi suuria henkilöstön johtamisresursseja"],
+	"CorrAns": 0,
+	"sivu": "44"
+	},
+	
+	{
+	"ID": 29,
+	"Question": "Mikä seuraavista kansainvälistymisen motiiveihin liittyvä väittämä ei pidä paikkaansa?",
+	"Answers": ["Kohdemarkkinoiden vetovoimatekijöitä on esimerkiksi voimakkaasti kasvavat markkina-alueet", "Kotimarkkinoiden saturaatio on esimerkki kotimarkkinoiden työntötekijöistä", "Yrittäjyysorientaatio on kotimarkkinoiden työntötekijä", "Kasvanut kilpailu kotimarkkinoilla on kotimarkkinoiden työntötekijä"],
+	"CorrAns": 2,
+	"sivu": "36"
+	},
+	
+	{
+	"ID": 30,
+	"Question": "Mikä seuraavista Solbergin mukaan ei pidä paikkaansa? ",
+	"Answers": ["Yrityksen kansainvälistymispäätös riippuu kahdesta tekijästä: yrityksen valmiuksista toimia kansainvälisillä markkinoilla ja toimialan yleisestä kansainvälisyydestä", "Mikäli yritys on kypsymätön, mutta globaali, tulisi sen varautua myymään liiketoimintansa", "Mikäli yritys on kypsymätön ja potentiaalisesti kansainvälinen, tulisi sen etsiä kansainvälisiä nichejä", "Mikäli yritys on kasvuikäinen ja paikallinen, tulisi sen etsiä globaaleja alliansseja"],
+	"CorrAns": 3,
+	"sivu": "38"
+	},
+	
+	{
+	"ID": 31,
+	"Question": "Mikä seuraavista kohdemarkkinoiden valintaan ja markkinoiden segmentointiin liittyvistä väittämistä ei pidä paikkaansa?",
+	"Answers": ["Gaston-Bretonin ja Martinin mukaan kohdemarkkinoiden valintaan vaikuttaa markkinoiden houkuttelevuus ja kuluttajien arvot", "Gaston-Bretonin ja Martinin mukaan markkinoiden houkuttelevuuteen vaikuttaa markkinoiden koko ja kehittyneisyys", "Gaston-Bretonin ja Martinin mukaan kuluttajien arvoja ovat selviytymisarvot, ilmaisutaidon arvot ja perinteiset arvot", "Gaston-Bretonin ja Martinin mukaan markkinoiden kehittyneisyyteen vaikuttaa muun muassa työllisyysaste ja korruptioindeksi"],
+	"CorrAns": 2,
+	"sivu": "41"
+	},
+	
+	{
+	"ID": 32,
+	"Question": "Mikä seuraavista kansainvälistymisstrategioita koskevista väittämistä pitää paikkaansa?",
+	"Answers": ["Suoravienti toimii parhaiten, kun volyymit ovat suuret", "Epäsuora vienti on tuotteiden myymistä ulkomailla oleville asiakkaille ilman, että on omaa toimipistettä siellä", "Epäsuora vienti toimii parhaiten, kun yrityksellä on tarve purkaa ylijäämävarastoja, pienet intressit kansainvälistyä tai liian pienet resurssit kansainvälistymiseen", "Epäsuorassa viennissä myynti tapahtuu valmistajan kohdemaassa"],
+	"CorrAns": 2,
+	"sivu": "42"
+	},
+	
+	{
+	"ID": 33,
+	"Question": "Mikä seuraavista kansainvälistymisstrategioita koskevista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Linsensoinnissa yritys antaa kohdemaassa toimivalle organisaatiolle jotain rahan arvoista vastineeksi työstä ja maksusuorituksista", "Multilevel-markkinointi on franchising-järjestelmän muoto", "Kansainvälisen strategisen allianssin hyötyjä on esimerkiksi parantunut kilpailuasetelma allianssin ulkopuolisia kilpailijoita vastaan", "Greenfield-sijoituksessa investointi ja riskit ovat suuret, mutta se ei vie paljon aikaa"],
+	"CorrAns": 3,
+	"sivu": "46"
+	},
+	
+	{
+	"ID": 34,
+	"Question": "Mikä seuraavista kansainvälistymiseen liittyvistä väitteistä ei pidä paikkaansa?",
+	"Answers": ["Born Global –yritykset tähtäävät jo syntyessään kansainvälisille markkinoille", "Tytäryhtiöoperaatiota ovat esimerkiksi Greenfield-sijoitus ja multilevel-markkinointi", "Greenfield-sijoituksessa toimipiste rakennetaan alusta saakka kohdemaahan", "Acquisition on sellainen kansainvälistymisen muoto, jossa emoyhtiö ostaa paikallisen yrityksen osaksi emoyhtiötä"],
+	"CorrAns": 1,
+	"sivu": "44"
+	},
+	
+	{
+	"ID": 35,
+	"Question": "Vuonna 2013 julkaistun Yrityskatsauksen mukaan tuhannesta suomalaisesta yrityksestä 998 oli mikroyrityksiä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "34"
+	},
+	
+	{
+	"ID": 36,
+	"Question": "Nykyisin yritysten välinen kilpailu on Suomessa monilla aloilla siirtynyt ketjujen eli verkostojen välille",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "34"
+	},
+	
+	{
+	"ID": 37,
+	"Question": "Suomi on voimakkaasti riippuvainen kansainvälisestä kaupasta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "33"
+	},
+	
+	{
+	"ID": 38,
+	"Question": "Suomessa suurin osa yrityksistä on pk-yrityksiä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "34"
+	},
+	
+	{
+	"ID": 39,
+	"Question": "1990-luvulle asti kansainvälistymisen operaatiomuotojen käyttö rajoittui pitkälti tuontiin ja vientiin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "35"
+	},
+	
+	{
+	"ID": 40,
+	"Question": "Kausivaihtelut voivat olla kotimarkkinoiden työntötekijä päätöksessä kansainvälistyä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "36"
+	},
+	
+	{
+	"ID": 41,
+	"Question": "Kansainvälisten kohdemarkkinoiden maantieteellinen läheisyys tarkoittaa aina asiakkaiden läheisyyttä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "37"
+	},
+	
+	{
+	"ID": 42,
+	"Question": "Solbergin mukaan toimialojen kansainvälisyys voi vaihdella",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "37"
+	},
+	
+	{
+	"ID": 43,
+	"Question": "Jos yritys on kansainvälisesti kypsä, tarkoittaa se, että sillä on globaalisti hallitseva markkina-asema",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "39"
+	},
+	
+	{
+	"ID": 44,
+	"Question": "Gaston-Bretonin ja Martinin kaksivaiheinen malli jakautuu makro- ja mikrotason tarkasteluun",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "40"
+	},
+	
+	{
+	"ID": 45,
+	"Question": "Gaston-Bretonin ja Martinin mukaan kohdemarkkinoiden kehittyneisyyteen vaikuttavat muun muassa bruttokansantuote, työllisyysaste ja kotitalouksien suhteellinen internetyhteyksien määrä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "41"
+	},
+	
+	{
+	"ID": 46,
+	"Question": "Gaston-Breton ja Martin liittivät ”selviytymisarvoihin” työnteon ja itsenäisyyden arvostuksen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "41"
+	},
+	
+	{
+	"ID": 47,
+	"Question": "Rojalti on yksi lisensoinnin muodoista",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "43-44"
+	},
+	
+	{
+	"ID": 48,
+	"Question": "Acquisition on kansainvälistymisstrategia, joka mahdollistaa ostettavan yrityksen asiakassuhteiden ja ammattitaidon säilymisen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "45"
+	},
+	
+	{
+	"ID": 49,
+	"Question": "Greenfield-sijoituksessa yritys saa tytäryhtiöstä osittaisen kontrollin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "46"
+	},
+	
+	{
+	"ID": 50,
+	"Question": "Mikä seuraavista ei kuulu PESTE-analyysiin?",
+	"Answers": ["Poliittiset tekijät", "Taloudelliset tekijät", "Psykologiset tekijät", "Teknologiset tekijät"],
+	"CorrAns": 2,
+	"sivu": "67"
+	},
+	
+	{
+	"ID": 51,
+	"Question": "Viiden kilpailuvoiman mallin mukaan:",
+	"Answers": ["Tavarantoimittajan neuvotteluasema markkinoilla on hyvä, mikäli asiakkaan vaihdon kustannus on korkea", "Kyseessä on epätäydellinen kilpailu, jos jollakin tai joillakin tahoilla on huomattavasti muita enemmän neuvotteluvoimaa", "Toimialan rakenne määrittyy asiakkaiden ostovoiman mukaan", "Korvaavilla tuotteilla tarkoitetaan uhkaa, joka aiheutuu, mikäli asiakas voi korvata muun tuotteen yrityksen valmistamalla tuotteella"],
+	"CorrAns": 1,
+	"sivu": "75"
+	},
+	
+	{
+	"ID": 52,
+	"Question": "Mikä seuraavista ei ole SWOT-analyysissä tarkastelun kohteena?",
+	"Answers": ["Sisäiset vahvuudet", "Ulkoiset mahdollisuudet", "Sisäiset uhat", "Ulkoiset uhat"],
+	"CorrAns": 2,
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 53,
+	"Question": "PESTE-analyysissä sosiaalisilla tekijöillä ei tarkoiteta",
+	"Answers": ["Kulttuuria", "Trendejä", "Kulttuurisia instituutioita", "Tapoja"],
+	"CorrAns": 0,
+	"sivu": "68"
+	},
+	
+	{
+	"ID": 54,
+	"Question": "Mitä seuraavista ei ole kirjassa mainittu liiketoiminnan reunaehdoksi?",
+	"Answers": ["Naisten siirtyminen työelämään", "Huonontunut taloudellinen tilanne", "Kehittynyt logistiikka", "Palvelusektorin kasvu"],
+	"CorrAns": 1,
+	"sivu": "55"
+	},
+	
+	{
+	"ID": 55,
+	"Question": "Mikä seuraavista PESTE-analyysia koskevista väittämistä ei pidä paikkaansa?",
+	"Answers": ["Työsuojelulaki on esimerkki poliittisesta tekijästä", "Taloudellisiin tekijöihin vaikuttavat esimerkiksi suhdanteet", "Y-sukupolven edustajat eivät ole aiempia sukupolvia tietoisempia ympäristöasioista", "Demografisia tekijöitä ovat esimerkiksi ikä, sukupuoli ja koulutustaso"],
+	"CorrAns": 2,
+	"sivu": "69"
+	},
+	
+	{
+	"ID": 56,
+	"Question": "Mikä seuraavista viiden kilpailuvoiman malliin liittyvistä väittämistä ei pidä paikkaansa?",
+	"Answers": ["Sitä kutsutaan myös toimiala-analyysiksi", "Sen kehitti Michael J. Porter", "Malli on geneerinen", "Suuri pääoman tarve on matala alalletulon este"],
+	"CorrAns": 3,
+	"sivu": "74"
+	},
+	
+	{
+	"ID": 57,
+	"Question": "Mikä seuraavista väittämistä pitää paikkaansa?",
+	"Answers": ["Globalisaatio ja kansainvälistyminen on helpottanut toimintaympäristön tuntemista", "Markkinatiedon hyödyntämisellä tarkoitetaan markkinointia varten tehtävää tutkimusta", "Markkinatiedon hankinnan ei tarvitse olla systemaattista", "Kertaluontoisen markkinatutkimuksen tarkoitus ei ole ajallinen vertailukelpoisuus"],
+	"CorrAns": 3,
+	"sivu": "83"
+	},
+	
+	{
+	"ID": 58,
+	"Question": "Mikä seuraavista pitää paikkansa?",
+	"Answers": ["Jatkuva markkinatutkimus voidaan tehdä esimerkiksi neljännesvuosittain", "Fokusryhmähaastattelu on laadullisen tutkimuksen menetelmä", "Markkinatutkimusprosessi lähtee liikkeelle tutkimussuunnitelman laatimisesta", "Toissijainen lähde tarkoittaa aineistoa, joka luodaan oman tutkimuksen pohjalta"],
+	"CorrAns": 1,
+	"sivu": "85"
+	},
+	
+	{
+	"ID": 59,
+	"Question": "Mikä seuraavista ei pidä paikkaansa?",
+	"Answers": ["Puhelinhaastattelun etuna on vastausten saaminen suhteellisen nopeasti", "Postikysely on usein kallis toteuttaa", "Mystery shopping on yksi tapa tehdä havainnointitutkimusta", "Teemahaastattelu tehdään yksilö- tai parihaastatteluna"],
+	"CorrAns": 3,
+	"sivu": "86"
+	},
+	
+	{
+	"ID": 60,
+	"Question": "Mikä seuraavista ei ole kvalitatiivinen aineistonkeruumenetelmä?",
+	"Answers": ["Puhelinhaastattelu", "Fokusryhmähaastattelu", "Mystery shopping", "Simulaatio"],
+	"CorrAns": 0,
+	"sivu": "87"
+	},
+	
+	{
+	"ID": 61,
+	"Question": "Houston toteaa markkinoinnin määritelmässään, että:",
+	"Answers": ["Yritys saavuttaa omat tavoitteensa ymmärtämällä toisaalta asiakkaista aiheutuvien kustannusten merkityksen ja toisaalta tuottamansa arvon suhteen hintaan", "Yritys saavuttaa omat tavoitteensa ymmärtämällä toisaalta nykyisten ja potentiaalisten asiakkaidensa tarpeet ja toisaalta niiden täyttämiseen liittyvät kustannukset", "Yritys saavuttaa omat tavoitteensa ymmärtämällä toisaalta kilpailijoidensa kilpailustrategian ja toisaalta niiden voittamiseen liittyvät keinot", "Yritys saavuttaa omat tavoitteensa ymmärtämällä toisaalta tuotantonsa kustannusrakenteen ja toisaalta kustannusten leikkaamisen mahdollisuudet"],
+	"CorrAns": 1,
+	"sivu": "91"
+	},
+	
+	{
+	"ID": 62,
+	"Question": "Differoinnilla tarkoitetaan, että:",
+	"Answers": ["Yritys kopioi kilpailijansa tarjooman", "Yritys pyrkii alentamaan hintojaan kilpailijoihin nähden", "Yritys erilaistaa oman tarjoomansa kilpailijoiden tarjoomista", "Yritys asemoi itsensä positiivisesti"],
+	"CorrAns": 2,
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 63,
+	"Question": "Segmentoinnissa psykografista ryhmittelyä voidaan tehdä:",
+	"Answers": ["Iän mukaan", "Sosiaaliluokan mukaan", "Koulutustaustan mukaan", "Tulojen mukaan"],
+	"CorrAns": 1,
+	"sivu": "92"
+	},
+	
+	{
+	"ID": 64,
+	"Question": "Jotta asiakassegmenttiä voidaan hyödyntää, tulee sen olla:",
+	"Answers": ["Mitattava, tavoitettava, merkittävä ja helposti lähestyttävä", "Tavoitettava, merkittävä, uusi ja toimintakelpoinen", "Merkittävä, toimintakelpoinen, mitattava ja tavoitettava", "Toimintakelpoinen, mitattava, tavoitettava ja varakas"],
+	"CorrAns": 2,
+	"sivu": "92-93"
+	},
+	
+	{
+	"ID": 65,
+	"Question": "Niche-markkinoinnissa hyödynnetään kapeasti määriteltyä alasegmenttiä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "93"
+	},
+	
+	{
+	"ID": 66,
+	"Question": "Asemointi on yrityksen pyrkimystä sijoittaa tarjoomansa tiettyyn asemaan kilpailijoidensa suhteen asiakkaan mielessä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 67,
+	"Question": "Asemointi auttaa differoinnissa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 68,
+	"Question": "Vastakkainasettelun hyödyntäminen on yksi asemointikeino",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 69,
+	"Question": "PESTE-analyysi on menetelmä, jolla tarkastellaan niitä tekijöitä, joihin yritys voi omalla toiminnallaan vaikuttaa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "67"
+	},
+	
+	{
+	"ID": 70,
+	"Question": "Saturaatio de facto tarkoittaa markkinoiden kasvupotentiaalia",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "75"
+	},
+	
+	{
+	"ID": 71,
+	"Question": "Toimiala-analyysi tarjoaa uutta yritystoimintaa suunnitteleville hyödyllisen tavan analysoida markkinoiden nykytilaa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "75"
+	},
+	
+	{
+	"ID": 72,
+	"Question": "SWOT-analyysissä ulkoisten mahdollisuuksien arviointi sisältää yrityksen kilpailukeinovalikoiman arvioinnin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "77"
+	},
+	
+	{
+	"ID": 73,
+	"Question": "SWOT-analyysissä on syytä arvioida nykytilan ohella myös tulevaisuuden kehityssuuntia",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "77"
+	},
+	
+	{
+	"ID": 74,
+	"Question": "Kvantitatiivisessa tutkimuksessa aineisto koostuu laajasta numeerisesta datasta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "87"
+	},
+	
+	{
+	"ID": 75,
+	"Question": "Millaiseksi strategiaa ei ole luonnehdittu?",
+	"Answers": ["Organisaation suunnanmäärittäjäksi", "Organisaation menestyksen reseptiksi", "Organisaation ainutlaatuisuuden, kilpailuedun ja ylivoimaisuuden lähteeksi", "Organisaation operatiivisiksi toimiksi"],
+	"CorrAns": 3,
+	"sivu": "98"
+	},
+	
+	{
+	"ID": 76,
+	"Question": "Mikä seuraavista ei kuulu Petersin ja Watermanin 7S:n malliin?",
+	"Answers": ["Tavoitteet", "Johtajat", "Henkilöstö", "Strategia"],
+	"CorrAns": 1,
+	"sivu": "102"
+	},
+	
+	{
+	"ID": 77,
+	"Question": "Mikä seuraavista strategiakoulukuntiin liittyvistä väittämistä pitää paikkansa?",
+	"Answers": ["Inkrementalismin mukaan on olemassa universaalisti, aina ja kaikissa organisaatioissa toimivat menestykseen johtavat toimenpiteet", "Hyperkilpailukoulukunnan mukaan organisaatioympäristö on muuttunut stabiiliksi kilpailuympäristöksi", "Osaamispainotteisuudessa painotetaan aineellisen osaamisen merkitystä", "Suunnittelulähtöisyydessä ajatellaan, että strategia ja sen toteutus voidaan eriyttää"],
+	"CorrAns": 3,
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 78,
+	"Question": "Mikä seuraavista ei ole Porterin strategiavaihtoehto?",
+	"Answers": ["Erilaistuminen", "Kustannustehokkuus", "Kustannusjohtajuus", "Erikoistuminen"],
+	"CorrAns": 1,
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 79,
+	"Question": "Mikä seuraavista ei ole strategian olemassaolon syy Mintzbergin mukaan?",
+	"Answers": ["Organisaation identiteetin rakentaminen", "Tuomaan johdonmukaisuutta organisaation toimiin", "Yhtenäistämään organisaation tekemisiä", "Puuttumaan operatiivisiin virheisiin"],
+	"CorrAns": 3,
+	"sivu": "99"
+	},
+	
+	{
+	"ID": 80,
+	"Question": "Mikä seuraavista strategia-ajattelun kehittymistä koskeva väittämä pitää paikkansa?",
+	"Answers": ["Yritystoiminnan suunnittelu (corporate planning) perustuu mikrotaloudellisiin laskelmiin", "1950-luvulla vaikuttivat Andrewsin ja Ansoffin ajatukset", "1960-luvulla kehitettiin strategisen johtamisen malleja, jotka toimivat yrityksen alasta riippumatta", "1990-lukua voidaan pitää puhtaasti resurssistrategian aikana"],
+	"CorrAns": 2,
+	"sivu": "102"
+	},
+	
+	{
+	"ID": 81,
+	"Question": "Konsensusstrategia syntyy:",
+	"Answers": ["Rationaalisen suunnittelun ja johtamisen seurauksena", "Hyvin johdetun strategiatyön tuloksena", "Eri toimijoiden suorittamista sopeutumisprosesseista toistensa toimintaa kohtaan", "Onnistuneen strategian jalkautusprosessin seurauksena"],
+	"CorrAns": 2,
+	"sivu": "104"
+	},
+	
+	{
+	"ID": 82,
+	"Question": "Mikä seuraavista kuuluu Juutin ja Luoman strategiakoulukuntien jaotteluun?",
+	"Answers": ["Kilpailupainotteisuus", "Inkreativiteetti", "Hyperkilpailu", "Suunnitteluasemointi"],
+	"CorrAns": 2,
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 83,
+	"Question": "Mikä seuraavista ei ole kirjassa mainittu laadullinen elementti kilpailuedun lähteenä?",
+	"Answers": ["Pääomaresurssit", "Osaaminen", "Organisaation identiteetti", "Henkilöstöresurssit"],
+	"CorrAns": 0,
+	"sivu": "109"
+	},
+	
+	{
+	"ID": 84,
+	"Question": "Mikä seuraavista ei ole kirjassa mainittu strategian onnistumiseen vaikuttava kontekstuaalinen tekijä?",
+	"Answers": ["Henkilöstöresurssit", "Strategian jalkautusaika", "Toimintaympäristö", "Johdon kyvykkyys"],
+	"CorrAns": 1,
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 85,
+	"Question": "Mikä seuraavista ei ole inkrementalismin mukainen ajatus?",
+	"Answers": ["Ympäristö on organisaatiota voimakkaampi", "Strategiaa luotaessa on tärkeää pyrkiä muovaamaan ympäristöä", "Organisaation tehtävä on ympäristön ominaisuuksien havainnointi", "Organisaation tulee sopeutua ympäristöön"],
+	"CorrAns": 1,
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 86,
+	"Question": "Millerin mukaan uusista strategia-avauksista onnistuu keskimäärin:",
+	"Answers": ["30%", "40%", "50%", "70%"],
+	"CorrAns": 0,
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 87,
+	"Question": "Mikä seuraavista ei kuulu Heenen toteamiin strategisesti keskeisiin asioihin?",
+	"Answers": ["Organisaatio sopeuttaa toimintaansa toimialan kilpailutekijöiden vaatimuksiin", "Yritysjohto pyrkii asemoimaan yrityksen niin, että se saavuttaa kestävän kilpailuaseman", "Yrityksen menestystekijöitä tarkastellaan organisaation ulkoisten tekijöiden kautta", "Yrityksen avainkysymyksiä on sisäisten resurssien määrä"],
+	"CorrAns": 3,
+	"sivu": "109"
+	},
+	
+	{
+	"ID": 88,
+	"Question": "Inhimilliseen pääomaan eivät kuulu:",
+	"Answers": ["Yksilöiden taidot", "Yksilöiden verkostot", "Yksilöiden asenteet", "Yksilöiden tiedot"],
+	"CorrAns": 1,
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 89,
+	"Question": "Suhdepääomaa eivät ole:",
+	"Answers": ["Sidosryhmät", "Asiakkuudet", "Yhteistyösuhteet", "Järjestelmät"],
+	"CorrAns": 3,
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 90,
+	"Question": "Kilpailukyvyn eroosioita voidaan edistää omintakeisella, vaikeasti kopioitavalla osaamisella",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "110"
+	},
+	
+	{
+	"ID": 91,
+	"Question": "Jonesin tutkimusten mukaan suurin osa yrityksen työntekijöistä ymmärtää organisaationsa strategian",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "112"
+	},
+	
+	{
+	"ID": 92,
+	"Question": "Muutoksen johtamisen juuret ovat 1940-luvulla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "114"
+	},
+	
+	{
+	"ID": 93,
+	"Question": "T-ryhmissä keskityttiin menneisyyden tapahtumien käsittelyyn",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "115"
+	},
+	
+	{
+	"ID": 94,
+	"Question": "Organisaation muunnos -koulukunta (organization transformation) jakoi muutoksen ensi-asteen ja toisen asteen muutokseen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 95,
+	"Question": "Toteutuva muutos on rationaalisesti ja lineaarisesti etenevä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 96,
+	"Question": "Toteutuvalla muutoksella on emergentti luonne",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 97,
+	"Question": "Culture excellence –koulukunnan mukaan suunniteltu muutos ei sellaisenaan sovellu vastaamaan ympäristön epävakauteen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 98,
+	"Question": "Tuloskorttiajattelun (BSC) tavoitteena oli systematisoida strategiatyöt",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "106"
+	},
+	
+	{
+	"ID": 99,
+	"Question": "Rakenteelliseen pääomaan kuuluvat prosessit, järjestelmät ja verkostot",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 100,
+	"Question": "Mikä seuraavista vaihtoehdoista on McCarthyn 4P-malli?",
+	"Answers": ["Tuotanto, hinta, markkinointiviestintä, prosessit", "Tuote, ihmiset, jakelu, markkinointiviestintä", "Ihmiset, hinta, jakelu, fyysinen todiste", "Tuote, hinta, jakelu, markkinointiviestintä"],
+	"CorrAns": 3,
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 101,
+	"Question": "Mikä seuraavista ei ole yksi kolmesta P:stä, jotka lisättiin 1980-luvulla McCarthyn 4P-malliin?",
+	"Answers": ["People", "Promotion", "Physical evidence", "Process"],
+	"CorrAns": 1,
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 102,
+	"Question": "Mikä seuraavista EI ole yksi tuotteen kolmesta elementistä?",
+	"Answers": ["Mielikuvatuote", "Ydintuote", "Tukituote", "Lisäetu"],
+	"CorrAns": 2,
+	"sivu": "128"
+	},
+	
+	{
+	"ID": 103,
+	"Question": "Mikä seuraavista on tuotteen lisäetu?",
+	"Answers": ["Kotiinkuljetus", "Käytön opastus", "Takuu", "Huoltopalvelu"],
+	"CorrAns": 2,
+	"sivu": "129"
+	},
+	
+	{
+	"ID": 104,
+	"Question": "Laatujohtamiselle ominaista on:",
+	"Answers": ["Sen tavoitteena on kehittää vain organisaation toiminnan laatua", "Laatujohtamisen on ulotuttava jälkimarkkinointiin asti", "Takuut eivät ole osa laatujohtamista", "Laatujohtamisessa vastuu on ylimmällä johdolla"],
+	"CorrAns": 1,
+	"sivu": "129"
+	},
+	
+	{
+	"ID": 105,
+	"Question": "Mikä seuraavista hintaväitteistä EI ole totta?",
+	"Answers": ["Hinta on operatiivinen elementti", "Markkinahinta ei ole kustannusperusteinen", "Hinta voi olla haaste kilpailijoiden suuntaan", "Hintaan voivat vaikuttaa sekä sisäiset että ulkoiset tekijät"],
+	"CorrAns": 0,
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 106,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Samaa tuotetta voidaan myydä samoilla markkinoilla samaan aikaan eri kohderyhmille eri hintaan", "Kermankuorintahinnoittelussa hinnasta ”otetaan turhat pois” jotta kuluttajat kiinnostuisivat siitä", "Hinnalla ja kysynnällä on positiivinen korrelaatio; kysyntä laskee jos hinta laskee", "Asiakkaalla ei ole kovinkaan suurta roolia yrityksen hinnoitteluratkaisuissa"],
+	"CorrAns": 0,
+	"sivu": "134"
+	},
+	
+	{
+	"ID": 107,
+	"Question": "Hintadifferointi on saman tuotteen myymistä eri hinnoilla eri asiakkaalle",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "136"
+	},
+	
+	{
+	"ID": 108,
+	"Question": "Yritys haluaa kasvattaa nopeasti lyhyen aikavälin myyntiä. Mikä seuraavista voisi olla ratkaisu?",
+	"Answers": ["Kasvattaa tuotteiden hintaa", "Investoida PR-kampanjaan", "Vaihtaa valmistamaan tuotteita, joissa on suurempi kate", "Ylisuuren varaston purkaminen alennuksilla"],
+	"CorrAns": 3,
+	"sivu": "136"
+	},
+	
+	{
+	"ID": 109,
+	"Question": "Yrityksen saatavuudesta puhuttaessa tarkoitetaan sitä, että kuinka hyvin sen alihankkijaverkosto toimii",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "137"
+	},
+	
+	{
+	"ID": 110,
+	"Question": "Mikä seuraavista väittämistä EI ole totta?",
+	"Answers": ["B2B-markkinat = Yritysmarkkinat", "Penetraatiohinnoittelu = Alhaisella hinnalla pyritään valtaamaan markkinat", "Markkinahinta = Tuotantohinta + yrityksen haluama kate", "Kulutushyödyke = Kerran tai muutaman kerran käytettävä hyödyke"],
+	"CorrAns": 2,
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 111,
+	"Question": "Tukkuporras kannattaa lisätä jakelukanavaan kun tuotannon määrä on suuri ja yrityksellä on tarpeeksi resursseja",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "138"
+	},
+	
+	{
+	"ID": 112,
+	"Question": "Yritysmarkkinoilla yleisimmät kanavaratkaisut ovat suoramyynti, jakeluliike, agentti ja agentti & jakeluliike",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "139"
+	},
+	
+	{
+	"ID": 113,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Suoramyynti on järkevää, kun tuotteen kustannukset ovat suuret", "Agentilla on kohdemaan tuntemus, joten kansainvälistymisessä se on järkevä osa kanavaratkaisua", "Kanavaratkaisujen valintaan vaikuttavat vuoropuhelun luonne sekä tuotteen ostomäärät", "Yritysmarkkinoilla tuotteet ovat usein standardoituja"],
+	"CorrAns": 3,
+	"sivu": "139"
+	},
+	
+	{
+	"ID": 114,
+	"Question": "Markkinointiviestinnällä on viisi perustoimintoa. Niistä yksi EI ole:",
+	"Answers": ["Mainonta", "Menekinedistäminen", "F2F-myyntityö", "Suoramarkkinointi"],
+	"CorrAns": 2,
+	"sivu": "140-141"
+	},
+	
+	{
+	"ID": 115,
+	"Question": "Mikä seuraavista väitteistä on totta?",
+	"Answers": ["Menekinedistämisen tehokkuutta voi mitata OTS-luvulla", "ROI-luku lasketaan jakamalla mainonnan seurauksena tulleet nettotulot mainontaan käytetyllä rahamäärällä", "Suhde- ja tiedotustoiminnan toinen nimi on julkisuushuolto", "Henkilökohtaiseen myyntityöhön ei kuulu ennen myyntiä olevat toiminnot"],
+	"CorrAns": 1,
+	"sivu": "142"
+	},
+	
+	{
+	"ID": 116,
+	"Question": "Porterin 4C-malli korostaa asiakkaan roolin merkitystä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "145"
+	},
+	
+	{
+	"ID": 117,
+	"Question": "Mikä seuraavista väitteistä 4C-mallista on oikein?",
+	"Answers": ["Jakelu korvataan sijainnin keskeisyydellä", "Tuote korvataan lisäarvolla", "Hinta korvataan asiakkaan kustannuksilla", "Markkinointiviestintä korvataan julkisuudella"],
+	"CorrAns": 2,
+	"sivu": "145"
+	},
+	
+	{
+	"ID": 118,
+	"Question": "Palvelujen osuus suomen BKT:stä on noin kaksi kolmasosaa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "153"
+	},
+	
+	{
+	"ID": 119,
+	"Question": "Mikä seuraavista EI ole totta?",
+	"Answers": ["Palvelusektorin kasvuun ovat vaikuttaneet laman aiheuttama kuluttajien tulojen lasku ja sosiologiset muutokset", "Suurempituloiset käyttävät rahaa suhteessa enemmän palveluihin kuin tuotteisiin", "Palvelulogiikan mukaan asiakas ostaa tarjoomia, ei tuotteita tai palveluita"],
+	"CorrAns": 0,
+	"sivu": "153"
+	},
+	
+	{
+	"ID": 120,
+	"Question": "Seuraavassa lista palveluiden ominaisuuksista. Mikä niistä EI pidä paikkaansa?",
+	"Answers": ["Grönroosin mukaan palvelu on prosessi, joka koostuu aineettomista toiminnoista", "Palveluihin liittyvät ominaisuudet ovat kokemus- ja uskomuspohjaisia", "Palvelujen keskeisimmät ominaisuudet ovat prosessimaisuus, aineettomuus ja interaktiivisuus", "Palveluprosessin tavoitteena on ratkaista asiakkaan ongelma"],
+	"CorrAns": 2,
+	"sivu": "156"
+	},
+	
+	{
+	"ID": 121,
+	"Question": "Parasuraman, Zeithaml ja Berry kehittivät laatukuilumallin vuonna 1985. Niitä ovat johdon näkemyksen kuilu, palvelun toimituksen kuilu, koetun palvelun laadun kuilu, laatuvaatimusten kuilu ja markkinointiviestinnän kuilu",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "160-168"
+	},
+	
+	{
+	"ID": 122,
+	"Question": "Mikä seuraavista väitteistä liittyen johdon näkemyksen kuiluun ja laatuvaatimusten kuiluun EI ole totta?",
+	"Answers": ["Johdon näkemyksen kuilussa yritysjohto ei tiedä, mitä asiakkaat odottavat heidän yrityksensä palveluilta", "Tutkimusmenetelmässä SERVQUAL asiakasta pyydetään kuvailemaan palvelukohtaamista, jonka hän on kokenut erityisen onnistuneeksi tai epäonnistuneeksi", "Laatuvaatimusten kuilussa palveluprosessin suunnittelussa ei ole kiinnitetty huomiota oikeisiin asioihin", "Lisäpalvelut ovat osia palvelusta, jotka voivat heikentää tai vahvistaa yrityksen asemaa markkinoilla"],
+	"CorrAns": 1,
+	"sivu": "161"
+	},
+	
+	{
+	"ID": 123,
+	"Question": "Kuluttajakäyttäytymiselle on ominaista:",
+	"Answers": ["Pitkä harkinta-aika", "Korkea kynnys vaihtaa ostopaikkaa", "Psykologisten ja emotionaalisten tekijöiden suuri vaikuttavuus", "Tavarantoimittajan epäonnistuminen aiheuttaa suurta mielipahaa"],
+	"CorrAns": 2,
+	"sivu": "171"
+	},
+	
+	{
+	"ID": 124,
+	"Question": "Kuluttajakäyttäytymistä kuvastavat adjektiivit dynaamisuus, interaktiivisuus ja vaihdanta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "172"
+	},
+	
+	{
+	"ID": 125,
+	"Question": "Kuluttajan ostopäätösprosessiin EI kuulu ",
+	"Answers": ["Tarpeenharkinta", "Päätös", "Hankinnan jälkeinen arviointi", "Vaihtoehtojen arviointi"],
+	"CorrAns": 0,
+	"sivu": "173"
+	},
+	
+	{
+	"ID": 126,
+	"Question": "”Evoked set” tarkoittaa kaikkia markkinoilla olevan tuoteryhmän tuotteita",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "174"
+	},
+	
+	{
+	"ID": 127,
+	"Question": "Mikä seuraavista väitteistä ei ole totta?",
+	"Answers": ["Kognitiivinen dissonanssi liittyy hankinnan jälkeiseen arviointiin", "Ostopäätösprosessin demografisiin tekijöihin liittyy Maslow’n tarvehierarkia", "Ostopäätösprosessiin vaikuttavat tuotte en luonne, ympäristö, kuluttajan persoonallisuus ja viiteryhmät", "Maslow’n tarvehierarkian ylin osa on itsensä toteuttamisen tarpeet"],
+	"CorrAns": 1,
+	"sivu": "176"
+	},
+	
+	{
+	"ID": 128,
+	"Question": "Ihmisten asenteet voidaan jakaa kolmeen osaan. Mikä väite näistä asenteista EI ole totta?",
+	"Answers": ["Kognitiiviset asenteet liittyvät rationaalisiin arviointiin", "Affektiiviset asenteet liittyvät tunnepohjaisiin arviointiin", "Aktiiviset asenteet liittyvät käyttäytymiseen"],
+	"CorrAns": 2,
+	"sivu": "177"
+	},
+	
+	{
+	"ID": 129,
+	"Question": "Geert Hofsteden kehitti viisi kulttuuridimensiota joilla kulttuuriarvoja voi ryhmitellä. Mikä näistä väitteistä on totta?",
+	"Answers": ["Valtaetäisyys liittyy demokratian määrään yhteiskunnassa", "Individualismi vs. kollektivismi kuvaa yksilön suhdetta yhteisöön", "Maskuliinisuus vs. feminiinisyys kuvaa yhteiskunnan patriarkaalisuutta", "Pitkän vs. lyhyen aikavälin suuntautumisen kuvaa yhteiskunnan säännöstelyn määrää"],
+	"CorrAns": 1,
+	"sivu": "178"
+	},
+	
+	{
+	"ID": 130,
+	"Question": "Mikä seuraavista kuvaa B2B-asiakkaan käyttäytymistä?",
+	"Answers": ["Hinnoista ei neuvotella", "Viestinnässä korostetaan taloudellisia etuja", "Jakelukanavat ovat pitkiä ja monimutkaisia", "Mainonta on tärkeämpää kuin henkilökohtainen myyntityö"],
+	"CorrAns": 1,
+	"sivu": "180"
+	},
+	
+	{
+	"ID": 131,
+	"Question": "Ostopäätösprosessin eteneminen vaihtelee sen mukaan onko kyseessä uusi ostos, sovellettu uusintaostos vai uusintaostos",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "181"
+	},
+	
+	{
+	"ID": 132,
+	"Question": "Kuka seuraavista ei ole ostotiimin jäsen?",
+	"Answers": ["Johtaja", "Päättäjä", "Käyttäjä", "Ostaja"],
+	"CorrAns": 0,
+	"sivu": "182"
+	},
+	
+	{
+	"ID": 133,
+	"Question": "Mikä seuraavista EI pidä paikkaansa?",
+	"Answers": ["Suhdeajattelussa asiakkaiden tarpeet huomioidaan paremmin", "Asiakassuhteiden aktiivisessa johtamisessa asiakas muuttuu passiiviseksi toimijaksi", "Onnistunut asiakassuhdejohtaminen lisäävät asiakasuskollisuutta", "Suhdeajattelun rooli voimistui 1990-luvulla"],
+	"CorrAns": 1,
+	"sivu": "185"
+	},
+	
+	{
+	"ID": 134,
+	"Question": "Asiakassuhteet voi jaotella neljään ryhmään – asiakassuhteet, toimittajasuhteet, sisäiset suhteet ja ulkoiset suhteet",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "187"
+	},
+	
+	{
+	"ID": 135,
+	"Question": "Asiakassuhteiden johtamisella on neljä keskeistä tehtävää. Mikä seuraavista EI kuulu niihin?",
+	"Answers": ["Kehittää toimintaa palautteen perusteella", "Tunnistaa ja valita strategisesti tärkeät asiakkuudet", "Tehdä SWOT-analyysi eri asiakkuuksista", "Asettaa tavoitteita asiakassuhteiden kehittämiseksi"],
+	"CorrAns": 2,
+	"sivu": "191"
+	},
+	
+	{
+	"ID": 136,
+	"Question": "Yksi Dwyerin tikapuumallin portaista EI ole",
+	"Answers": ["Tunnistaminen", "Laajentuminen", "Sitoutuminen", "Purkautuminen"],
+	"CorrAns": 0,
+	"sivu": "191"
+	},
+	
+	{
+	"ID": 137,
+	"Question": "Mikä seuraavista EI ole yksi porrasmallin asiakasryhmistä?",
+	"Answers": ["Prospekti", "Kanta-asiakas", "Suosittelija", "Menetetty asiakas"],
+	"CorrAns": 3,
+	"sivu": "192"
+	},
+	
+	{
+	"ID": 138,
+	"Question": "Yksi seuraavista on verkon ominaisuus, mikä?",
+	"Answers": ["Verkko on emergentisti muodostunut yritysjoukko", "Verkkoa ei kehitetä tietoisesti", "Verkossa jäsenillä on sovitut roolit", "Verkolla ei ole yhteistä päämäärä, sen jäsenet kuitenkin toimivat yhteistyössä"],
+	"CorrAns": 2,
+	"sivu": "190"
+	},
+	
+	{
+	"ID": 139,
+	"Question": "Storbackan, Strandvikin ja Grönroosin mallin mukaan havaittu arvo vaikuttaa suhteen kannattavuuteen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "194"
+	},
+	
+	{
+	"ID": 140,
+	"Question": "Lehtisen mukaan asiakassuhteen arvoa voi tarkastella neljästä näkökulmasta; faktuaalinen, integraalinen, evaluatiivinen ja potentiaalinen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "195"
+	},
+	
+	{
+	"ID": 141,
+	"Question": "Evaluatiivisen arvon mittareita on lueteltu pääsykoekirjassa kolme. Mikä näistä EI ole yksi niistä?",
+	"Answers": ["Operatiivinen arvo", "Strateginen arvo", "Referenssiarvo", "Oppimisarvo"],
+	"CorrAns": 0,
+	"sivu": "196"
+	},
+	
+	{
+	"ID": 142,
+	"Question": "Mikä seuraavista kuuluu prosessiajatteluun?",
+	"Answers": ["Yritys kiinnittää huomiota työn tekemiseen ja organisoimiseen", "Yritys kiinnittää huomiota vain lopputuotteeseen", "Asiakasnäkökulman korostuminen", "Prosessijohtamisen tavoite on pitkällä aikavälillä tehdä liiketoiminnasta kustannustehokasta"],
+	"CorrAns": 0,
+	"sivu": "198"
+	},
+	
+	{
+	"ID": 143,
+	"Question": "Kilpailukyvyn eroosio tarkoittaa yrityksen kustannuksien nousua",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "199"
+	},
+	
+	{
+	"ID": 144,
+	"Question": "Mikä seuraavista EI ole prosessijohtamisen ominaisuus?",
+	"Answers": ["Prosessijohtamisessa tunnistetaan erilaisia työnkulkuja", "Yrityksen kaikki toiminnat eritellään pieniin osiin", "Prosessit voidaan jakaa ainakin ydin-, tuki- ja lisäprosesseihin", "Horisontaaliset ydinprosessit ovat asiakasrajapinnassa tapahtuvia kohtaamisia"],
+	"CorrAns": 2,
+	"sivu": "200"
+	},
+	
+	{
+	"ID": 145,
+	"Question": "Mikä seuraavista on kirjan mukaan hyvä tapa vähentää muutosvastarintaa?",
+	"Answers": ["Työntekijöiden palkkojen nostaminen", "Keskijohdon vaihtaminen", "Panostamalla riittävään ja oikea-aikaiseen viestintään", "Jakamalla työntekijät muutosryhmiin"],
+	"CorrAns": 2,
+	"sivu": "202"
+	},
+	
+	{
+	"ID": 146,
+	"Question": "Yksi prosessijohtamisen etu EI kirjan mukaan ole",
+	"Answers": ["Päätöksenteon tuki", "Yrityksen kokonaisuuden hahmottaminen", "Uudistaminen väline", "Asiakassuhteiden kehitys"],
+	"CorrAns": 3,
+	"sivu": "202-203"
+	},
+	
+	{
+	"ID": 147,
+	"Question": "Arvoketjumallin on kehittänyt",
+	"Answers": ["Parasuraman", "Grönroos", "Mintzberg", "Porter"],
+	"CorrAns": 3,
+	"sivu": "203"
+	},
+	
+	{
+	"ID": 148,
+	"Question": "Mikä seuraavista EI ole arvoketjumalliin liittyvä",
+	"Answers": ["Arvoketjumallin tavoite on myynnin maksimointi", "Arvoketjumalli auttaa näkemään toimintojen keskinäisiä kytkentöjä", "Arvoketjumallissa esitetään kaksi toimintoa; tukitoiminnot ja perustoiminnot", "Arvoketjumallissa painotetaan prosesseja"],
+	"CorrAns": 0,
+	"sivu": "204"
+	},
+	
+	{
+	"ID": 149,
+	"Question": "Mikä seuraavista EI ole pankki- ja vakuutusalaa koskettava ilmiö OP-Ryhmän pääjohtaja Reijo Karhisen mukaan?",
+	"Answers": ["Rahaliikenteen sääntelyn purku", "Alan rakennemuutos", "Euroopan finanssikriisi", "Toimialojen perinteisten rajojen murtuminen"],
+	"CorrAns": 0,
+	"sivu": "205"
+	},
+	
+	{
+	"ID": 150,
+	"Question": "Karhisen mukaan prosessijohtamisen tärkeimpiä asioita ovat asiakkaita arvostava, asiakaslähtöinen asenne ja tahto palvella hyvin",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "209"
+	},
+	
+	{
+	"ID": 151,
+	"Question": "Mielikuvia koskeva keskustelu liittyy pitkälti moniin asioihin. Mihin se EI liity?",
+	"Answers": ["Organisaatiokulttuuriin", "Organisaatioidentiteettiin", "Imagoon", "Maineeseen"],
+	"CorrAns": 0,
+	"sivu": "214"
+	},
+	
+	{
+	"ID": 152,
+	"Question": "Mikä seuraavista kysymyksistä liittyy organisaation identiteettiin?",
+	"Answers": ["Keitä olemme olleet?", "Mitkä ovat organisaation heikkouksia?", "Mikä organisaatiossa on samanlaista kuin muissa organisaatioissa?", "Mitkä piirteet organisaatiossa sen jäsenet käsittävät pysyviksi?"],
+	"CorrAns": 3,
+	"sivu": "215"
+	},
+	
+	{
+	"ID": 153,
+	"Question": "Organisaation identiteetti rakentuu vuorovaikutuksessa organisaation jäsenten kesken, mutta sen vaikuttavat myös organisaation sidosryhmien välinen vuorovaikutus",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "216"
+	},
+	
+	{
+	"ID": 154,
+	"Question": "Organisaation imago rakentuu sisäisten sidosryhmien mielikuvista",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "217"
+	},
+	
+	{
+	"ID": 155,
+	"Question": "Mikä seuraavista EI ole totta?",
+	"Answers": ["Organisaation sisäinen käsitys rakentuu niiden mielikuvien ja uskomusten kautta, joita organisaation jäsenet olettavat organisaation ulkopuolisilla olevan heistä", "Myönteinen ja kestävä imago rakentuu ensisijaisesti markkinointiviestinnällisen toiminnan kautta ja toissijaisesti toiminnan kautta", "Muutoksessa organisaatio-identiteetillä on suuri rooli siinä, miten muutos onnistuu", "Muutoksen edistävänä tekijänä voi olla johdon tapa käsitellä identiteettiä"],
+	"CorrAns": 1,
+	"sivu": "217"
+	},
+	
+	{
+	"ID": 156,
+	"Question": "Miksi Supercellilla on “pienuuden strategia”? Valitse yksi oikea vastaus",
+	"Answers": ["Pienissä yrityksissä on parempi pöhinä", "Suuret yritykset kompastuvat helposti kansainvälistymisen vaatimuksiin", "Pienet yrityksen ovat tehokkaampia ja persoonallinen ote säilyy", "Suuri yritys lisäisi epäonnistumisen pelkoa"],
+	"CorrAns": 2,
+	"sivu": "223"
+	},
+	
+	{
+	"ID": 157,
+	"Question": "Imago heijastaa sidosryhmien arvioita yrityksestä, jotka ovat kumuloituneet ajan kanssa. Maine on ihmisten mielissä syntynyt yleinen kuva tai profiili yrityksestä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "225-226"
+	},
+	
+	{
+	"ID": 158,
+	"Question": "Mikä seuraavista pitää paikkansa imagoon liittyvistä väittämistä?",
+	"Answers": ["Imago muodostuu faktoista, ideoista, tuntemuksista ja kokemuksista, jotka jäävät vain hetkeksi ihmisen muistiin hänen oltua vuorovaikutuksessa yrityksen kanssa", "Yrityksellä voi olla monta imagoa", "Imagon toiminnallinen osa-alue muodostuu yrityksen markkinointiviestinnän merkityksestä asiakkaalle", "Imagon emotionaalinen osa-alue muodostuu tunteista ja asenteista, joita yritys pyrkii aiheuttamaan ihmisessä"],
+	"CorrAns": 1,
+	"sivu": "225"
+	},
+	
+	{
+	"ID": 159,
+	"Question": "Mikä seuraavista EI pidä paikkaansa liittyen yrityksen maineeseen?",
+	"Answers": ["Maine rakentuu sen perusteella, millaista tietoa yrityksen toimista välittyy suoraan, median kautta ja muista lähteistä", "Maineen arvioinnit perustuvat yrityksen taloudellisiin, sosiaalisiin ja ympäristöllisiin vaikutuksiin", "Maineen vaikutus sidosryhmien käyttäytymiseen ei ole suuri", "Maine perustuu usein henkilökohtaisiin kokemuksiin organisaation toimijoista"],
+	"CorrAns": 2,
+	"sivu": "226"
+	},
+	
+	{
+	"ID": 160,
+	"Question": "Mikä seuraavista on totta brändistä?",
+	"Answers": ["Asiakaslähtöinen brändin pääoma tarkoitti, että siirryttiin inside- out -ajattelusta asiakaslähtöiseen outside-in -ajatteluun", "Todellinen brändin voima on organisaation jäsenten mielissä", "Brändi elää kuluttajien mielissä konatiivisena rakennelmana", "Brändi-tietoisuus koostuu brändin muistamisesta ja bränditietämyksestä"],
+	"CorrAns": 0,
+	"sivu": "228"
+	},
+	
+	{
+	"ID": 161,
+	"Question": "Brändi-imago tarkoittaa brändiin liittyviä mielikuvia, kuten ominaisuudet, käyttökokemukset ja symboliset arvot",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "229"
+	},
+	
+	{
+	"ID": 162,
+	"Question": "Heding, Knudtzen ja Bjerre tunnistavat Kellerin kuluttajalähtöisen näkökulman jälkeen vielä neljä lähestymistapaa brändijohtamiseen nykypäivän brändikirjallisuudessa. Mikä näistä seuraavista EI ole yksi niistä?",
+	"Answers": ["Yhteisönäkökulma", "Suhdenäkökulma", "Yksilönäkökulma", "Kulttuurinäkökulma"],
+	"CorrAns": 2,
+	"sivu": "229"
+	},
+	
+	{
+	"ID": 163,
+	"Question": "Mikä seuraavista väitteistä EI ole totta persoonallisuus – ja suhdenäkökulmista?",
+	"Answers": ["Brändejä kulutetaan niiden symbolisten eikä pelkästään rationaalisten tekijöiden takia", "Persoonallisuusnäkökulman mukaan brändien merkitys on kuluttajien identiteetin luoja", "Brändiä käytetään suhdenäkökulman mukaan kun halutaan asemoida itsensä sosiaaliseen ja kulttuurisen viiteryhmään", "Suhdenäkökulman mukaan kuluttaja inhimillistää brändejä"],
+	"CorrAns": 2,
+	"sivu": "230"
+	},
+	
+	{
+	"ID": 164,
+	"Question": "Mikä seuraavista väitteistä EI ole totta yhteisö- ja kulttuurinäkökulmista?",
+	"Answers": ["Yhteisönäkökulmassa tarkastellaan triadista brändi-kuluttaja-brändi-suhdetta", "Yhteisönäkökulman mukaan brändeistä tulee keskeinen osa asiakkaiden sosiaalista kanssakäymisestä", "Kulttuurinäkökulma tarkastelee brändien roolia politiikassa ja kansainvälisessä taloudessa", "Brändi-ikoni on brändi, joka tunnistetaan kaikkialla maailmassa"],
+	"CorrAns": 0,
+	"sivu": "231"
+	},
+	
+	{
+	"ID": 165,
+	"Question": "Brändäys on kirjan mukaan määritelty, tavoitteellinen prosessi",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "233"
+	},
+	
+	{
+	"ID": 166,
+	"Question": "Brändiorientaatio on yrityksen asenne brändäystä kohtaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "234"
+	},
+	
+	{
+	"ID": 167,
+	"Question": "Mikä seuraavista väitteistä Marimekosta on totta?",
+	"Answers": ["Brändin rakentumisessa keskeinen rooli on johdon näkemykset", "Kumppania valitessa on tärkeintä, että tuotteet ovat lähellä toisiaan", "Marimekko näyttäytyy yhtenäisenä kaikkialla eikä sitä olla räätälöity eri kohdemaihin", "Toimitusjohtaja Ihamuotilan mukaan kuluttajat ovat kiinnostuneita brändeistä, joilla he pystyvät osoittamaan statusta"],
+	"CorrAns": 2,
+	"sivu": "236"
+	},
+	
+	{
+	"ID": 168,
+	"Question": "Henkilöstöjohtamisen kehityksen eri vaiheita on monia. Mikä näistä väittämistä niistä EI ole totta?",
+	"Answers": ["Henkilöstöjohtaminen sai alkunsa patriarkaalisesta johtamisesta", "Henkilöstöjohtaminen tarkastelee henkilöstötyötä kokonaisvaltaisesti", "Strategiseksi henkilöstöjohtamisen tekee sen, että se nähtiin liittyvän organisaation tuloksellisuuteen", "Sosiaalitoiminta kehittyi henkilöstöjohtamiseksi (HRM)"],
+	"CorrAns": 3,
+	"sivu": "240"
+	},
+	
+	{
+	"ID": 169,
+	"Question": "Milesin mukaan johdon on luotava ympäristö, jossa henkilöstö voi käyttää voimavarojaan parhaalla mahdollisella tavalla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "241"
+	},
+	
+	{
+	"ID": 170,
+	"Question": "Mikä seuraavista EI ole organisaatiotasoinen muuttuja Milesin mukaan?",
+	"Answers": ["Rakenne", "Henkilöstö", "Tavoitteet", "Teknologia"],
+	"CorrAns": 1,
+	"sivu": "241"
+	},
+	
+	{
+	"ID": 171,
+	"Question": "Mikä seuraavista on henkilöstöjohtamiseen liittyvä aktiviteetti Milesin mukaan?",
+	"Answers": ["Palkkausjärjestelmä", "Viestintä", "Organisaatioiden prosessit", "Fokusointi"],
+	"CorrAns": 1,
+	"sivu": "241"
+	},
+	
+	{
+	"ID": 172,
+	"Question": "Henkilöstöjohtamisen ei tarvitse olla yhteensopiva strategian kanssa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "241"
+	},
+	
+	{
+	"ID": 173,
+	"Question": "Mikä seuraavista EI ole yksi neljästä kirjassa mainitusta henkilöstöjohtamisen malleista?",
+	"Answers": ["Oxfordin malli", "Harvardin malli", "Michiganin malli", "Guestin malli"],
+	"CorrAns": 0,
+	"sivu": "242-243"
+	},
+	
+	{
+	"ID": 174,
+	"Question": "Harvardin mallissa pyritään yhdistämään organisaatiokäyttäytymiseen ja työmarkkinasuhteisiin liittyvä tutkimus henkilöstöjohtamisen tutkimuksen kanssa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "242"
+	},
+	
+	{
+	"ID": 175,
+	"Question": "Keskeisin politiikka-areena on Harvardin mallissa on",
+	"Answers": ["Henkilöstöresurssit", "Palkitsemisjärjestelmä", "Henkilöstön vaikutusvalta", "Työskentelyyn liittyvät järjestelmät"],
+	"CorrAns": 2,
+	"sivu": "242"
+	},
+	
+	{
+	"ID": 176,
+	"Question": "Henkilöstövoimavarojen virtaamisessa organisaation tarpeet ja yksilöiden odotukset pyritään yhdistämään",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "243"
+	},
+	
+	{
+	"ID": 177,
+	"Question": "Missä mallissa yhdistetään pitkän aikavälin strategiset tavoitteet päivittäiseen operatiiviseen toimintaan?",
+	"Answers": ["Michiganin malli", "Harvardin malli", "Guestin malli", "Ulrichin malli"],
+	"CorrAns": 3,
+	"sivu": "244"
+	},
+	
+	{
+	"ID": 178,
+	"Question": "Mikä näistä Guestin malliin liittyvistä EI ole totta",
+	"Answers": ["Henkilöstön käytännöt kytkeytyvät suorituksen johtamiseen", "Guestin mallin lähtökohtana on johdettu henkilöstöstrategia", "Guestin malli korostaa inhimillisiä voimavaroja"],
+	"CorrAns": 2,
+	"sivu": "243"
+	},
+	
+	{
+	"ID": 179,
+	"Question": "Michiganin mallissa nähtiin tuloksellisuuden olevan minkä yhteistulos?",
+	"Answers": ["Henkilöstöjohtamisen aktiviteettien", "Henkilöstöjohtamisen voimavarojen", "Eri strategioiden", "Henkilöstöjohtamisen perustoimintojen"],
+	"CorrAns": 3,
+	"sivu": "243"
+	},
+	
+	{
+	"ID": 180,
+	"Question": "Ulricihin mallin mukaan henkilöstöjohtamisen neljä pääroolia ovat:",
+	"Answers": ["Strateginen kumppani, hallinnollisten toimintojen johtaminen, henkilöstön palkitseminen, muutoksen ja uudistamisen johtaminen", "Kilpailukyvyn ylläpito, hallinnollisten toimintojen johtaminen, henkilöstön päivittäinen ohjaus, muutoksen ja uudistumisen johtaminen", "Strateginen kumppani, hallinnollisten toimintojen johtaminen, henkilöstön päivittäinen ohjaus, tuotekehityksen johtaminen", "Strateginen kumppani, hallinnollisten toimintojen johtaminen, henkilöstön päivittäinen ohjaus, muutoksen ja uudistumisen johtaminen"],
+	"CorrAns": 3,
+	"sivu": "244-245"
+	},
+	
+	{
+	"ID": 181,
+	"Question": "Mikä näistä väitteistä EI ole tosi liittyen aineettomaan pääomaan?",
+	"Answers": ["Tuottavinta pääomaa ovat nykyään asiantuntijuus ja tieto", "Aineeton pääoma on ei-rahallista pääomaa, jolla ei ole arvoa", "Aineettoman pääoman voi jakaa tutkimus- ja kehitystoimintaan, markkinointiin ja koulutukseen", "Aineeton pääoma voidaan jaotella myös ulkoiseen ja sisäiseen pääomaan sekä inhimilliseen pääomaan"],
+	"CorrAns": 1,
+	"sivu": "246"
+	},
+	
+	{
+	"ID": 182,
+	"Question": "Uusimman määritelmän mukaan aineettoman pääoman voi jakaa kolmeen; inhimilliseen pääomaan, suhdepääomaan sekä rakenteelliseen pääomaan. Mikä näistä väitteistä ovat totta?",
+	"Answers": ["Roos määrittää inhimillisen pääoman organisaation hallussa olevaksi aineettomaksi pääomaksi", "Suhdepääoma sisältää organisaation sidosryhmät ja verkostot", "Rakennepääomaan kuuluvat johdon valtasuhteet", "Yrityksen toiminta ei ole riippuvainen sen suhteista"],
+	"CorrAns": 1,
+	"sivu": "247"
+	},
+	
+	{
+	"ID": 183,
+	"Question": "Aineetonta pääoma ei tarvitse johtaa sen ollessa kilpailutekijä, sillä se johtaa itseään",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "248"
+	},
+	
+	{
+	"ID": 184,
+	"Question": "Osaamisen ja innovaatioiden yhteiskunnassa tärkein organisaatiovoimavara on kirjan mukaan",
+	"Answers": ["Ihmisissä", "Teknologiassa", "Tiedossa", "Kontrollissa"],
+	"CorrAns": 0,
+	"sivu": "250"
+	},
+	
+	{
+	"ID": 185,
+	"Question": "Mikä seuraavista väitteistä on tosi liittyen uudenlaiseen johtamisotteeseen?",
+	"Answers": ["Ihmisten johtamisen juuret menevät 1950-luvulle Hawthorne-kokeisiin", "Bennisin mukaan organisaatioita vaivasi visioiden, merkityksellisyyden ja voiman puute", "Organisaatioissa pitäisi keskittyä managementiin eikä leadershipiin", "Kouzes ja Posner pitivät perinteisiä johtamisnäkemyksiä realistisena"],
+	"CorrAns": 1,
+	"sivu": "251"
+	},
+	
+	{
+	"ID": 186,
+	"Question": "Minkä seuraavista taidoista kautta ihmisten johtaminen EI toteudu Bennisin ja Nausin mukaan?",
+	"Answers": ["Kommunikaatiotaidot", "Taito kehittyä myönteisen minäkuvan kehittämisenavulla", "Taito rakentaa luottamus", "Strategian suunnittelutaito"],
+	"CorrAns": 3,
+	"sivu": "251-252"
+	},
+	
+	{
+	"ID": 187,
+	"Question": "Työntekijöiden vaikutusmahdollisuudet eivät ole sidoksissa yksilöiden motivaatioon",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "253"
+	},
+	
+	{
+	"ID": 188,
+	"Question": "Mikä seuraavista EI ole teollisuusneuvos Virtaalan mielipide?",
+	"Answers": ["Yksi johtamisen haaste liittyy Virtaalan mukaan työntekijöiden palkitsemisjärjestelmiin", "Eri kulttuureihin on sidottu eri johtamistyylejä", "Hyvä johtaminen kiteytyy sosiaalisiin taitoihin eikä faktatietoihin", "Johtamisen ei tarvitse muuttua ajan mukana, sillä ihmiset pysyvät samanlaisina"],
+	"CorrAns": 0,
+	"sivu": "255"
+	},
+	
+	{
+	"ID": 189,
+	"Question": "Mikä seuraavista on asiantuntijuuteen liittyvä erityispiirre?",
+	"Answers": ["Asiantuntijan toiminnassa ilmenee kokemuksen kautta rakentunut äänekäs tieto", "Asiantuntijuuteen ei välttämättä liity korkea koulutus Moision mukaan", "Asiantuntijaorganisaatiot eivät ole riippuvaisia henkilöstöstään", "Asiantuntijat eivät tunne itseään velvolliseksi omaa organisaatioonsa kohtaan"],
+	"CorrAns": 3,
+	"sivu": "261"
+	},
+	
+	{
+	"ID": 190,
+	"Question": "Tietoa luovassa organisaatiossa yksilöiden merkitys itsenäisinä toimijoina on keskeinen ja strategia muodostuu emergentisti",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "262"
+	},
+	
+	{
+	"ID": 191,
+	"Question": "Sensemaking nojaa kaizen-periaatteeseen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "262"
+	},
+	
+	{
+	"ID": 192,
+	"Question": "Asiantuntijoiden johtamiseen liittyvä haaste EI ole",
+	"Answers": ["Kriittisyys", "Arvioinnin ja seurannan haaste", "Työnkuvan tarkkuus", "Asiantuntijoiden omanarvontunne"],
+	"CorrAns": 2,
+	"sivu": "263"
+	},
+	
+	{
+	"ID": 193,
+	"Question": "Mikä seuraavista EI ole totta alaistaidoista?",
+	"Answers": ["Alaistaidot ja esimiestaidot ovat vastinpari", "Alaistaitokeskustelu tarkastelee työntekijöiden kapinallisuutta", "Organisaatiokansalaisuus liittyy alaistaitoihin", "Alaistaidon voi määritellä käytännössä kyvyksi toimia työyhteisön täysvaltaisena jäsenenä"],
+	"CorrAns": 1,
+	"sivu": "266-267"
+	},
+	
+	{
+	"ID": 194,
+	"Question": "Mikä seuraavista EI ole yksi viidestä Organin organisaatiokansalaisuutta luonnehtivasta elementistä?",
+	"Answers": ["Halu auttaa", "Huomaavaisuus hyvät tavat", "Kultainen sääntö", "Kansalaishyveellisyys"],
+	"CorrAns": 2,
+	"sivu": "268"
+	},
+	
+	{
+	"ID": 195,
+	"Question": "Kummassa organisaatiokansalaisuuden luokituksessa puhutaan aloitekykyisyydestä?",
+	"Answers": ["Podsakoff", "Organ"],
+	"CorrAns": 0,
+	"sivu": "269"
+	},
+	
+	{
+	"ID": 196,
+	"Question": "Näkymätön psykologinen sopimus on työntekijän ja työnantajan välinen hiljainen sopimus organisaatiossa toimimisesta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "269"
+	},
+	
+	{
+	"ID": 197,
+	"Question": "Minkä luvun alussa organisaatiotutkimus on virallisesti alkanut?",
+	"Answers": ["1700", "1800", "1900", "2000"],
+	"CorrAns": 2,
+	"sivu": "1"
+	},
+	
+	{
+	"ID": 198,
+	"Question": "Klassisissa teorioissa organisaatioiden toimintaa tarkasteltiin organisaatioiden ulkoisten toimintojen tehokkuuden kannalta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "2"
+	},
+	
+	{
+	"ID": 199,
+	"Question": "Mitä Weber piti byrokratian etuna?",
+	"Answers": ["Suhteiden muodostuminen", "Tehokkuus", "Pitkälle viety työnjako", "Hierarkinen valvonta"],
+	"CorrAns": 1,
+	"sivu": "3"
+	},
+	
+	{
+	"ID": 200,
+	"Question": "Byrokratian tehokkuus aiheutui siitä, ettei virkoihin valittu koulutukseen saaneita henkilöitä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "3"
+	},
+	
+	{
+	"ID": 201,
+	"Question": "Mikä seuraavista ei kuulu klassisen organisaatioteorian periaatteisiin?",
+	"Answers": ["Pitkälle viety työnjako", "Hierarkkinen valvonta", "Leveä valvontajänne", "Työnjaon ja vastuunjaon selkeys"],
+	"CorrAns": 2,
+	"sivu": "3"
+	},
+	
+	{
+	"ID": 202,
+	"Question": "Klassisen organisaatioteorian mukaan työhön voitiin valita sellainen henkilö, jolla ei välttämättä ollut koulutusta kyseiseen tehtävään, mutta joka sopi luonteeltaan työnkuvaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "3"
+	},
+	
+	{
+	"ID": 203,
+	"Question": "Kuka henkilöistä liittyy byrokratian “ihannemallin”?",
+	"Answers": ["Henry Fayol", "Henry Mintzberg", "Max Weber"],
+	"CorrAns": 2,
+	"sivu": "3"
+	},
+	
+	{
+	"ID": 204,
+	"Question": "Mertonin (1968) mukaan johdon tarve valvoa toimintoja byrokratiassa johtaa lisääntyvään sääntöjen käyttöön",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "4"
+	},
+	
+	{
+	"ID": 205,
+	"Question": "Mikä seuraavista väitteistä koskien Max Weberin Byrokratiaa EI pidä paikkaansa?",
+	"Answers": ["Se vaatii korkeaa koulutusta", "Henkilöstön osaaminen ei tule organisaation käyttöön", "Sen kautta henkilöistä tulee organisaatiolle uskollista joukkoa", "Se aiheuttaa ongelmia organisaation sisällä, ei niinkään asiakkaille"],
+	"CorrAns": 3,
+	"sivu": "5"
+	},
+	
+	{
+	"ID": 206,
+	"Question": "Taylorin mukaan töiden tieteellinen analyysi voitiin tehdä seuraavassa järjestyksessä:",
+	"Answers": ["Kerätään tietoa siitä, miten taitavat ammattimiehet työnsä tekevät, jonka jälkeen eliminoidaan turhat liikkeet", "Tutkitaan todella taitavien ammattimiesten työmenetelmiä, jonka jälkeen eliminoidaan turhat liikkeet", "Kerätään yhteen parhaat mahdolliset työmenetelmät, jonka jälkeen eliminoidaan turhat liikkeet", "Ei mikään yllämainituista"],
+	"CorrAns": 0,
+	"sivu": "6"
+	},
+	
+	{
+	"ID": 207,
+	"Question": "Mikä seuraavista EI kuulu Taylorin johtamis- ja organisointiperiaatteisiin?",
+	"Answers": ["Johtamisprojektien tekeminen", "Työntekijöiden tieteellinen valinta", "Urakkapalkkaus"],
+	"CorrAns": 0,
+	"sivu": "6"
+	},
+	
+	{
+	"ID": 208,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Taylorin mukaan jokaista henkilöä tuli riittävästi kouluttaa puutteidensa osalta", "Taylor suositteli suunnittelun ja toteutuksen täydellistä yhdistämistä", "Fayol jaotteli organisaation toiminnot viiteen eri ryhmään", "Fayol uskoi alaisten ja esimiehen yhteistoimintaan"],
+	"CorrAns": 0,
+	"sivu": "6-7"
+	},
+	
+	{
+	"ID": 209,
+	"Question": "Henry Fayolin hallinnollista koulukuntaa on luonnehdittu “keppi ja porkkana” –järjestelmäksi",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "7"
+	},
+	
+	{
+	"ID": 210,
+	"Question": "Henry Fayol jaotteli organisaation toiminnot kuuteen ryhmään. Mikä seuraavista kuitenkaan EI kuulu näihin?",
+	"Answers": ["Taloudelliset", "Turvallisuuteen liittyvät", "Henkilöstöön liittyvät", "Hallinnolliset"],
+	"CorrAns": 2,
+	"sivu": "7"
+	},
+	
+	{
+	"ID": 211,
+	"Question": "Orgaanisessa organisaatiossa tiedonkulku tapahtuu pääosin pystysuunnassa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "12"
+	},
+	
+	{
+	"ID": 212,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Orgaanisessa organisaatiossa johto tekee suurimman osan päätöksistä", "Mekaanisessa organisaatiossa tekniikan taso on korkea", "Mekaanisessa organisaatiossa käytetään hyväksi asiantuntijoita", "Orgaanisesta rakenteesta puhumisen taustalla oli vertauskuvallinen viittaus eliömaailmaan"],
+	"CorrAns": 3,
+	"sivu": "11"
+	},
+	
+	{
+	"ID": 213,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Erilaistuneisuus koostuu muun muassa organisaatiorakenteen muodollisuuden asteesta", "Erilaistuneisuus koostuu muun muassa ilmapiirin tehtävä- tai ihmiskeskeisyydestä", "Erilaistuneisuus viittaa myös osastojen toiminnan koordinaatioon", "Erilaistuneisuus on käsite, jota käyttivät tutkimuksessaan Lawrence ja Lorsch"],
+	"CorrAns": 2,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 214,
+	"Question": "Melko dynaamisessa ympäristössä menestyvissä yrityksissä oli kohtalainen erilaistuneisuuden sekä integraation aste",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 215,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Vakaaseen ja monimutkaiseen ympäristöön sopii mekanistinen byrokratia", "Dynaamiseen ja yksinkertaiseen ympäristöön sopii mekanistinen byrokratia", "Vakaaseen ja monimutkaiseen ympäristöön sopii asiantuntijabyrokratia", "Vakaaseen ja monimutkaiseen ympäristöön sopii adhokratia"],
+	"CorrAns": 2,
+	"sivu": "14"
+	},
+	
+	{
+	"ID": 216,
+	"Question": "Adhokratian organisaatiorakenne on korkea",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "17"
+	},
+	
+	{
+	"ID": 217,
+	"Question": "Organisaatiotutkimuksessa 1970-lukua leimasi mytologisoituminen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 218,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Organisaatiokulttuurin käsitteestä ollaan nykyään yksimielisiä", "Schein määrittelee organisaation kulttuurin kolmen eri tekijän perusteella", "Antropologisesti tarkasteltuna organisaatio on kulttuuri", "Organisaatiot voidaan ymmärtää jaetuiksi merkitysjärjestelmiksi"],
+	"CorrAns": 0,
+	"sivu": "18"
+	},
+	
+	{
+	"ID": 219,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Artefaktit ovat Scheinin mukaan vaikeasti havaittava osa kulttuuria", "Artefakteja ovat muun muassa slangi ja huumori", "Scheinin mukaan täytyy erottaa toisistaan syvä perusoletusten taso, näkymätön artefaktien taso sekä kulttuuriset arvot", "Kulttuuriset arvot kuvastaa kulttuurin perusolemusta"],
+	"CorrAns": 1,
+	"sivu": "20"
+	},
+	
+	{
+	"ID": 220,
+	"Question": "Postmoderni näkökulma korostaa lukutapahtumaa, kun taas moderni näkökulma korosti tekijän tekstiin asettamia merkityksiä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "23"
+	},
+	
+	{
+	"ID": 221,
+	"Question": "Markkinoinnin tieteenä katsotaan syntyneen…",
+	"Answers": ["1950-luvulla", "1960-luvulla", "1980-luvulla"],
+	"CorrAns": 1,
+	"sivu": "24"
+	},
+	
+	{
+	"ID": 222,
+	"Question": "Mikä teema Kerinin mukaan oli vallalla, kun puhuttiin markkinoinnista soveltavana kansantaloustieteenä?",
+	"Answers": ["Markkinoinnin perusteiden ja peruskäsitteiden selventäminen", "Markkinointitoimintojen kehittäminen ja tehostaminen", "Ostaja-ja organisaatioprosessien tunnistaminen"],
+	"CorrAns": 0,
+	"sivu": "25"
+	},
+	
+	{
+	"ID": 223,
+	"Question": "Kun puhutaan markkinoinnista integroivana tieteenä (1986-1995), markkinointikirjallisuudesta tuli entistä heterogeenisempää",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "27"
+	},
+	
+	{
+	"ID": 224,
+	"Question": "Missä järjestyksessä markkinoinnin roolin kehitys on edennyt?",
+	"Answers": ["Tuotanto-, tuote-, myynti-, kysyntä-, asiakas-, suhdesuuntaisuus", "Tuotanto-, tuote-, kysyntä-, myynti-, asiakas-, suhdesuuntaisuus", "Tuote-, tuotanto-, kysyntä-, myynti-, asiakas-, suhdesuuntaisuus"],
+	"CorrAns": 0,
+	"sivu": "28-29"
+	},
+	
+	{
+	"ID": 225,
+	"Question": "4P-malli lanseerattiin, kun vallalla oli asiakassuuntaisuus",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 226,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Ihmissuhdekoulukunnan aikaan asiakas oli myyntitoimenpiteiden passiivinen kohde", "Kysyntäsuuntaisuuden vallitessa koulutus ja osaaminen kasvoi", "Kulttuurikoulukunnan aikoihin asiakkaasta tuli aktiivinen kumppani", "Myyntisuuntaisuuden vallitessa työmotivaation merkitys tunnistettiin"],
+	"CorrAns": 2,
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 227,
+	"Question": "Markkinointi integroitiin osaksi strategista toimintaa suhdesuuntaisuuden vaiheessa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "29"
+	},
+	
+	{
+	"ID": 228,
+	"Question": "Mikä seuraavista väitteistä pitää paikkaansa?",
+	"Answers": ["Kansainvälistymisen riskit korostuvat isoissa yrityksissä", "Yrittäjyysorientaatio mittaa mm. yrittäjän halua olla innovatiivinen", "Saturoituneet markkinat tarkoittavat tilannetta, jossa kotimarkkinat ovat vasta kehittymässä"],
+	"CorrAns": 1,
+	"sivu": "36-37"
+	},
+	
+	{
+	"ID": 229,
+	"Question": "Mikä seuraavista EI ole kohdemarkkinoiden vetovoimatekijä?",
+	"Answers": ["Yrityksen teknologinen osaaminen", "Ainutlaatuinen tuote tai palvelu", "Yrittäjän asenne", "Kansainvälisten markkinoiden läheisyys"],
+	"CorrAns": 3,
+	"sivu": "35-36"
+	},
+	
+	{
+	"ID": 230,
+	"Question": "Saturoituneille kotimarkkinoille päädytään usein niche-markkinoilla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "37"
+	},
+	
+	{
+	"ID": 231,
+	"Question": "Kun yritys on potentiaalisesti kansainvälinen ja kasvuikäinen, sen pitäisi Solbergin mukaan",
+	"Answers": ["Vahvistaa vientiä", "Varautua globalisoitumaan", "Etsiä kansainvälisiä nichejä", "Harkita kansainvälisen toiminnan laajentamista"],
+	"CorrAns": 3,
+	"sivu": "38"
+	},
+	
+	{
+	"ID": 232,
+	"Question": "Kun yritys on globaali ja kasvuikäinen, sen pitäisi Solbergin mukaan",
+	"Answers": ["Varautua myymään", "Vahvistaa globaalia asemaa", "Etsiä globaaleja alliansseja", "Etsiä kansainvälisiä nichejä"],
+	"CorrAns": 2,
+	"sivu": "38"
+	},
+	
+	{
+	"ID": 233,
+	"Question": "Mitkä olivat Gaston-Bretonin ja Martinin (2011) mukaan houkuttelevimpia maita kansainvälistymistä tavoittelevan yrityksen näkökulmasta?",
+	"Answers": ["Ranska, Saksa, Italia, Espanja ja Englanti", "Ranska, Saksa, Suomi, Italia, Englanti ja Tanska", "Belgia, Tanska, Luxemburg, Irlanti, Ruotsi ja Hollanti"],
+	"CorrAns": 0,
+	"sivu": "41"
+	},
+	
+	{
+	"ID": 234,
+	"Question": "Suurten yritysten kohdemarkkinoiden valintaprosessi on usein suhteellisen sama kuin pk-yritysten vastaava prosessi",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "41"
+	},
+	
+	{
+	"ID": 235,
+	"Question": "Vientiin liittyy…",
+	"Answers": ["Hyvä mahdollisuus kontrolloida kansainvälisiä toimintoja", "Korkea taloudellinen riski", "Joustavuus muuttaa valittua strategiaa ja toimintatapaa", "Molemmat b ja c ovat oikein"],
+	"CorrAns": 2,
+	"sivu": "42"
+	},
+	
+	{
+	"ID": 236,
+	"Question": "Mikä seuraavista väitteistä suoravientiä koskien pitää paikkansa?",
+	"Answers": ["Toimii parhaiten, kun volyymit ovat isot", "Toimii parhaiten, kun yksittäinen kauppa on rahamäärältään merkittävä", "Suoravienti voi tapahtua myös kotimaassa"],
+	"CorrAns": 1,
+	"sivu": "42"
+	},
+	
+	{
+	"ID": 237,
+	"Question": "Mikä seuraavista EI vaikuta markkinoiden kokoon?",
+	"Answers": ["BKT", "Väestön määrä", "Työllisyysaste", "Tuonnin arvo"],
+	"CorrAns": 2,
+	"sivu": "41"
+	},
+	
+	{
+	"ID": 238,
+	"Question": "Markkinoiden kehittyneisyyteen vaikuttaa muun muassa energian kulutus",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "41"
+	},
+	
+	{
+	"ID": 239,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Tytäryhtiöoperaatiota kutsutaan myös Direct Foreign Investmentiksi", "Kansainvälisestä strategisesta allianssista on esimerkkinä esimerkiksi lentoyhtiöt", "Tytäryhtiö nojaa emoyhtiön valitsemaan strategiaan", "Kaikki ovat oikein"],
+	"CorrAns": 3,
+	"sivu": "45"
+	},
+	
+	{
+	"ID": 240,
+	"Question": "Vaikka Born Global-yritykset eivät verkostoidu yhtä paljon kuin muut yritykset, he kuitenkin tarttuvat markkinoilla aukeaviin liiketoimintamahdollisuuksiin avoimesti ja kokeilevasti",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "46"
+	},
+	
+	{
+	"ID": 241,
+	"Question": "Mikä seuraavista väitteistä koskien osuustoimintaa pitää paikkansa?",
+	"Answers": ["Osuustoiminnalle on leimallista niin kutsuttu kaksoisluonne: sillä on samanaikaisesti sekä liiketoiminta-, että jäsenyhteisörooli", "Osuuskunta on laajimmin omistettu yritysmalli Suomessa", "Pellervo-Seuran tavoitteena oli osuustoimintatietoisuuden ja –liikkeen levittäminen", "Kaikki ovat oikein"],
+	"CorrAns": 3,
+	"sivu": "56-57"
+	},
+	
+	{
+	"ID": 242,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Toimiala-analyysia kutsutaan myös neljän kilpailuvoiman geneeriseksi malliksi", "Toimiala-analyysi kuvaa aina tiettyä toimialaa", "Toimialan rakennetta määrittäviä kilpailuvoimia ovat mm. nykyiset kilpailijat ja tavarantoimittajat", "Molemmat b ja c ovat oikein"],
+	"CorrAns": 2,
+	"sivu": "73-74"
+	},
+	
+	{
+	"ID": 243,
+	"Question": "Mitä parempi on asiakkaiden neuvotteluasema markkinoilla, sitä houkuttelevampi se on tulokkaiden näkökulmasta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "74"
+	},
+	
+	{
+	"ID": 244,
+	"Question": "Tavarantoimittajien neuvotteluasema markkinoilla on hyvä, mikäli…",
+	"Answers": ["Tavarantoimittajan vaihdon kustannus asiakkaan näkökulmasta on matala", "Mikäli samanlaisia tavarantoimittajia eli kilpailijoita on paljon", "Mikäli tavarantoimittajan osuus asiakkaan kokemasta arvosta on merkittävä", "Molemmat a ja c ovat oikein"],
+	"CorrAns": 2,
+	"sivu": "75"
+	},
+	
+	{
+	"ID": 245,
+	"Question": "Mikä seuraavista väitteistä liittyen toimiala-analyysiin EI pidä paikkaansa?",
+	"Answers": ["Neuvotteluvoimaan vaikuttaa kilpailuvoimien keskinäinen suhde ja tasapaino", "Toimialan rakenne määrittyy kilpailuvoimien keskinäisen suhteen ja tasapainon mukaisesti", "Asiakkaan näkökannalta neuvotteluvoima voi olla esim. volyymiarvoa"],
+	"CorrAns": 0,
+	"sivu": "75"
+	},
+	
+	{
+	"ID": 246,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["SWOT-analyysissa keskitytään nykytilan arviointiin, eikä niinkään tulevaisuuteen", "Markkinatutkimusprosessi lähtee tutkimussuunnitelman teolla", "Markkinatutkimus on joko kertaluonteinen, jaksoittainen tai jatkuva", "A ja C ovat molemmat oikein"],
+	"CorrAns": 2,
+	"sivu": "83"
+	},
+	
+	{
+	"ID": 247,
+	"Question": "Markkinatutkimusprosessissa ongelman tunnistamisessa ja määrittelyssä voidaan käyttää myös esitutkimusta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "84"
+	},
+	
+	{
+	"ID": 248,
+	"Question": "Laadullinen eli kvantitatiivinen tutkimus vastaa mm. kysymyksiin “miten?” ja “millainen?”",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "85"
+	},
+	
+	{
+	"ID": 249,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Laadullisessa tutkimuksessa tarkastellaan ilmiötä, joka ei ole ennalta tuttu", "Laadullisen tutkimuksen menetelmiä on muun muassa yksilöhaastattelu", "Kvantitatiivisessa tutkimuksessa ulkoista aineistoa ovat esimerkiksi valmiit tilastot ja laajat asiakaskyselyt", "Kaikki väittämät pitävät paikkaansa"],
+	"CorrAns": 3,
+	"sivu": "87"
+	},
+	
+	{
+	"ID": 250,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa",
+	"Answers": ["Laadullisessa tutkimuksessa tarkastellaan ilmiötä, joka ei ole ennaltaan tuttu", "Laadullisen tutkimuksen menetelmiä on muun muassa yksilöhaastattelu", "Kvantitatiivisessa tutkimuksessa ulkoista aineistoa ovat esimerkiksi valmiit tilastot ja laajat asiakaskyselyt", "Kaikki väittämät pitävät paikkaansa"],
+	"CorrAns": 3,
+	"sivu": "87"
+	},
+	
+	{
+	"ID": 251,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Mystery shoppingissa tutkija on ulkopuolinen tarkkailija", "Fokusryhmähaastattelussa on tyypillisesti mukana noin 5-7 haastateltavaa", "Kvantitatiivinen tutkimus vastaa muun muassa kysymykseen “miten tärkeää?”"],
+	"CorrAns": 2,
+	"sivu": "87"
+	},
+	
+	{
+	"ID": 252,
+	"Question": "Kvantitatiivisessa tutkimuksessa aineisto voidaan luokitella ulkoiseen ja sisäiseen informaation sen mukaan, mistä maasta aineisto on saatavissa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "87"
+	},
+	
+	{
+	"ID": 253,
+	"Question": "Mikä seuraavista väitteistä liittyen aineistonkeruumenetelmiin EI pidä paikkaansa?",
+	"Answers": ["Postikyselyt toimivat usein paremmin B2B-markkinoilla, kuin yksityisillä henkilöillä", "Syvähaastattelut ovat suhteellisen vapaamuotoisia", "Fokusryhmähaastattelut ovat suhteellisen kalliita toteuttaa"],
+	"CorrAns": 2,
+	"sivu": "86"
+	},
+	
+	{
+	"ID": 254,
+	"Question": "Houstonin mukaan markkinoinnin peruspilareihin EI kuulu",
+	"Answers": ["Asiakaspalvelu", "Kannattavuus", "Asiakaskeskeisyys"],
+	"CorrAns": 0,
+	"sivu": "91"
+	},
+	
+	{
+	"ID": 255,
+	"Question": "Mikä seuraavista välitteistä EI pidä paikkaansa?",
+	"Answers": ["Niche-markkinointi rajoittuu usein pieniin yrityksiin", "Asiakassegmenttien tulee olla mitattavia, tavoitettavia, merkittäviä ja toimintakelpoisia", "Differointi auttaa asemoinnissa"],
+	"CorrAns": 0,
+	"sivu": "93-94"
+	},
+	
+	{
+	"ID": 256,
+	"Question": "Tuotteita voidaan differoida esimerkiksi tarjoamalla luotettavampaa toimitusta",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 257,
+	"Question": "Mikä seuraavista väitteistä liittyen strategiaan käsitteenä EI pidä paikkaansa?",
+	"Answers": ["Käsite strateginen johtaminen vakiintui käyttöön 1980-luvulla", "Strategisesta johtamisesta käytetään nykyään myös termiä taloussuunnittelu", "Strategiaa on luonnehdittu mm. johdon työvälineeksi"],
+	"CorrAns": 1,
+	"sivu": "97"
+	},
+	
+	{
+	"ID": 258,
+	"Question": "Mikä seuraavista kuvaa strategiaa?",
+	"Answers": ["Sitä voidaan pitää mm. organisaation ainutlaatuisuuden ja ylivoimaisuuden lähteenä", "Sitä on luonnehdittu toiminnan punaiseksi langaksi", "Sitä on luonnehdittu johdon työvälineeksi, jossa on kyse kyseenalaistamisesta", "Kaikki ovat oikein"],
+	"CorrAns": 3,
+	"sivu": "98"
+	},
+	
+	{
+	"ID": 259,
+	"Question": "Henry Mintzberg näkee strategian olemassaololle 4 syytä. Mikä seuraavista ei kuulu niihin?",
+	"Answers": ["Se antaa organisaatiolle suunnan", "Se helpottaa johdon yrityksiä saada alaisia mukaan toimintasuunnitelmaan", "Se kohdistaa ja yhtenäistää organisaation tekemistä", "Se rakentaa organisaatiolle identiteettiä"],
+	"CorrAns": 1,
+	"sivu": "99"
+	},
+	
+	{
+	"ID": 260,
+	"Question": "Strateginen johtaminen muotoutui osaksi liikkeenjohtoajattelua 1960-luvulla",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "101"
+	},
+	
+	{
+	"ID": 261,
+	"Question": "Mikä seuraavista väitteistä liittyen Ansoffin ajatuksiin EI pidä paikkaansa?",
+	"Answers": ["Ansoffin vastauksena strategisen johtamisen haasteeseen olivat suunnitelmallisuus ja huolellinen tilanteen analysointi", "Strateginen suunnittelu vastasi kolmeen tarpeeseen", "Mm. suunnittelulähtöisyys –koulukunta on saanut vaikutteita Ansoffin ajatuksista"],
+	"CorrAns": 1,
+	"sivu": "102"
+	},
+	
+	{
+	"ID": 262,
+	"Question": "Mikä seuraavista EI kuulu Petersin ja Watermanin seistemän S:n malliin?",
+	"Answers": ["Rakenne", "Henkilöstö", "Johtamistapa", "Itseilmaisu"],
+	"CorrAns": 3,
+	"sivu": "102"
+	},
+	
+	{
+	"ID": 263,
+	"Question": "Ansoff oli ensimäinen, joka hylkäsi pelkästään strategian rationaaliseen suunnitteluun kytkeytyneet oletukset",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "103"
+	},
+	
+	{
+	"ID": 264,
+	"Question": "Mikä seuraavista väitteistä koskien Mintzbergin ajatuksia EI pidä paikkaansa?",
+	"Answers": ["Mintzbergin mukaan strategian suunnittelu ja strategian johtaminen ovat mahdollisia tehtäviä", "Mintzbergin mukaan uusien toimintamallien etsimisessä katseen voi kääntää moniin suuntiin", "Mintzbergin mukaan strategia syntyi vähitellen erilaisista hajanaisista palasista"],
+	"CorrAns": 0,
+	"sivu": "103"
+	},
+	
+	{
+	"ID": 265,
+	"Question": "Mikä seuraavista väitteistä koskein Hamelin ja Prahaladin ajatuksia EI pidä paikkaansa?",
+	"Answers": ["He kiinnittivät huomiota ydinosaamiseen", "Heidän mukaan ydinosaaminen on asiakkaalle se lisäarvo, joka erottaa organisaation muista", "Ydinosaamisen lisäarvoa voidaan lisätä mm. oppimisen ja opettamisen avulla", "He uudistivat strategista ajattelua sellaiseksi, että se sopii asiantuntijaorganisaatioihin ja verkostoituvaan organisaatioelämään"],
+	"CorrAns": 2,
+	"sivu": "105"
+	},
+	
+	{
+	"ID": 266,
+	"Question": "1990-lukua voidaan pitää puhtaasti resurssistrategian aikana",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "105"
+	},
+	
+	{
+	"ID": 267,
+	"Question": "Balanced Score Card:issa (BSC) asetettiin organisaation visio tarkastelun keskipisteeseen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "106"
+	},
+	
+	{
+	"ID": 268,
+	"Question": "Tasapainotetun tuloskorttiajattelun pyrkimyksenä oli mm. nostaa esiin taloudellisen näkökulman ohella muidenkin näkökulmien merkitystä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "106"
+	},
+	
+	{
+	"ID": 269,
+	"Question": "Kun puhutaan “organisaatioista kuilun reunalla” tarkoitetaan työskentelylle epäsuotuisaa tilaa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "106"
+	},
+	
+	{
+	"ID": 270,
+	"Question": "Mikä seuraavista väitteistä koskien strategiakoulukuntiin EI pidä paikkaansa?",
+	"Answers": ["Inkrementalismilla tarkoitetaan pienten tai suurien askelten kautta tapahtuvaa kehitystä", "Suunnittelulähtöisyydessä ajatellaan, että hyvin suunniteltu on jo puoliksi tehty", "Hyperkilpailukoulukunnan mukaan organisaatioympäristö on muuttunut dynaamiseksi kilpailuympäristöksi"],
+	"CorrAns": 0,
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 271,
+	"Question": "Kilpailuasemointikoulukunta oli ensimmäinen strategiakoulukunta, jossa kiinnitettiin huomiota kulttuurin merkitykseen",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 272,
+	"Question": "Porterin geneerisiin strategiavaihtoehtoihin EI kuulu:",
+	"Answers": ["Erilaistuminen", "Kustannusjohtajuus", "Markkinointi", "Erikoistuminen"],
+	"CorrAns": 2,
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 273,
+	"Question": "Porterin geneeriset strategiavaihtoehdot liittyvät osaamispainotteisuuskoulukuntaan",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 274,
+	"Question": "Syrjäaho (2008) toteaa, että nykyään yritysten väliset strategiset erot löytyvät tarkastelemalla ja arvioimalla niiden ulkoisia resursseja",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "109"
+	},
+	
+	{
+	"ID": 275,
+	"Question": "Strategian toteutumiselle on kyetty luomaan joitain yksiselitteisiä malleja ja ohjeita",
+	"Answers": ["Oikein", "Väärin", "", ""],
+	"CorrAns": 1,
+	"sivu": "111"
+	},
+	
+	{
+	"ID": 276,
+	"Question": "Strategiassa on kysymys yhtäaikaisesti nykyisyydestä ja tulevaisuudesta, ei niinkään menneestä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "113"
+	},
+	
+	{
+	"ID": 277,
+	"Question": "Mistä muutoksen johtaminen sai alkunsa?",
+	"Answers": ["Mintzbergin ajatuksista", "Hawthorne-tehtaalla tehdyistä kokeista", "Kurt Lewinin tekemistä kokeista", "Ei mikään edellisistä"],
+	"CorrAns": 2,
+	"sivu": "114"
+	},
+	
+	{
+	"ID": 278,
+	"Question": "Niin sanotuissa T-ryhmissä (training group) keskityttiin siihen, mitä ryhmissä oli juuri silloin tapahtumassa",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "115"
+	},
+	
+	{
+	"ID": 279,
+	"Question": "Mikä seuraavista väitteistä koskien organisaation muunnos-koulukuntaa pitää paikkaansa?",
+	"Answers": ["Koulukunnassa korostettiin kulttuurin erilaisten kerrostumien olemassaoloa", "Puhuttiin siitä, miten eri vaiheiden välillä liikuttiin sulavasti", "Muutosta alettiin kuvata ensiasteen ja viidennen asteen muutoksena"],
+	"CorrAns": 0,
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 280,
+	"Question": "Organisaation muunnos-koulukunnan ensiasteen muutosta pidettiin koko uskomusjärjestelmän luonteessa tapahtuvana radikaalina muutoksena",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 281,
+	"Question": "Toisen asteen muutosta organisaation muunnos-koulukunnassa nimitettiin myös transformaatioksi",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 282,
+	"Question": "Mikä seuraavista väitteistä koskien toimintatutkimusta EI pidä paikkaansa?",
+	"Answers": ["Toimintatutkimuksen juuret liitetään Henry Mintzbergiin", "Toimintatutkimus on muutosta, jossa organisaatiossa olevat työskentelijät tutkivat ja kehittävät omaa työtään tutkijoiden kanssa", "Parhaimmillaan tutkijasta tulee toimintaan osallistuva subjekti"],
+	"CorrAns": 0,
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 283,
+	"Question": "Organisaatiomuutokset voidaan jakaa esim. suunnitellun ja toteutuvan muutoksen näkökulmiin. Nämä voidaan nähdä toisiaan täydentävinä",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 284,
+	"Question": "Mikä seuraavista väitteistä pitää paikkaansa?",
+	"Answers": ["Toteutuva muutos on perinteinen, 1940-luvulta alkaen vakiinnutettu tapa jäsentää muutosta", "Toteutuvassa muutoksessa muutos nähdään lineaarisesti etenevänä", "Toteutuvan muutoksen mukaan muutoksen toteutumisprosessi ei ole ennustettavasti etenevä"],
+	"CorrAns": 2,
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 285,
+	"Question": "Toteutuvan muutoksen lähestymistapa on muodostunut suunnitellun muutoksen kritiikin seurauksena",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 286,
+	"Question": "Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Toteutuvan muutoksen ajattelutavan mukaan muutoksella on Mintzbergin kuvaaman emergentin strategian ominaisuuksia", "Suunnitellun muutoksen mukaan Culture Excellence -koulukunta ei sellaisenaan sovellu vastaamaan ympäristön epävakauteen", "Toteutuvan muutoksen ajattelutavan tarkoituksena ei ole kiistää suunnitellun ja johdon roolin merkitystä organisaatiomuutoksen onnistumisen kannalta"],
+	"CorrAns": 1,
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 287,
+	"Question": " Strategisen johtamisen ja muutoksen johtamisen yhteispelin pulmana on niiden lähtökohtainen samanlaisuus",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "119"
+	},
+	
+	{
+	"ID": 288,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["4C-mallista käytetään myös nimitystä markkinointimix", "4P-malliin kuuluu tuote, hinta, jakelu ja prosessi", "3P-mallin esitteli Neil Borden", "Mikään edellisistä ei pidä paikkansa"], 
+	"CorrAns": 3,
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 289,
+	"Question": "Mikä seuraavista kuuluu McCarthyn 4P-malliin?",
+	"Answers": ["Markkinointiviestintä", "Ihmiset", "Prosessi", "Fyysinen todiste"], 
+	"CorrAns": 0,
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 290,
+	"Question": "Mikä seuraavista väitteistä liittyen 3P-malliin EI pidä paikkaansa?",
+	"Answers": ["3P-malliin kuuluu mm. prosessi", "Fyysisellä todisteella tarkoitetaan esim. oheistuotteita", "Prosessilla viitataan siihen, että palvelut koostuvat eri vaiheista, joista kaikki tapahtuvat asiakkaille näkyvissä"], 
+	"CorrAns": 2,
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 291,
+	"Question": "Mikä seuraavista väitteistä liittyen 4C-tyypittelyyn pitää paikkansa?",
+	"Answers": ["Tuote korvataan asiakkaan entisillä tuotteilla", "Hinta korvataan asiakkaille koituvilla kustannuksilla", "Jakelu korvataan mainonnalla", "Markkinointiviestintä korvataan helppoudella"], 
+	"CorrAns": 1,
+	"sivu": "128"
+	},
+	
+
+	{
+	"ID": 292,
+	"Question": "Mikä seuraavista väitteistä liittyen tuotteeseen EI pidä paikkaansa?",
+	"Answers": ["Tuotteella tarkoitetaan myös aineettomia tekijöitä", "Ihmisetkin voivat olla tuotteita", "Mielikuvatuote sisältää mm.  laadun, designin ja takuut", "Ydintuotteella tarkoitetaan ratkaisua asiakkaan ongelmaan"], 
+	"CorrAns": 2,
+	"sivu": "128-129"
+	},
+	
+	{
+	"ID": 293,
+	"Question": "Mikä seuraavista väitteistä koskien tuotetta pitää paikkansa?",
+	"Answers": ["Mielikuvatuote sisältää kaikki lisäpalvelut ja ekstratekijät, joita voidaan käyttää lisätäkseen myyntiä tai houkuttelevuutta", "Mielikuvatuote konkretisoi asiakkaalle ydintuotteen hyödyt", "Lisäetuihin kuuluu mm. kotiinkuljetus ja edullinen rahoitus", "Kaikki ovat oikein"], 
+	"CorrAns": 0,
+	"sivu": "129"
+	},
+	
+
+	{
+	"ID": 294,
+	"Question": "Kulutushyödykkeet ovat usein kotitalouksien kalleimpia hankintoja",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "130"
+	},
+	
+	{
+	"ID": 295,
+	"Question": "Mikä seuraavista väitteistä koskien tuotteen elinkaarta EI pidä paikkaansa?",
+	"Answers": ["Tuotteen kehitysvaiheessa tapahtuvat suunnittelutyö ja tuotekehitystyö", "Lanseerausvaiheessa myynti alkaa kasvaa suhteellisen nopeasti", "Kasvuvaiheessa myynti lisääntyy merkittävästi", "Lanseerausvaihe on erittäin kriittinen tuotteen menestyksen kannalta"], 
+	"CorrAns": 1,
+	"sivu": "131"
+	},
+	
+
+	{
+	"ID": 296,
+	"Question": "Mikä seuraavista väitteistä koskien tuotteen elinkaarta pitää paikkansa?",
+	"Answers": ["Kehitysvaiheen jälkeen tulee kasvuvaihe", "Kasvuvaiheessa markkinoille alkaa tulla kilpailevia tuotteita", "Markkinoijan pääasiallinen tehtävä kypsyysvaiheessa on luoda tietoisuutta tuotteesta markkinoille", "Kysynnän vähentyminen ja myyntitaantuma on usein yrityksen itsensä aiheuttamia"], 
+	"CorrAns": 1,
+	"sivu": "131-132"
+	},
+	
+	{
+	"ID": 297,
+	"Question": "Kun tuotteen kehitys- ja lanseerausvaihe on nähty, tuotteen elinkaaren pituus on suhteellisen helppo arvioida sen jälkeen",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "132"
+	},
+	
+
+	{
+	"ID": 298,
+	"Question": "Tuotantohinnalla on suuri merkitys määriteltäessä markkinahintaa",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 299,
+	"Question": "Markkinahinta suhteuttaa tuotteen hinnan muihin markkinoilla kilpaileviin tuotteisiin ja se on kustannusperustainen",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "133"
+	},
+	
+
+	{
+	"ID": 300,
+	"Question": "Hinnoitteluun vaikuttavat monet ulkoiset ja sisäiset tekijät. Mikä väitteistä EI pidä paikkaansa?",
+	"Answers": ["Ulkoisia tekijöitä ovat mm. kysyntä, asiakkaat ja kilpailijat", "Ulkoisia tekijöitä ovat mm. jakelukanavat ja lainsäädännölliset tekijät", "Sisäisiä tekijöitä ovat mm. yrityksen omat asiakkaat ja kilpailijat", "Sisäisiä tekijöitä ovat mm. kustannukset"], 
+	"CorrAns": 2,
+	"sivu": "134"
+	},
+	
+	{
+	"ID": 301,
+	"Question": "Kermankuorintahinnoittelussa tuotteelle asetetaan korkea hinta, koska kilpailevia tuotteita ei ole vielä markkinoilla",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "135"
+	},
+	
+
+	{
+	"ID": 302,
+	"Question": "Penetraatiohinnoittelussa vallataan markkinat asettamalla korkea hinta, jolloin näytetään laadukkaalta ja haluttavalta",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "135"
+	},
+	
+	{
+	"ID": 303,
+	"Question": "Mikä seuraavista väitteistä koskien hintaa pitää paikkansa?",
+	"Answers": ["Premium-hinnoittelu tarkoittaa korkean laadun tavaroiden hinnoittelua", "Maksuehdoilla tarkoitetaan erilaisia tapoja maksaa hankittu tuote tai maksuaikaa", "Kun yritys myy eri tuotteita samalla hinnalla puhutaan hintadifferoinnista"], 
+	"CorrAns": 1,
+	"sivu": "136"
+	},
+	
+
+	{
+	"ID": 304,
+	"Question": "Yrityksen saatavuudesta puhuttaessa tarkoitetaan, että asiakkaan on helppo löytää yrityksen tuotteet tai palvelut",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "137"
+	},
+	
+	{
+	"ID": 305,
+	"Question": "Kuluttajatuotteiden yleisimmät kanavaratkaisut ovat…",
+	"Answers": ["Suoramyynti, jakeluliike, agentti, agentti ja jakeluliike", "Suoramyynti, vähittäiskauppa, tukkuporras, vähittäiskauppa ja tukkuporras", "Suoramyynti, vähittäiskauppa, tukkuporras ja vähittäiskauppa, agentti ja tukkuporras ja vähittäiskauppa", "Suoramyynti, jakeluliike, tukkuporras, jakeluliike ja tukkuporras"], 
+	"CorrAns": 2,
+	"sivu": "139"
+	},
+	
+
+	{
+	"ID": 306,
+	"Question": "Mikä seuraavista väitteistä koskien B2B-markkinoiden kanavaratkaisuja EI pidä paikkaansa?",
+	"Answers": ["Agentti toimii yleensä provisiopalkalla", "Suoramyynti on järkevää, kun tuotteen kustannukset ovat suuret ja kyse on matalan teknologian tuotteesta", "Yleisimmät kanavaratkaisut: suoramyynti, jakeluliike, agentti, agentti ja jakeluliike"], 
+	"CorrAns": 1,
+	"sivu": "140"
+	},
+	
+	{
+	"ID": 307,
+	"Question": "Mikä seuraavista EI kuulu markkinointiviestinnän perustoimintoihin?",
+	"Answers": ["Mainonta", "Suoramarkkinointi", "Hintadifferointi", "Suhde-ja tiedotustoiminta"], 
+	"CorrAns": 2,
+	"sivu": "140-141"
+	},
+	
+
+	{
+	"ID": 308,
+	"Question": "Henkilökohtaisiin myyntityöhön ja myyntihenkilön tehtäviin kuuluu",
+	"Answers": ["Yleisen kilapilutilanteen seuraaminen", "Tuotteen käytön havainnollistaminen", "Palautteen kerääminen asiakkailta", "Kaikki ovat oikein"], 
+	"CorrAns": 3,
+	"sivu": "142"
+	},
+	
+	{
+	"ID": 309,
+	"Question": "Mikä seuraavista väitteistä koskien myyntiprosessia pitää paikkansa?",
+	"Answers": ["Ensikontaktin ja myyntikeskustelun jälkeen tulee kaupan päättäminen", "Viimeinen vaihe on kaupan päättäminen", "Prosessi alkaa ensikontaktista", "Myyntiprosessissa on viisi vaihetta"], 
+	"CorrAns": 3,
+	"sivu": "142-143"
+	},
+	
+
+	{
+	"ID": 310,
+	"Question": "Menekinedistämistoimenpiteet ovat usein pitkäaikaisia ja pitkäjännitteisiä",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "143"
+	},
+	
+	{
+	"ID": 311,
+	"Question": "Suhde- ja tiedotustoiminta on tarkkaan harkittua, suunnitelmallista toimintaa",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "143"
+	},
+	
+
+	{
+	"ID": 312,
+	"Question": "Menekinedistämiskeinot voidaan myös kohdistaa esim jälleenmyyjiin. Tällöin tavoitteena on esim. palkita hyvästä tuloksesta",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "143"
+	},
+	
+	{
+	"ID": 313,
+	"Question": "4P-malli nojaa vahvasti ekonomistiseen ajatteluun rationaalisesta kuluttajasta",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "145"
+	},
+	
+
+	{
+	"ID": 314,
+	"Question": "Viraalimarkkinoinnilla tarkoitetaan yrityksen lähettämiä sähköisiä viestejä mm. markkinoinnillisissa tavoitteissa",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "146"
+	},
+	
+	{
+	"ID": 315,
+	"Question": "Viraalimarkkinointi on suhteellisen kallista",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "146"
+	},
+	
+
+	{
+	"ID": 316,
+	"Question": "Palvelujen osuus suomen BKT:sta on noin",
+	"Answers": ["20%", "66%", "85%", "50%"], 
+	"CorrAns": 1,
+	"sivu": "153"
+	},
+	
+	{
+	"ID": 317,
+	"Question": "Uudenlaisen ajattelutavan, palvelulogiikan, mukaan tuotteet ja palvelut on hyvä erotella toisistaan",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "154"
+	},
+	
+
+	{
+	"ID": 318,
+	"Question": "Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Nykyään voidaan ajatella, että kaikki yritykset ovat pohjimmiltaan palveluyrityksiä", "Henry Mintzbergin mukaan palvelu on prosessi, joka koostuu enemmän tai vähemmän aineettomista toiminnoista", "Tuotteiden ydinarvo luodaan vuorovaikutuksessa"], 
+	"CorrAns": 0,
+	"sivu": "154-155"
+	},
+	
+	{
+	"ID": 319,
+	"Question": "Mikä väite liittyen tuotteisiin pitää paikkansa?",
+	"Answers": ["Tuotteessa on läsnä tuotannon ja kulutuksen samanaikaisuus", "Tuote on heterogeeninen", "Tuote on konkreettinen"], 
+	"CorrAns": 2,
+	"sivu": "155"
+	},
+	
+
+	{
+	"ID": 320,
+	"Question": "Mikä väite liittyen palveluihin EI pidä paikkaansa?",
+	"Answers": ["Palvelujen keskeisimpiä ominaisuuksia ovat prosessimaisuus, aineettomuus ja vuorovaikutuksellisuus", "Palveluihin liittyvät ominaisuudet ovat suurilta osin kokemus- ja uskomuspohjaisi", "Palvelu on olemassa ennen palvelukohtaamista ja myös sen jälkeen"], 
+	"CorrAns": 2,
+	"sivu": "156-157"
+	},
+	
+	{
+	"ID": 321,
+	"Question": "Mikä seuraavista väitteistä koskien palvelukolmiota pitää paikkansa?",
+	"Answers": ["Lupauksen mahdollistaminen tapahtuu yrityksen ja asiakkaiden välillä", "Lupauksen lunastaminen tapahtuu ulkoisen markkinoinnin kautta", "Lupauksen mahdollistaminen tapahtuu sisäisen markkinoinnin kautta", "Lupauksen antaminen on yrityksen ja työntekijöiden välillä"], 
+	"CorrAns": 2,
+	"sivu": "159"
+	},
+	
+
+	{
+	"ID": 322,
+	"Question": "Mikä seuraavista väitteistä liittyen Grönroosin ajatuksiin EI pidä paikkaansa?",
+	"Answers": ["Koettuun laatuun vaikuttaa palvelun tekninen laatu ja toiminnallinen laatu", "Toiminnallinen laatu viittaa palvelun lopputulokseen", "Molempia koetun laadun osa-alueita tarkastellaan imagosilmälasien läpi"], 
+	"CorrAns": 1,
+	"sivu": "160"
+	},
+	
+	{
+	"ID": 323,
+	"Question": "CIT-tekniikkakysely koostuu kahdesta osiosta",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "162"
+	},
+	
+
+	{
+	"ID": 324,
+	"Question": "Palvelut voidaan jakaa ydinpalveluihin, lisäpalveluihin ja tukipalveluihin. Mikä seuraavista väitteistä pitää paikkansa?",
+	"Answers": ["Lisäpalveluilla luodaan kilpailuetua", "Lisäpalveluita on mm. hotellin wellness-palvelut", "Tukipalvelut kuuluvat olennaisena osana ydinpalvelun tuottamiseen", "Kilpailullisessa mielessä lisäpalvelut voivat heikentää tai vahvistaa yrityksen asemaa markkinoilla"], 
+	"CorrAns": 3,
+	"sivu": "163"
+	},
+	
+	{
+	"ID": 325,
+	"Question": "Grönroos esittää, että yrityksen on kiinnitettävä erityistä huomiota kolmeen seikkaan. Näin otetaan huomioon koko prosessin sujuvuus. Mikä seuraavista ei kuitenkaan kuulu joukkoon?",
+	"Answers": ["Asiakkaiden osallistuminen", "Kannattavuus", "Saatavuus", "Vuorovaikutus"], 
+	"CorrAns": 1,
+	"sivu": "163"
+	},
+	
+
+	{
+	"ID": 326,
+	"Question": "Palvelukaavion piirtäminen liittyy laatuvaatimusten kuiluun",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "164"
+	},
+	
+	{
+	"ID": 327,
+	"Question": "Ihmiset luottavat enemmän yrityksen tarkasti suunniteltuun viestintään kuin muiden asiakkaiden välittämiin kertomuksiin",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "168"
+	},
+	
+
+	{
+	"ID": 328,
+	"Question": "Palvelujen kannattavuusketju-malli (Heskett) korostaa vastakkaisia teemoja palvelukolmioon verrattuna",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "169"
+	},
+	
+	{
+	"ID": 329,
+	"Question": "Kuluttajamarkkinoilla päätöksen tekee ihminen, kun taas B2B-markkinoilla se voi olla esim. tietokone tai muu järjestelmä",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "171"
+	},
+	
+
+	{
+	"ID": 330,
+	"Question": "Mikä seuraavista väitteistä koskien kuluttajakäyttäytymisen ja B2B-käyttäytymisen eroja pitää paikkansa?",
+	"Answers": ["B2B-markkinoilla psykologiset ja emotionaaliset tekijät vaikuttavat voimakkaasti päätöksentekoon", "B2B-asiakkaan ostoprosessi on suhteellisen lyhyt ja selkeä", "Kuluttaja yleensä ostaa standardoituja tuotteita", "Kuluttajan kynnys vaihtaa ostopaikkaa on suuri"], 
+	"CorrAns": 2,
+	"sivu": "171"
+	},
+	
+	{
+	"ID": 331,
+	"Question": "Kuluttajakäyttäytymistä kuvaa kolme asiaa. Mikä EI kuulu joukkoon?",
+	"Answers": ["Se on dynaamista", "Se on interaktiivista", "Se sisältää suunnittelua", "Se sisältää vaihdantaa"], 
+	"CorrAns": 2,
+	"sivu": "172"
+	},
+	
+
+	{
+	"ID": 332,
+	"Question": "Mikä seuraavista väitteistä koskien kuluttajan ostopäätösprosessia pitää paikkansa?",
+	"Answers": ["Ostopäätösprosessi alkaa informaation hankinnasta", "Tarpeen tunnistaminen voi olla pitkä alitajuinen prosessi, tai hyvinkin impulsiivinen", "Tarpeen tunnistamisen jälkeen seuraa vaihtoehtojen arviointi", "Päätös on viimeinen vaihe prosessissa"], 
+	"CorrAns": 1,
+	"sivu": "173"
+	},
+	
+	{
+	"ID": 333,
+	"Question": "Yritys voi olla aktiivinen ongelman herättäjä asiakkaan tarpeen tunnistamisprosessissa",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "173"
+	},
+	
+
+	{
+	"ID": 334,
+	"Question": "Mikä seuraavista väitteistä koskien ostopäätösprosessia EI pidä paikkaansa?",
+	"Answers": ["Informaation hankinta voi olla joko passiivista tai aktiivista", "Ostopäätös on aina tietoinen", "Kognitiivinen dissonanssi tarkoittaa sitä, että kuluttaja vahvistaa itselleen tehneensä oikean päätöksen mm. torjumalla negatiivista informaatiota", "Passiivinen informaation hankinta tarkoittaa, että kuluttaja kerää informaatiota alitajuisesti muistiinsa"], 
+	"CorrAns": 1,
+	"sivu": "174-175"
+	},
+	
+	{
+	"ID": 335,
+	"Question": "Mikä seuraavista väitteistä koskien Maslow’n tarvehierarkiaa EI pidä paikkaansa?",
+	"Answers": ["Alimmalla tasolla ovat turvallisuuteen liittyvät tarpeet, kuten turvattu terveys", "Perustarpeita ovat mm. fysiologiset tarpeet, kuten vesi ja lepo", "Hierarkian ylimmällä tasolla on itsensä toteuttaminen", "Itsensä toteuttamien tarkoittaa mm. luovuutta ja moraalia"], 
+	"CorrAns": 0,
+	"sivu": "176"
+	},
+	
+
+	{
+	"ID": 336,
+	"Question": "Ihmisen asenteet jaetaan perinteisesti kolmeen osaan. Mikä seuraavista EI kuulu niihin?",
+	"Answers": ["Psykologiset", "Kognitiiviset", "Konatiiviset", "Affektiiviset"], 
+	"CorrAns": 0,
+	"sivu": "176"
+	},
+	
+	{
+	"ID": 337,
+	"Question": "Konatiiviset asenteet tarkoittavat rationaalista arviointia",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "176"
+	},
+	
+{
+	"ID": 338,
+	"Question": "Mikä seuraavista väitteistä koskien Hofsteden kulttuuridimensioita EI pidä paikkaansa?",
+	"Answers": ["Valtaetäisyys viittaa sosiaaliseen tasa-arvoisuuteen ja vallan jakautumiseen", "Kollektivistisissa kulttuureissa ihmiset nojaavat voimakkaasti läheisiinsä ja ryhmään, jossa toimivat", "Maskuliinisuus vs feminiinisyys liittyy siihen, miten suhtaudutaan esim. kilpailuhenkisyyteen", "Pitkän vs lyhyen aikavälin suuntautuminen liittyy mm. sinnikkyyteen ja säästäväisyyteen"], 
+	"CorrAns": 0,
+	"sivu": "177-178"
+	},
+	
+	{
+	"ID": 339,
+	"Question": "Mikä seuraavista väitteistä koskien B2B-asiakaskäyttäytymistä pitää paikkansa?",
+	"Answers": ["Asiakkaat voidaan jakaa julkisorganisaatioihin, voittoa tavoittelemattomiin organisaatioihin ja yksityisiin organisaatioihin", "Jakelukanavat ovat lyhyitä ja yksinkertaisia verrattuna kuluttajamarkkinoihin", "Yrittäjämarkkinoilla yksittäisiä asiakkaita on huomattavasti enemmän kuin kuluttajamarkkinoilla", "Mainonta on tärkeämpää kuin henkilökohtainen myyntityö"], 
+	"CorrAns": 1,
+	"sivu": "180"
+	},
+	
+{
+	"ID": 340,
+	"Question": "Päätöksentekoprosessi kuluttajamarkkinoilla eroaa paljon päätöksentekoprosessista yritysmarkkinoilla",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "180"
+	},
+	
+	{
+	"ID": 341,
+	"Question": "Sovelletusta uusintaostoksesta puhutaan silloin, kun tarve on samanlainen kuin ennen ja uutta tietoa ei tarvita",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "181"
+	},
+	
+{
+	"ID": 342,
+	"Question": "Yritysmarkkinoilla yhteen ostotapahtumaan osallistuu useita henkilöitä. Mikä seuraavista väitteistä EI pidä paikkaansa?",
+	"Answers": ["Aloitteen tekijä voi olla sama henkilö kuin käyttäjä", "Päättäjä on avainasemassa kun päätetään uusintaostoista", "Portinvartijat voivat olla esim. sihteereitä", "Vaikuttaja voi olla yrityksen ulkopuolinen konsultti"], 
+	"CorrAns": 1,
+	"sivu": "182"
+	},
+	
+	{
+	"ID": 343,
+	"Question": "Mikä seuraavista väitteistä koskien B2B-ostokäyttäytymisen ja kuluttajakäyttäytymisen eroja EI pidä paikkaansa?",
+	"Answers": ["Yritysmarkkinoilla ostokäyttäytyminen on muodollisempaa", "Päätöksenteko B2B-markkinoilla perustu pitkälti taloudellisiin arviointeihin", "Inhimilliset asiat ovat vieraita yritysten välisessä kuluttajakäyttäytymisessä", "Yksittäiset ostot ovat merkittäviä B2B-markkinoilla"], 
+	"CorrAns": 2,
+	"sivu": "184"
+	},
+	
+{
+	"ID": 344,
+	"Question": "Kertamyyntimarkkinoinnissa korostuu asiakkaan arvontuotantoprosessin ymmärtäminen",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "186"
+	},
+	
+	{
+	"ID": 345,
+	"Question": "Mikä seuraavista väitteistä koskien suhdemarkkinointia pitää paikkansa?",
+	"Answers": ["Henry Mintzberg lanseerasi käsitteen vuonna 1983", "Suhdemarkkinointiajattelun leviämiseen on vaikuttanut mm. erilaisten palvelujen määrän väheneminen suhteessa uusiin yrityksiin", "Grönroosin mukaan suhdemarkkinointi on mm. suhteiden tunnistamista, solmimista, vaalimista ja kehittämistä", "Suhdemarkkinointi-käsite on määritelty oikeastaan vain yhdellä tavalla: Grönroosin laatima markkinoinnin suhdepainotteinen määritelmä"], 
+	"CorrAns": 2,
+	"sivu": "186-187"
+	},
+	
+{
+	"ID": 346,
+	"Question": "Suhdemarkkinointiajattelun leviämiseen ja nykyiseen merkittävään asemaan on vaikuttanut monta tekijää. Mikä seuraavista EI kuulu niihin?",
+	"Answers": ["Koulutuksen lisääntyminen", "Palvelualojen lisääntyminen", "Tietotekniikan kehittyminen", "Globaalius"], 
+	"CorrAns": 0,
+	"sivu": "186"
+	},
+	
+	{
+	"ID": 347,
+	"Question": "Mikä seuraavista väittämistä EI pidä paikkaansa koskien suhdemarkkinointia?",
+	"Answers": ["Grönroosin mukaan suhdeprosessi edellyttää ensin markkinatutkimusta", "Mahdollinen suhteen katkaiseminen tehdään niin, että suhde voidaan tarvittaessa jälleen elvyttää", "Yritykset muodostavat asiakassuhteita mm. jakelukanavan jäsenten kanssa", "Toimittajasuhteita syntyy eri osastojen ja liiketoimintayksiköiden välille"], 
+	"CorrAns": 3,
+	"sivu": "187"
+	},
+	
+{
+	"ID": 348,
+	"Question": "Mikä seuraavista väitteistä koskien transaktiomarkkinointia ja suhdemarkkinointia EI pidä paikkaansa?",
+	"Answers": ["Transaktiomarkkinointi on hyvä vaihtoehto, jos ostoprosessi on erittäin muodollinen", "Jos hintakilpailu yritysten välillä on erittäin pieni, suhdetta ei välttämättä muodostu eikä näin ollen suhdemarkkinointia käytetä", "Suhteiden luomista helpottaa, jos yrityksellä on vakaa kilpailuetu", "Suhteiden luomista helpottaa, jos yritys toimii kehittyvillä ja kasvavilla markkinoilla"], 
+	"CorrAns": 1,
+	"sivu": "188-189"
+	},
+	
+	{
+	"ID": 349,
+	"Question": "Kahdenvälisistä suhteista puhutaan, kun yritykseen vaikuttavat sellaisen toimija teot, joihin yrityksellä ei ole varsinaista välitöntä yhteyttä",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "189"
+	},
+	
+{
+	"ID": 350,
+	"Question": "Verkko eroaa verkostosta neljällä tavalla. Mikä seuraavista EI kuulu näihin?",
+	"Answers": ["Se on monen yritysjoukon muodostama", "Sillä on yhteinen päämäärä", "Sitä kehitetään tietoisesti ja tavoitteiden mukaisesti", "Sen jäsenillä on sovitut roolit"], 
+	"CorrAns": 0,
+	"sivu": "190"
+	},
+	
+	{
+	"ID": 351,
+	"Question": "Verkostojen tavoitteena on yleensä toiminnan kehittäminen ja kannattavuuden parantaminen",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "190"
+	},
+	
+{
+	"ID": 352,
+	"Question": "Yritys voi arvioida suhteen syntyneen, kun asiakas on vastaanottanut kanta-asiakaskortin esim. alennusta saadakseen",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "191"
+	},
+	
+	{
+	"ID": 353,
+	"Question": "Mikä seuraavista väitteistä koskien tikapuumallia EI pidä paikkaansa?",
+	"Answers": ["Malli kuvaa suhteiden kehittymistä asennetasolla", "Ensimmäinen vaihe on sitoutuminen", "Suhdemarkkinointivaiheen ajatellaan alkavan tutkimisvaiheen jälkeen", "Tietoisuus-vaiheen jälkeen tulee tutkiminen"], 
+	"CorrAns": 1,
+	"sivu": "191"
+	},
+	
+{
+	"ID": 354,
+	"Question": "Mikä väittämä koskien porrasmallia pitää paikkansa?",
+	"Answers": ["Porrasmalli kuvaa asennetasolla tapahtuvaa kehitystä", "Avainasiakas on asiakas, joka keskittää ostojaan yritykseen", "Prospektit ovat potentiaalisia asiakkaita, joiden yhteystiedot yrityksellä on", "Prospektista voi tulla passiivinen tai entinen asiakas"], 
+	"CorrAns": 2,
+	"sivu": "191-192"
+	},
+	
+	{
+	"ID": 355,
+	"Question": "Uusien asiakkaiden hankkiminen on yleensä halvempaa kuin entisten pitäminen",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "193"
+	},
+	
+{
+	"ID": 356,
+	"Question": "Storbackan, Strandvikin ja Grönroosin mallissa suhteen kannattavuutta arvioidaan suhteen tuottojen ja kustannusten erotuksen kautta",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "194"
+	},
+	
+	{
+	"ID": 357,
+	"Question": "Jarmo R. Lehtinen esittää, että asiakkaiden arvioinnissa on hyvä ottaa huomioon asiakassuhteen kolme eri arvoa. Mikä väitteistä EI pidä paikkaansa?",
+	"Answers": ["Luokittelu sopii erityisesti yritysasiakkuuksiin", "Evaluatiivisen arvon mittareita ovat mm. referenssiarvo, oppimisarvo ja faktuaalinen arvo", "Strategista arvoa on asiakkaalla, jonka kautta yritys voi mm. laajentaa markkinoitaan", "Potentiaalinen eli tulevaisuuden arvo voi olla joko positiivista tai negatiivista"], 
+	"CorrAns": 1,
+	"sivu": "195-196"
+	},
+	
+{
+	"ID": 358,
+	"Question": "Referenssiarvoa tarkasteltaessa yritystä arvioidaan sen mukaan, millaisia asiakkaita sillä on",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "196"
+	},
+	
+	{
+	"ID": 359,
+	"Question": "Mikä seuraavista väitteistä liittyen prosessiajatteluun EI pidä paikkaansa?",
+	"Answers": ["Huomiota kiinnitetään tuotteen tai palvelun koko tuotantoprosessiin", "Prosessijohtamisen leviämisen taustalla ovat kokonaisvaltaisen laatujohtamisen ajatukset", "Prosessit kulkevat yli osasto-ja organisaatiorajojen kuitenkin välittäen muodollisista raja-aidoista ja siitä, miten toimintoja johdetaan", "Prosessijohtamisella on vahva tuotantoteollisuuteen kytkeytyvä tausta"], 
+	"CorrAns": 2,
+	"sivu": "198-200"
+	},
+	
+{
+	"ID": 360,
+	"Question": "Plowmanin mukaan prosessijohtamisen tavoitteena on tehdä liiketoiminnasta pitkällä aikavälillä kustannustehokasta",
+	"Answers": ["Oikein", "Väärin", "", ""], 
+	"CorrAns": 1,
+	"sivu": "199"
+	},
+	
+	{
+	"ID": 361,
+	"Question": "Kilpailukyvyn eroosiota pyritään jatkuvan prosessien johtamisen avulla vahvistamaan",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "199"
+	},
+	
+
+	{
+	"ID": 362,
+	"Question": "Mikä seuraavista väitteistä liittyen prosessijohtamiseen pitää paikkansa?",
+	"Answers": ["On luonnehdittu, että prosessit ovat organisaation luontainen tapa toimia", "Prosessit jaetaan ainakin ydin-, lisä-, ja johtamisprosesseihin", "Prosessijohtamisessa on kyse niin sanotusta “ismistä” tai työkalupakista", "Prosessijohtamisen mukaan toimintoja on turha jakaa tai eritellä pienempiin osiin"], 
+	"CorrAns": 0,
+	"sivu": "200-201"
+	},
+	
+
+	{
+	"ID": 363,
+	"Question": "Prosessinomistajat vastaavat ydinprosesseista",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "202"
+	},
+	
+
+	{
+	"ID": 364,
+	"Question": "Prosessijohtaminen aiheuttaa usein muutosvastarintaa mm. sen vuoksi, että sen käyttöönotto muuttaa rooleja ja työnjakoa organisaatiossa",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "202"
+	},
+	
+
+	{
+	"ID": 365,
+	"Question": "Prosessijohtaminen on lähinnä ylimmän johdon työkalu",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "204"
+	},
+	
+
+	{
+	"ID": 366,
+	"Question": "Mielikuvien viestinnällisestä näkökulmasta painopiste on sen tarkastelussa, miten organisaatio muotoilee viestinsä ja kuinka vastaanottajat ne tulkitsevat",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "214"
+	},
+	
+
+	{
+	"ID": 367,
+	"Question": "Albert ja Whette esittelivät organisaation identiteettiä koskevan määritelmän. Mikä seuraavista EI kuulu siihen?",
+	"Answers": ["Mikä on organisaation rakenne työntekijöiden näkökulmasta?", "Mikä on organisaatiossa keskeistä sen jäsenten mielestä?", "Mikä erottaa tietyn organisaation muista organisaatioista?", "Minkä tai mitkä piirteet organisaatiossa sen jäsenet käsittävät pysyviksi, jatkuviksi tai kestäviksi?"], 
+	"CorrAns": 0,
+	"sivu": "215"
+	},
+	
+
+	{
+	"ID": 368,
+	"Question": "Mikä seuraavista väitteistä liittyen organisaatio-identiteettiin EI pidä paikkaansa?",
+	"Answers": ["Ulkoisesta tarkastelutasosta voidaan puhua, kun identiteetti nähdään osaksi markkinointia", "Sisäinen taso liittyy organisaatiokäyttäytymiseen", "Sisäinen taso liittyy mm. suorituskyvyn johtamiseen", "Ulkoinen taso liittyy mm. strategiaan"], 
+	"CorrAns": 3,
+	"sivu": "218"
+	},
+	
+
+	{
+	"ID": 369,
+	"Question": "Mikä seuraavista väitteistä koskien imagoa pitää paikkansa?",
+	"Answers": ["Imago konkretisoituu siinä, kun eri sidosryhmien arvioinnit ajan kuluessa kumuloituvat yhteen", "Toiminnallinen osa-alue käsittää asenteet, joita ihmisillä on yritystä kohtaan", "Yrityksellä on vain yksi imago", "Imagosta puhutaan, kun mietitään, mitä tulee ensimmäisenä mieleen, kun yrityksen nimi mainitaan tai logo näkyy jossakin"], 
+	"CorrAns": 3,
+	"sivu": "225"
+	},
+	
+
+	{
+	"ID": 370,
+	"Question": "Mikä seuraavista väitteistä koskien mainetta pitää paikkansa?",
+	"Answers": ["Toisin kuin imagoja, yrityksellä voi olla vain yksi maine", "Maine heijastaa sidosryhmien arviota yrityksestä", "Maine harvoin perustuu henkilökohtaisiin kokemuksiin organisaation toiminnasta", "Maineen ensisijainen muokkaaja on viestintä"], 
+	"CorrAns": 1,
+	"sivu": "226-227"
+	},
+	
+
+	{
+	"ID": 371,
+	"Question": "Imago ja maine ovat täysin yrityksen rakennettavissa ja hallittavissa",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "227"
+	},
+	
+
+	{
+	"ID": 372,
+	"Question": "Mikä seuraavista väittämistä koskien brändin johtamista pitää paikkansa?",
+	"Answers": ["Bränditietoisuus juontaa bränditietämyksestä ja brändi-imagosta", "Persoonallisuusnäkökulman mukaan brändi elää kuluttajien mielissä kongitiivisena rakennelmana", "Bränditietämys jakaantuu brändin tunnistamiseen ja brändin muistamiseen", "Kellerin (2000) julkaisema artikkeli nosti asiakkaan brändikeskustelun keskiöön"], 
+	"CorrAns": 3,
+	"sivu": "228-229"
+	},
+	
+
+	{
+	"ID": 373,
+	"Question": "Mikä seuraavista väitteistä liittyen brändien johtamiseen EI pidä paikkaansa?",
+	"Answers": ["Personallisuusnäkökulman mukaan brändejä kulutetaan niiden symbolisten merkitysten eikä pelkästään rationaalisten tekijöiden vuoksi", "Yhteisönäkökulmassa kuluttajat muodostavat yhteisöjä brändien ympärille", "Sanotaan, että yhteisönäkökulma toi brändikeskustelun 2000-luvulle", "Sekä suhde- että persoonallisuusnäkökulman mukaan brändissä on jotain inhimillistä"], 
+	"CorrAns": 2,
+	"sivu": "230-231"
+	},
+	
+
+	{
+	"ID": 374,
+	"Question": "Mikä seuraavista väitteistä liittyen brändien johtamiseen pitää paikkansa?",
+	"Answers": ["Suhdenäkökulman mukaan brändiä käytetään, kun halutaan asemoida itseään sosiaaliseen ja kulttuuriseen viiteryhmään", "Suhdenäkökulmassa siirrytään tarkastelemaan triadista brändi-kuluttajakuluttaja-suhdetta", "Brändiyhteisöllä tarkoitetaan jäsenten välisiin suhteisiin perustuvaa, kuitenkin maantieteellisesti rajoittuvaa, yhteisöä, joka rakentuu jonkin brändin ympärille", "Kulttuurinäkökulma tarkastelee brändejä makrotasolla"], 
+	"CorrAns": 3,
+	"sivu": "229-232"
+	},
+	
+
+	{
+	"ID": 375,
+	"Question": "Brändiyhteisön jäsenet tuntevat voimakasta yhteyttä toisiinsa, mutta vielä voimakkaampaa yhteyttä brändiin",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "231-232"
+	},
+	
+
+	{
+	"ID": 376,
+	"Question": "Yhteisönäkökulma vie arvonluonnin painopisteen asiakkaisiin",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "233"
+	},
+	
+
+	{
+	"ID": 377,
+	"Question": "Mikä seuraavista väitteistä koskien henkilöstöjohtamista pitää paikkansa?",
+	"Answers": ["Henkilöstöjohtamisen kehityskulut eri maissa ovat suhteellisen samoja ajankohdiltaan ja toteutustavoiltaan", "Henkilöstöjohtaminen sai alkunsa patriarkaalisesta johtamisesta", "Suomessa ensimmäiset patriarkaalisen johtamisen vaiheet ilmenivät 1700-luvun alussa", "Sosiaalitoiminta synnytti patriarkaalisuutta"], 
+	"CorrAns": 1,
+	"sivu": "239-240"
+	},
+	
+
+	{
+	"ID": 378,
+	"Question": "Mikä seuraavista väitteistä koskien henkilöstöjohtamista EI pidä paikkaansa?",
+	"Answers": ["Sosiaalitoiminta alkoi muuttua henkilöstöhallinnoksi 1960- ja 1970lukujen vaihteessa", "Henkilöstöjohtamisen kehittymiselle on ollut tyypillistä tasainen kehittyminen", "Henkilöstöhallinto muuttui henkilöstöjohtamiseksi (HRM) 1980-luvulla", "Monet tutkijat ovat pitäneet Raymond Milesia ensimmäisenä tutkijana, joka käytti henkilöstöjohtamisen käsitteistöä"], 
+	"CorrAns": 1,
+	"sivu": "240"
+	},
+	
+
+	{
+	"ID": 379,
+	"Question": "Henkilöstöpoliittisilla periaatteilla oli selkeä yhteys strategiaan; se siirsi henkilöstötyötä lähemmäs organisaation strategiaa",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "241"
+	},
+	
+
+	{
+	"ID": 380,
+	"Question": "Milesin mukaan henkilöstön vaikutusvallan ja itseohjautuvuuden lisääminen johti toiminnan tehokkuuden laskuun",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "241"
+	},
+	
+
+	{
+	"ID": 381,
+	"Question": "Miles jaotteli henkilöstöjohtamiseen liittyvät aktiviteetit neljään. Mikä seuraavista ei kuulu niihin?",
+	"Answers": ["Palkitsemisjärjestelmä", "Viestintä", "Organisaatioiden ja töiden muotoilu", "Henkilöstön valinta"], 
+	"CorrAns": 3,
+	"sivu": "241"
+	},
+	
+
+	{
+	"ID": 382,
+	"Question": "Mikä seuraavista väitteistä liittyen Harvardin malliin EI pidä paikkaansa?",
+	"Answers": ["Harvardin mallissa pyrittiin tarkastelemaan, miten johdon ja työntekijöiden keskinäisen vaikutusvallan prosessia voidaan kehittää", "Henkilöstön vaikutusvalta oli keskeisin politiikka-areena", "Mallissa painotetaan, että henkilöstöjohtamisessa tulisi pyrkiä sovittamaan yksilö-, organisaatio-, ja yhteiskunnallinen taso toisiinsa", "Johdon nähtiin olevan organisaation keskeisin sidosryhmä"], 
+	"CorrAns": 3,
+	"sivu": "242"
+	},
+	
+
+	{
+	"ID": 383,
+	"Question": "Mikä seuraavista EI ole Harvardin mallin politiikka-areena?",
+	"Answers": ["Henkilöstöresursseihin liittyvät järjestelmät", "Palkitsemisjärjestelmät", "Ohjausjärjestelmät", "Työskentelyyn liittyvät järjestelmät"], 
+	"CorrAns": 2,
+	"sivu": "242"
+	},
+	
+
+	{
+	"ID": 384,
+	"Question": "Mikä seuraavista väittämistä pitää paikkansa?",
+	"Answers": ["Michiganin malli oli ensimmäinen malli, jossa organisaation inhimillisiä voimavaroja alettiin korostaa sosiaalisena pääomana", "Henkilöstövoimavarojen virtaamisella tarkoitetaan, että yksilöiden odotukset ja organisaation tarpeet pyritään yhdistämään", "Sekä Harvardin malli että Michiganin malli on julkaistu 1900-luvulla"], 
+	"CorrAns": 2,
+	"sivu": "242-243"
+	},
+	
+
+	{
+	"ID": 385,
+	"Question": "Mikä seuraavista väittämistä koskien Michiganin mallia pitää paikkansa?",
+	"Answers": ["Mallissa pyrittiin liittämään henkilöstöjohtamisen, organisaation strategian ja organisaation tavoitteet toisiinsa", "Mallissa painottui suorituksen johtaminen", "Perustoimintoja olivat mm. suorituksen arviointi ja palkitseminen sekä viestintä"], 
+	"CorrAns": 1,
+	"sivu": "243"
+	},
+	
+
+	{
+	"ID": 386,
+	"Question": "Mikä seuraavista EI ole Michiganin mallin henkilöstöjohtamisen perustoiminto?",
+	"Answers": ["Töiden, ihmisten ja organisaation kehittäminen", "Organisaation strategia", "Henkilöstön valinta", "Suorituksen arviointi ja palkitseminen"], 
+	"CorrAns": 1,
+	"sivu": "243"
+	},
+	
+
+	{
+	"ID": 387,
+	"Question": "Mikä seuraavista väitteistä koskien Guestin mallia pitää paikkansa?",
+	"Answers": ["Pyrkimyksenä oli parantaa yksilöiden ja organisaation suorituskykyä lisäämällä eriäväisyyksiä henkilöstötoimintojen välillä", "Guestin mallissa henkilöstöjohtamisen käytännöt eivät kytkeytyneet suorituksen johtamiseen", "Toimenpiteiden yhteensopivuuden kehittämisellä tavoiteltiin korkeatasoista sitoutumista, toiminnan laatua ja joustavuutta"], 
+	"CorrAns": 2,
+	"sivu": "243-244"
+	},
+	
+
+	{
+	"ID": 388,
+	"Question": "Mikä seuraavista väittämistä liittyen Ulrichin malliin EI pidä paikkaansa?",
+	"Answers": ["Mallissa pyrittiin yhdistämään pitkän aikavälin operatiiviset toiminnot päivittäisiin strategisiin tavoitteisiin", "Mallissa pyrittiin yhdistämään henkilöstöjohtamisen systeemit ja ihmisten välinen vuorovaikutus toisiinsa", "Ulrichin malli on nykyisin kuuluisin strategisen henkilöstöjohtamisen malli", "Mallin mukaan henkilöstöammattilaisten on opittava työskentelemään sekä strategisesti että operatiivisesti"], 
+	"CorrAns": 0,
+	"sivu": "244"
+	},
+	
+
+	{
+	"ID": 389,
+	"Question": "Mikä seuraavista EI ole yksi Ulrichin mallin henkilöstöjohtamisen päärooleista?",
+	"Answers": ["Hallinnollisten toimintojen johtaminen", "Strategian toimeenpanon ohjaus", "Strateginen kumppani", "Muutoksen ja uudistumisen johtaminen"], 
+	"CorrAns": 1,
+	"sivu": "244-245"
+	},
+	
+
+	{
+	"ID": 390,
+	"Question": "Ulkoisella yhteensopivuudella tarkoitetaan, että käytettyjen henkilöstöjohtamisen menetelmien tulee tukea toisiaan organisaation strategian toteuttamisessa",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "245"
+	},
+	
+
+	{
+	"ID": 391,
+	"Question": " Aineettoman pääoman merkityksen kasvu on ollut erityisen suurta osaamis- ja tietointensiivisissä sekä palvelualan organisaatioissa",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "246"
+	},
+	
+
+	{
+	"ID": 392,
+	"Question": "Aineeton pääoma on käsitteenä melko vakiintunut",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "246"
+	},
+	
+
+	{
+	"ID": 393,
+	"Question": "Mikä seuraavista väittämistä koskien aineetonta pääomaa EI pidä paikkaansa?",
+	"Answers": ["Suhdepääoma ilmenee mm. henkilöstön ominaisuuksien ja osaamisen kautta", "Suhdepääomaan kuuluvat esim. yrityksen brändi, imago ja maine", "Inhimillinen pääoma voidaan jakaa yksilölliseen ja yhteisölliseen inhimilliseen pääomaan", "Rakennepääomaan kuuluu mm. toiminnan “henki”"], 
+	"CorrAns": 0,
+	"sivu": "246-248"
+	},
+	
+
+	{
+	"ID": 394,
+	"Question": "Mikä seuraavista väitteistä liittyen aineettomaan pääomaan pitää paikkansa?",
+	"Answers": ["Inhimillinen pääoma sisältää organisaation ulkoisia sidosryhmiä ja verkostoja", "Rakennepääoma luo puitteet muiden aineettoman pääoman osa-alueiden mahdollisimman tehokkaalle hyödyntämiselle", "Kaikki paitsi inhimillinen pääoma vaikuttavat keskeisesti organisaation menestymiseen", "Kaikki ovat väärin"], 
+	"CorrAns": 1,
+	"sivu": "246-248"
+	},
+	
+
+	{
+	"ID": 395,
+	"Question": "Aineetonta pääomaa on pyrittävä johtamaan",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 0,
+	"sivu": "248"
+	},
+	
+
+	{
+	"ID": 396,
+	"Question": "Johtamisen tulisi keskittyä ihmisten johtamiseen (management) asioiden johtamisen (leadership) sijaan",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "250"
+	},
+	
+
+	{
+	"ID": 397,
+	"Question": "Mikä seuraavista väittämistä koskien ihmisten johtamista EI pidä paikkaansa?",
+	"Answers": ["Varsinainen keskustelu ihmisten johtamisen ja asioiden johtamisen välillä alkoi 1970-luvulla", "Bennis väitti, että organisaatioita vaivasi visioiden, merkityksellisyyden ja voiman puute", "Asioiden johtajat tekevät oikeita asioita, kun taas ihmisten johtajat tekevät asioita oikein"], 
+	"CorrAns": 2,
+	"sivu": "250-251"
+	},
+	
+
+	{
+	"ID": 398,
+	"Question": "Ihmisten johtaminen toteutuu Bennisin ja Nanusin mukaan neljän taidon kautta. Mikä seuraavista EI kuulu joukkoon?",
+	"Answers": ["Taito rakentaa luottamus", "Taito kehittyä ulkoisten suhteiden kehittämisen kautta", "Kommunikointitaito", "Visiointitaito"], 
+	"CorrAns": 1,
+	"sivu": "251-252"
+	},
+	
+
+	{
+	"ID": 399,
+	"Question": "Mikä seuraavista Kouzesin ja Posnerin toteamuksista on totta?",
+	"Answers": ["He vahvistivat perinteiset johtamisnäkemykset oikeiksi", "He väittivät, että ihmisten johtaminen oli suhde esimiehen ja alaisten välillä", "He eivät niinkään pitäneet asioiden johtamista tehokkaan johtamisen esteenä"], 
+	"CorrAns": 1,
+	"sivu": "252"
+	},
+	
+
+	{
+	"ID": 400,
+	"Question": "Mikä seuraavista EI ole asiantuntijalle ominaista?",
+	"Answers": ["Kyky hahmottaa ja yhdistää tietoa yhtenäisiksi kokonaisuuksiksi", "Työn vapauden vähyys", "Nopea tiedonhakukyky", "Yliopistossa työskenteleminen"], 
+	"CorrAns": 1,
+	"sivu": "260"
+	},
+	
+
+	{
+	"ID": 401,
+	"Question": "Hiljainen tieto on salaista tietoa, jota organisaatiossa työskentelevä henkilö ei kerro eteenpäin",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "261"
+	},
+	
+
+	{
+	"ID": 402,
+	"Question": "Eksplisiittisen “kuuluvan ja näkyvän” tiedon muoto on pääosin ihmispuhetta, kun taas hiljaisen tiedon luontevin ilmenemistapa on kirjallinen",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "262"
+	},
+	
+
+	{
+	"ID": 403,
+	"Question": "Druckerin tietoperusteista organisaatiota luonnehtii kolme erityispiirrettä. Mikä seuraavista ei ole yksi niistä?",
+	"Answers": ["Tiedon kerääminen", "Innovatiivisuus", "Kaizen-periaatteeseen nojautuva jatkuva parantaminen", "Tiedon ja osaamisen tehokas hyödyntäminen"], 
+	"CorrAns": 0,
+	"sivu": "262"
+	},
+	
+
+	{
+	"ID": 404,
+	"Question": "Mikä seuraavista väitteistä koskien Taljan tietoa luovaa organisaatiota pitää paikkansa?",
+	"Answers": ["Emergentti strategian muodostus ylhäältä alas –periaatteella korostuu", "Taljan tutkimassa organisaatiossa elää vahvasti rinnakkain kolme kuvaa todellisuudesta", "Yksi todellisuuksista on melko suoraviivainen suunnitteluun ja seurantaan perustuva johtamisen maailma", "Kaikki ovat oikein"], 
+	"CorrAns": 2,
+	"sivu": "262"
+	},
+	
+
+	{
+	"ID": 405,
+	"Question": "Weickin kuvaama sensemaking tarkoittaa sitä, että organisaatiossa on enemmän käynnissä olevia dialogeja kuin merkityksen ja mielekkyyden hakemisen prosesseja",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "263"
+	},
+	
+
+	{
+	"ID": 406,
+	"Question": "Palkka on asiantuntijan ensisijainen motivaation ja sitoutumisen lähde",
+	"Answers": ["OIkein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "264"
+	},
+	
+
+	{
+	"ID": 407,
+	"Question": "Mikä seuraavista väittämistä koskien alaistaitoja EI pidä paikkaansa?",
+	"Answers": ["Meadin mukaan ihmisenä oleminen on ensisijaisesti sosiaalista ja ihminen itsessään on läpeensä sosiaalinen", "Johtamisen piirreteorioita on nimitetty suurmiesteorioiksi", "Alaistaitoja voidaan pitää esimiestaitojen vastakohtana", "Alaistaitoja kutsutaan myös organisaatiokansalaisuudeksi"], 
+	"CorrAns": 2,
+	"sivu": "264-267"
+	},
+	
+
+	{
+	"ID": 408,
+	"Question": "Alaistaitojen voidaan ymmärtää viittaavan vastuulliseen organisaation asioihin vaikuttamiseen ja osallistumiseen ilman esimiehen tukea",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "267"
+	},
+	
+
+	{
+	"ID": 409,
+	"Question": "Alaistaitoja on tutkittu erittäin paljon",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "267"
+	},
+	
+
+	{
+	"ID": 410,
+	"Question": "Alaistaitojen ja OCB:n käsitteen merkityksestä ja määrittelystä ollaan vasta viime vuosien aikana päästy yksimielisyyteen",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "267"
+	},
+	
+
+	{
+	"ID": 411,
+	"Question": "Organin mukaan viisi elementtiä luonnehtivat organisaatiokansalaisuus-ilmiötä. Mikä seuraavista ei kuulu näihin?",
+	"Answers": ["Tunnollisuus", "Halu auttaa", "Luovuus", "Reiluus ja rehtiys"], 
+	"CorrAns": 2,
+	"sivu": "268"
+	},
+	
+
+	{
+	"ID": 412,
+	"Question": "Mikä seuraavista väittämistä liittyen Organin OCB-ilmiön kuvaukseen EI pidä paikkaansa?",
+	"Answers": ["Halu auttaa tarkoittaa, että työntekijä on valmis tekemään yli minimivaatimuksen", "Huomaavaisuus ja hyvät tavat liittyvät esimerkiksi tiedon jakamiseen", "Reiluus ja rehtiys viittaavat hyvän työntekijän asenteeseen", "Kansalaishyveellisyys viittaa osallistumiseen organisaation asioihin ja kiinnostukseen niitä kohtaan"], 
+	"CorrAns": 0,
+	"sivu": "268"
+	},
+	
+
+	{
+	"ID": 413,
+	"Question": "Mikä seuraavista EI kuulu Podsakoffin organisaatiokansalaisuusesitykseen?",
+	"Answers": ["Reiluus ja rehtiys", "Aloitekykyisyys", "Itsensä kehittäminen", "Kansalaishyveellisyys"], 
+	"CorrAns": 3,
+	"sivu": "269"
+	},
+	
+
+	{
+	"ID": 414,
+	"Question": "Psykologisella sopimuksella tarkoitetaan työyhteisön ennakko-oletuksia ja odotuksia työntekijää kohtaan",
+	"Answers": ["Oikein", "Väärin"], 
+	"CorrAns": 1,
+	"sivu": "269"
+	}
+]

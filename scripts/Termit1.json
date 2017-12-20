@@ -1,0 +1,1136 @@
+[
+	{
+	"ID": 0,
+	"Määritelmä": "Tekniset, kaupalliset, taloudelliset, turvallisuuteen liittyvät, kirjanpidolliset, hallinnolliset",
+	"Termi": "Fayolin organisaation toimintojen jako kuuteen ryhmään",
+	"sivu": "7"
+	},
+	
+	{
+	"ID": 1,
+	"Määritelmä": "Suunnittelu, organisointi, henkilöstöasiat, ohjaus, valvonta & yhteistyö, raportointi, budjetointi",
+	"Termi": "POSDCORB",
+	"sivu": "7"
+	},
+	
+	{
+	"ID": 2,
+	"Määritelmä": "mm. Koehenkilöihin kiinnitetty huomio ja heistä huolehtiminen paransivat työtulosta",
+	"Termi": "Hawthorne-efekti",
+	"sivu": "9"
+	},
+	
+	{
+	"ID": 3,
+	"Määritelmä": "Siihen kuuluu mm. Muodollinen hierarkia, käskytys, matala tekniikan taso, vakaa ympäristö, tiedonkulku pystysuunnassa sekä pitkälle viety työnjako",
+	"Termi": "Mekaaninen rakenne",
+	"sivu": "11"
+	},
+	
+	{
+	"ID": 4,
+	"Määritelmä": "Organisaation eri osastojen johdon toimita- ja suhtautumistapojen erilaisuus. Puhutaan myös muodollisuuden asteesta ja ilmapiirin tehtävä- tai ihmiskeskeisyydestä",
+	"Termi": "Erilaistuneisuus",
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 5,
+	"Määritelmä": "Osastojen välisen yhteistyön aste, osastojen toiminnan koordinaatio ja osastojen välisen yhteistyön laatu",
+	"Termi": "Integraatio",
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 6,
+	"Määritelmä": "Ennustamattomuuden ja epävarmuuden aste",
+	"Termi": "Stabiilius",
+	"sivu": "14"
+	},
+	
+	{
+	"ID": 7,
+	"Määritelmä": "Tietämyksen aste, joka tarvitaan ympäristön ominaisuuksien ymmärtämiseen",
+	"Termi": "Monimutkaisuus",
+	"sivu": "14"
+	},
+	
+	{
+	"ID": 8,
+	"Määritelmä": "Ei yhtenäinen organisaatio, koostuu useasta erillisestä organisaatiosta. Sillä on 4 vahvuutta",
+	"Termi": "Tulosyksikkömalli",
+	"sivu": "16"
+	},
+	
+	{
+	"ID": 9,
+	"Määritelmä": "Organisaation alitajunta, näkymätön. Mm. Suhde ympäristöön ja aikaan",
+	"Termi": "Syvä perusoletusten taso (Schein)",
+	"sivu": "20"
+	},
+	
+	{
+	"ID": 10,
+	"Määritelmä": "Helposti havaittava mutta vaikeasti tulkittava osa kulttuuria. Esine tai asia, joka ilmentää kulttuuria. Kuvastavat organisaation arvoja",
+	"Termi": "Näkyvä artefaktien taso (Schein)",
+	"sivu": "20"
+	},
+	
+	{
+	"ID": 11,
+	"Määritelmä": "Vallitsi 1900-luvun alkupuolella. Tuotannon tehostaminen, kulujen kontrollointi ja tuotteiden saatavuuden varmistaminen yrityksen tärkeimpiä toimia",
+	"Termi": "Tuotantosuuntaisuus",
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 12,
+	"Määritelmä": "Kiinnitettiin huomiota myös laatuun ja panostettiin tuotekehitykseen",
+	"Termi": "Tuotesuuntaisuus",
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 13,
+	"Määritelmä": "Yritykset alkoivat aktiivisesti ja aggressiivisesti myydä tuotteitaan",
+	"Termi": "Myyntisuuntaisuus",
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 14,
+	"Määritelmä": "Yritykset ryhtyivät kartoittamaan toiveita ja 4P-malli lanseerattiin. Ostajan markkinat, kuitenkin yhä laajalti massamarkkinointia",
+	"Termi": "Kysyntäsuuntaisuus",
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 15,
+	"Määritelmä": "Asiakkaiden erilaisuus tunnistettiin ja heitä jaoteltiin eri kohderyhmiin. Tuotteita ja palveluita differoitiin. Markkinointi osaksi strategista toimintaa",
+	"Termi": "Asiakassuuntaisuus",
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 16,
+	"Määritelmä": "Alettiin hoitamaan asiakassuhteita ja hallitsemaan asiakkuuksia. Pyrittiin pitkäkestoisiin asiakassuhteisiin. Markkinointi- ja johtamistoimen rajat alkoivat hämärtyä",
+	"Termi": "Suhdesuuntaisuus",
+	"sivu": "32"
+	},
+	
+	{
+	"ID": 17,
+	"Määritelmä": "Kun yritys kasvattaa tuotantoaan ja lisää volyymia, tuotannon keskimääräiset kustannukset tiettyyn rajaan asti laskevat",
+	"Termi": "Skaala- tai mittakaavaedut",
+	"sivu": "33"
+	},
+	
+	{
+	"ID": 18,
+	"Määritelmä": "Kun yritys pystyy tarjoamaan asiakkaille tuotteita halvemmalla",
+	"Termi": "Suurtuotannon edut",
+	"sivu": "33-34"
+	},
+	
+	{
+	"ID": 19,
+	"Määritelmä": "mm. Yrityksen teknologinen osaaminen tai ainutlaatuinen tuote, mittakaavaedut, voimakkaasti kasvavat markkina-alueet",
+	"Termi": "Kohdemarkkinoiden vetovoimatekijät",
+	"sivu": "35-36"
+	},
+	
+	{
+	"ID": 20,
+	"Määritelmä": "mm. Kilpailuympäristön paine, saturoituneet markkinat, ylituotanto, kausivaihtelut, kansainvälisten markkinoiden läheisyys",
+	"Termi": "Kotimarkkinoiden työntötekijät",
+	"sivu": "35-36"
+	},
+	
+	{
+	"ID": 21,
+	"Määritelmä": "Ikkuna (tai kaavio), joka kertoo, milloin yrityksen kannattaisi esimerkiksi vahvistaa globaalia asemaa tai milloin laajentaa uusille liiketoiminnan osa-alueille. ",
+	"Termi": "Strateginen ikkuna (Solberg)",
+	"sivu": "38"
+	},
+	
+	{
+	"ID": 22,
+	"Määritelmä": "Prosessi, jossa tietyssä maassa tuotettuja tuotteita/palveluita myydään toiseen maahan.",
+	"Termi": "Vienti",
+	"sivu": "42"
+	},
+	
+	{
+	"ID": 23,
+	"Määritelmä": "Kun valmistava yritys myy tuotteensa suoraan asiakkaalle toisessa maassa",
+	"Termi": "Suoravienti",
+	"sivu": "42"
+	},
+	
+	{
+	"ID": 24,
+	"Määritelmä": "Kun valmistava yritys hyödyntää kotimaassa toimivia vientiorganisaatioita",
+	"Termi": "Epäsuora vienti",
+	"sivu": "43"
+	},
+	
+	{
+	"ID": 25,
+	"Määritelmä": "Kun tuotteet valmistaa kotimaassa jo toimiva tehdas",
+	"Termi": "Sopimusvalmistus",
+	"sivu": "43"
+	},
+	
+	{
+	"ID": 26,
+	"Määritelmä": "Kun yritys antaa kohdemaassa toimivalle organisaatiolle jotain rahan arvoista vastineeksi työstä ja maksusuorituksista",
+	"Termi": "Lisensointi",
+	"sivu": "43"
+	},
+	
+	{
+	"ID": 27,
+	"Määritelmä": "Kun yritys kehittää tuote- tai palvelukonseptin ja vuokraa sitä jollekin paikalliselle yritykselle",
+	"Termi": "Franchising",
+	"sivu": "44"
+	},
+	
+	{
+	"ID": 28,
+	"Määritelmä": "Kahden tai useamman eri maissa toimivan osapuolen välinen kumppanuus",
+	"Termi": "Strateginen allianssi",
+	"sivu": "45"
+	},
+	
+	{
+	"ID": 29,
+	"Määritelmä": "Kun yritys perustaa pysyvän toimipisteen ulkomailla ostamalla jonkin paikallisen yrityksen osaksi kotimaassa toimivaa emoyhtiötä",
+	"Termi": "Tytäryhtiöoperaatio",
+	"sivu": "45"
+	},
+	
+	{
+	"ID": 30,
+	"Määritelmä": "Kun uusi toimipiste rakennetaan alusta saakka kohdemaahan",
+	"Termi": "Greenfield-sijoitus",
+	"sivu": "45"
+	},
+	
+	{
+	"ID": 31,
+	"Määritelmä": "Yritykset, joiden strategisena päämääränä on jo alusta lähtien ollut globaalit markkinat",
+	"Termi": "Born Global- yritykset",
+	"sivu": "46"
+	},
+	
+	{
+	"ID": 32,
+	"Määritelmä": "Political, Economical, Social, Technological, Environmental",
+	"Termi": "PESTE-analyysin tekijät",
+	"sivu": "67"
+	},
+	
+	{
+	"ID": 33,
+	"Määritelmä": "Analyysi, jonka avulla voidaan tarkastella tekijöitä, joihin yksittäinen yritys ei pysty omalla strategiavalinnallaan vaikuttamaan",
+	"Termi": "PESTE-analyysi",
+	"sivu": "67"
+	},
+	
+	{
+	"ID": 34,
+	"Määritelmä": "Michael J. Porterin viiden kilpailuvoiman malli. Malli, joka tarkastelee yrityksen toimintaympäristöä. Mallin osatekijät ovat tunnistettavissa toimialasta riippumatta",
+	"Termi": "Toimiala-analyysi",
+	"sivu": "73"
+	},
+	
+	{
+	"ID": 35,
+	"Määritelmä": "Vahvuudet, heikkoudet, mahdollisuudet, uhat",
+	"Termi": "SWOT-analyysin osat",
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 36,
+	"Määritelmä": "Andrewsin työkalu strategisen johtamisen avuksi. Sillä voidaan löytää pätevyydet, joiden kautta organisaatio kykenee sopeutumaan menestyksekkäästi ympäristöönsä",
+	"Termi": "SWOT-analyysi",
+	"sivu": "76"
+	},
+	
+	{
+	"ID": 37,
+	"Määritelmä": "Tutkimus, jossa tutkitaan ilmiötä, joka ei ole ennalta tuttu. Tähän kuuluvat mm. Syvähaastattelu ja fokusryhmähaastattelu",
+	"Termi": "Laadullinen tutkimus",
+	"sivu": "85"
+	},
+	
+	{
+	"ID": 38,
+	"Määritelmä": "Määrällinen tutkimus, jossa aineisto koostuu laajasta datasta, joka voidaan luokitella ulkoiseen tai sisäiseen informaatioon",
+	"Termi": "Kvantitatiivinen tutkimus",
+	"sivu": "87"
+	},
+	
+	{
+	"ID": 39,
+	"Määritelmä": "Asiakaskeskeisyys, kannattavuus, koko yrityksen kattava pyrkimys täyttää asiakkaiden tarpeet",
+	"Termi": "Markkinoinnin peruspilarit (Houston)",
+	"sivu": "91"
+	},
+	
+	{
+	"ID": 40,
+	"Määritelmä": "Prosessi, jossa markkinat jaetaan ensin toisistaan selvästi erottuviin asiakasryhmiin. Näistä yritys valitsee itselleen sopivimmat",
+	"Termi": "Segmentointi",
+	"sivu": "93"
+	},
+	
+	{
+	"ID": 41,
+	"Määritelmä": "Asiakassegmentin tulee olla mitattava, tavoitettava, merkittävä ja toimintakelpoinen",
+	"Termi": "Asiakassegmenttien vaatimukset",
+	"sivu": "93"
+	},
+	
+	{
+	"ID": 42,
+	"Määritelmä": "Kun yritys kohdistaa markkinointitoimenpiteet kapeasti määriteltyyn siivuun, eli alasegmenttiin, jostakin segmentistä",
+	"Termi": "Niche-markkinointi",
+	"sivu": "93"
+	},
+	
+	{
+	"ID": 43,
+	"Määritelmä": "Kun yritys erilaistaa tarjoomansa kilpailijoiden vastaavista tarjoamista ja näin pyrkii tarjoamaan parempaa arvoa asiakkaalle (voi koskea sekä tuotteita että palveluita)",
+	"Termi": "Differointi",
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 44,
+	"Määritelmä": "Yrityksen pyrkimys sijoittaa tarjoomansa asiakkaan mielessä tiettyyn asemaan kilpailijoihin nähden ja näin erottautua positiivisesti",
+	"Termi": "Asemointi",
+	"sivu": "94"
+	},
+	
+	{
+	"ID": 45,
+	"Määritelmä": "Strategiakoulukunta. Vähittäinen, pienten askelten kautta tapahtuva kehitys",
+	"Termi": "Inkrementalismi",
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 46,
+	"Määritelmä": "Strategiakoulukunta, jonka mukaan hyvin suunniteltu on jo puoliksi tehty",
+	"Termi": "Suunnittelulähtöisyys",
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 47,
+	"Määritelmä": "Strategiakoulukunta. Ajatus universaalisesti toteutuvista menestykseen johtavista toimenpiteistä, niin sanotuista parhaista käytännöistä",
+	"Termi": "Erinomaisuuskoulukunta",
+	"sivu": "107"
+	},
+	
+	{
+	"ID": 48,
+	"Määritelmä": "Strategiakoulukunta. Organisaation tulisi löytää oma paikkansa kilpailuareenalla",
+	"Termi": "Kilpailuasemointikoulukunta",
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 49,
+	"Määritelmä": "Strategiakoulukunta. Aineettomalla pääomalla on suurempi merkitys, koska sitä on vaikeampi kopioida kuin aineellista",
+	"Termi": "Osaamispainotteisuus",
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 50,
+	"Määritelmä": "Strategiakoulukunta. Organisaatio voi kilpailla muuttamalla kilpailuareenaansa",
+	"Termi": "Hyperkilpailukoulukunta",
+	"sivu": "108"
+	},
+	
+	{
+	"ID": 51,
+	"Määritelmä": "Koulukunta, joka syntyi 1980-luvulla. Korostettiin kulttuurin erilaisten kerrostumien olemassaoloa ja vaiheesta toiseen hyppäyksellistä siirtymistä",
+	"Termi": "Organisaation muunnos -koulukunta",
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 52,
+	"Määritelmä": "Muutos, jossa organisaatiossa työssä olevat henkilöt alkavat yhdessä tutkijoiden kanssa tutkia ja kehittää omaa työtään",
+	"Termi": "Toimintatutkimus",
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 53,
+	"Määritelmä": "Perinteinen, 1940-luvulta alkaen vakiinnutettu tapa jäsentää muutosta. Muutos nähdään alusta loppuun johdon kontrolloimana ja on lineaarisesti etenevä",
+	"Termi": "Suunniteltu muutos",
+	"sivu": "117"
+	},
+	
+	{
+	"ID": 54,
+	"Määritelmä": "Syntyy suunnitellun muutoksen kritiikin seurauksena. EI ole rationaalisesti ja ennustettavasti etenevä",
+	"Termi": "Toteutuva muutos",
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 55,
+	"Määritelmä": "Koulukunta, jonka mukaan suunniteltu muutos EI sovellu vastaamaan ympäristön epävakauteen",
+	"Termi": "Culture Excellence -koulukunta",
+	"sivu": "118"
+	},
+	
+	{
+	"ID": 56,
+	"Määritelmä": "Product (tuote), Price (hinta), Place (jakelu), Promotion (markkinointiviestintä)",
+	"Termi": "4P-mallin osat",
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 57,
+	"Määritelmä": "Neil Bordenin kehittämä markkinointimix, jossa on neljä osatekijää",
+	"Termi": "4P-malli",
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 58,
+	"Määritelmä": "Booms ja Bitner ovat kehittäneet tämän mallin, joka lisätään 4P-malliin. Osatekijät ovat People, Process ja Physical evidence",
+	"Termi": "3P-malli",
+	"sivu": "127"
+	},
+	
+	{
+	"ID": 59,
+	"Määritelmä": "Ydintuote, lisäedut, mielikuvatuote",
+	"Termi": "Tuotteen kolme elementtiä",
+	"sivu": "128"
+	},
+	
+	{
+	"ID": 60,
+	"Määritelmä": "Kestohyödykkeet, kulutushyödykkeet, palvelutuotteet",
+	"Termi": "Tuotteen ominaisuuksien kolme luokkaa",
+	"sivu": "130"
+	},
+	
+	{
+	"ID": 61,
+	"Määritelmä": "(kehitysvaihe), lanseerausvaihe, kasvuvaihe, kypsyysvaihe, taantumavaihe",
+	"Termi": "Tuotteen elinkaaren 4+1 vaihetta",
+	"sivu": "130"
+	},
+	
+	{
+	"ID": 62,
+	"Määritelmä": "Kuinka paljon tuote on tullut yritykselle maksamaan",
+	"Termi": "Tuotantohinta",
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 63,
+	"Määritelmä": "Suhteuttaa tuotteen hinnan muihin markkinoilla oleviin kilpaileviin tuotteisiin",
+	"Termi": "Markkinahinta",
+	"sivu": "133"
+	},
+	
+	{
+	"ID": 64,
+	"Määritelmä": "Tuotteelle asetetaan korkea hinta, koska kilpailevia tuotteita ei ole vielä markkinoilla. Yritys saa tällöin katetuksi tuotekehityskustannuksia",
+	"Termi": "Kermankuorintahinnoittelu",
+	"sivu": "135"
+	},
+	
+	{
+	"ID": 65,
+	"Määritelmä": "Tuotteelle asetetaan alhainen hinta, jonka avulla pyritään valtaamaan markkinat ja näin vähentää kilpailijoita",
+	"Termi": "Penetraatiohinnoittelu",
+	"sivu": "135"
+	},
+	
+	{
+	"ID": 66,
+	"Määritelmä": "Kun samaa tuotetta myydään eri hinnoilla eri asiakkaille",
+	"Termi": "Hintadifferointi",
+	"sivu": "136"
+	},
+	
+	{
+	"ID": 67,
+	"Määritelmä": "Tarkoittaa sitä, että asiakkaan on helppo löytää yrityksen tuotteet ja palvelut. Tähän vaikuttavat mm. fyysinen sijainti, aukioloajat ja opasteet",
+	"Termi": "Yrityksen saatavuus",
+	"sivu": "137"
+	},
+	
+	{
+	"ID": 68,
+	"Määritelmä": "Toiminnot, joilla yritys kertoo itsestään, tuotteistaan ja toiminnastaan asiakkaille ja muille sidosryhmille",
+	"Termi": "Markkinointiviestintä",
+	"sivu": "140"
+	},
+	
+	{
+	"ID": 69,
+	"Määritelmä": "Mainonnan tavoittama ihmismäärä",
+	"Termi": "Peitto (mainonta)",
+	"sivu": "141"
+	},
+	
+	{
+	"ID": 70,
+	"Määritelmä": "Absoluuttinen määrä tavoitettuja ihmisiä",
+	"Termi": "Katsojamäärä (mainonta)",
+	"sivu": "141"
+	},
+	
+	{
+	"ID": 71,
+	"Määritelmä": "Opportunity to see. Kuinka monta kertaa kohderyhmään kuuluvan on ollut mahdollista nähdä mainos",
+	"Termi": "OTS-luku (mainonta)",
+	"sivu": "141"
+	},
+	
+	{
+	"ID": 72,
+	"Määritelmä": "Yhteen kontaktiin käytettävä rahasumma",
+	"Termi": "Kontaktihinta (mainonta)",
+	"sivu": "142"
+	},
+	
+	{
+	"ID": 73,
+	"Määritelmä": "Return on investment. Mainonnan seurauksena tulleet nettotulot/mainontaan käytetty rahamäärä",
+	"Termi": "ROI-luku (mainonta)",
+	"sivu": "142"
+	},
+	
+	{
+	"ID": 74,
+	"Määritelmä": "Kasvotusten tapahtuvaa interaktiivista toimintaa",
+	"Termi": "Henkilökohtainen myyntityö",
+	"sivu": "142"
+	},
+	
+	{
+	"ID": 75,
+	"Määritelmä": "Myyntityötä tukevia, tehostavia ja vauhdittavia toimenpiteitä",
+	"Termi": "Menekinedistäminen",
+	"sivu": "143"
+	},
+	
+	{
+	"ID": 76,
+	"Määritelmä": "Tarkkaan harkittua, suunnitelmallista toimintaa, jolla pyritään luomaan, ylläpitämään ja vahvistamaan ymmärrystä organisaation ja yhteiskunnan välillä",
+	"Termi": "Suhde ja tiedotustoiminta",
+	"sivu": "143"
+	},
+	
+	{
+	"ID": 77,
+	"Määritelmä": "Suoraa kommunikointia asiakkaan ja tavaran valmistajan tai palveluntarjoajan välillä",
+	"Termi": "Suoramarkkinointi",
+	"sivu": "144"
+	},
+	
+	{
+	"ID": 78,
+	"Määritelmä": "Lauterbornin kehittämä malli, joka korostaa asiakkaan roolin merkitystä. Siihen kuuluvat Customer value, Cost to the customer, Convenience ja Communication",
+	"Termi": "4C-malli",
+	"sivu": "145"
+	},
+	
+	{
+	"ID": 79,
+	"Määritelmä": "Viestin leviämistä asiakkaalta asiakkaalle",
+	"Termi": "Viraalimarkkinointi",
+	"sivu": "146"
+	},
+	
+	{
+	"ID": 80,
+	"Määritelmä": "Uudenlainen ajattelutapa, jonka mukaan perinteinen jaottelu tuotteisiin ja palveluihin on vanhentunut",
+	"Termi": "Palvelulogiikka",
+	"sivu": "154"
+	},
+	
+	{
+	"ID":81,
+	"Määritelmä": "Prosessimaisuus, aineettomuus, vuorovaikutuksellisuus",
+	"Termi": "Palvelujen keskeisimmät ominaisuudet (3)",
+	"sivu": "156"
+	},
+	
+	{
+	"ID": 82,
+	"Määritelmä": "Grönroosin kehittämä kolmio, joka tiivistää palveluiden johtamisen periaatteet. Siihen kuuluvat lupauksen mahdollistaminen, lupauksen antaminen ja lupauksen lunastaminen",
+	"Termi": "Palvelukolmio",
+	"sivu": "159"
+	},
+	
+	{
+	"ID": 83,
+	"Määritelmä": "Palveluiden laatukuilu. Kun yritysjohto ei tiedä, mitä asiakkaat heidän palvelulta odottavat",
+	"Termi": "Johdon näkemyksen kuilu",
+	"sivu": "160"
+	},
+	
+	{
+	"ID": 84,
+	"Määritelmä": "Kun esimerkiksi toimitusjohtaja esittää asiakasta ja samalla arvioi palvelua",
+	"Termi": "Mysteryshopping",
+	"sivu": "161"
+	},
+	
+	{
+	"ID": 85,
+	"Määritelmä": "Critical incident technique. Asiakasta pyydetään kuvailemaan palvelua, jonka hän on kokenut erityisen hyväksi tai huonoksi",
+	"Termi": "CIT-tekniikka",
+	"sivu": "161"
+	},
+	
+	{
+	"ID": 86,
+	"Määritelmä": "Sen avulla selvitetään, mitä asioita asiakas pitää tärkeinä palvelussa yleensä ja sitten kysytään, miten tietty yritys on kysyttyjen ominaisuuksien kohdalla pärjännyt",
+	"Termi": "SERVQUAL-kysely",
+	"sivu": "162"
+	},
+	
+	{
+	"ID": 87,
+	"Määritelmä": "Palveluiden laatukuilu. Kun palveluiden suunnittelussa ja laatuvaatimusten asettelussa epäonnistutaan",
+	"Termi": "Laatuvaatimusten kuilu",
+	"sivu": "162"
+	},
+	
+	{
+	"ID": 88,
+	"Määritelmä": "Ydinpalvelu, lisäpalvelut, tukipalvelut",
+	"Termi": "Palveluiden kolme kerrosta",
+	"sivu": "163"
+	},
+	
+	{
+	"ID": 89,
+	"Määritelmä": "Palveluiden laatukuilu. Jos palvelua ei tuoteta asetettujen laatuvaatimusten mukaan",
+	"Termi": "Palvelun toimituksen kuilu",
+	"sivu": "165"
+	},
+	
+	{
+	"ID": 90,
+	"Määritelmä": "Palveluiden laatukuilu. Kun markkinointiviestinnässä annettu lupaus ei vastaa todellista, tarjottua palvelua",
+	"Termi": "Markkinointiviestinnän kuilu",
+	"sivu": "167"
+	},
+	
+	{
+	"ID": 91,
+	"Määritelmä": "Palveluiden laatukuilu. Seurausta jostakin edellisestä kuilusta tai kuilujen yhteisvaikutuksesta",
+	"Termi": "Koetun palvelun laadun kuilu",
+	"sivu": "168"
+	},
+	
+	{
+	"ID": 92,
+	"Määritelmä": "Heskettin kehittämä ketju, joka korostaa samoja asioita kuin palvelukolmio. Sen mukaan kaikki lähtee liikkeelle sisäisen palvelun laadusta",
+	"Termi": "Palvelujen kannattavuusketju",
+	"sivu": "169"
+	},
+	
+	{
+	"ID": 93,
+	"Määritelmä": "Se on dynaamista, interaktiivista, ja sisältää vaihdantaa",
+	"Termi": "Kuluttajakäyttäytymisen kolme ominaisuutta",
+	"sivu": "172"
+	},
+	
+	{
+	"ID": 94,
+	"Määritelmä": "Mm. Demografiset tekijät (ikä, sukupuoli, koulutus, varallisuus ym.)",
+	"Termi": "Persoonalliset tekijät",
+	"sivu": "176"
+	},
+	
+	{
+	"ID": 95,
+	"Määritelmä": "Mm. Maslow'n tarvehierarkialla viitataan näihin tekijöihin",
+	"Termi": "Motivaatiotekijät",
+	"sivu": "176"
+	},
+	
+	{
+	"ID": 96,
+	"Määritelmä": "Rationaalinen arviointi",
+	"Termi": "Kognitiiviset asenteet",
+	"sivu": "176"
+	},
+	
+	{
+	"ID": 97,
+	"Määritelmä": "Tunnepohjainen arviointi",
+	"Termi": "Affektiiviset asenteet",
+	"sivu": "176"
+	},
+	
+	{
+	"ID": 98,
+	"Määritelmä": "Käyttäytymiseen liittyvät asenteet",
+	"Termi": "Konatiiviset asenteet",
+	"sivu": "176"
+	},
+	
+	{
+	"ID": 99,
+	"Määritelmä": "Mm. Terveyskeskukset ja koulut",
+	"Termi": "Julkisorganisaatiot",
+	"sivu": "180"
+	},
+	
+	{
+	"ID": 100,
+	"Määritelmä": "Mm. Kirkot ja museot",
+	"Termi": "Voittoa tavoittelemattomat organisaatiot",
+	"sivu": "180"
+	},
+	
+	{
+	"ID": 101,
+	"Määritelmä": "Mm. Yritykset",
+	"Termi": "Kaupalliset organisaatiot",
+	"sivu": "180"
+	},
+	
+	{
+	"ID": 102,
+	"Määritelmä": "Käsitteessä asiakkaiden ja muiden sidosryhmien kanssa ylläpidettävien suhteiden jokaisessa vaiheessa kaikkien osapuolten taloudellisten ja muiden tavoitteiden täyttymistä",
+	"Termi": "Suhdemarkkinointi",
+	"sivu": "187"
+	},
+	
+	{
+	"ID": 103,
+	"Määritelmä": "Loppuasiakkaat ja jakelukanavan jäsenet, joiden kanssa yritys tekee yhteistyötä",
+	"Termi": "Asiakassuhteet",
+	"sivu": "187"
+	},
+	
+	{
+	"ID": 104,
+	"Määritelmä": "Kun suuri joukko toimijoita on yhtä aikaa vuorovaikutuksessa keskenään ja yhden toimijan teot vaikuttavat useaan tahoon",
+	"Termi": "Verkosto",
+	"sivu": "189-190"
+	},
+	
+	{
+	"ID": 105,
+	"Määritelmä": "Asennetason suhteiden kehitys (Dwyer, Schurr, Ohi). Siihen kuuluvat tietoisuus, tutkiminen, laajentuminen, sitoutuminen ja tarvittaessa purkautuminen",
+	"Termi": "Tikapuumalli",
+	"sivu": "191"
+	},
+	
+	{
+	"ID": 106,
+	"Määritelmä": "Käyttäytymisessä tapahtuva kehitys. Siihen kuuluvat suspekti, prospekti, asiakas, kanta-asiakas, avainasiakas, suosittelija sekä passiivinen tai entinen asiakas",
+	"Termi": "Porrasmalli",
+	"sivu": "191"
+	},
+	
+	{
+	"ID": 107,
+	"Määritelmä": "Kirjanpidosta ja muista dokumenteista laskettava kannattavuus",
+	"Termi": "Asiakassuhteen faktuaalinen arvo",
+	"sivu": "196"
+	},
+	
+	{
+	"ID": 108,
+	"Määritelmä": "Siihen kuuluvat referenssiarvo, oppimisarvo sekä strateginen arvo",
+	"Termi": "Asiakassuhteen evaluatiivinen arvo",
+	"sivu": "196"
+	},
+	
+	{
+	"ID": 109,
+	"Määritelmä": "Eli tulevaisuuden arvo",
+	"Termi": "Asiakassuhteen potentiaalinen arvo",
+	"sivu": "196"
+	},
+	
+	{
+	"ID": 110,
+	"Määritelmä": "Toisiinsa liittyvien toimintojen tehtävien kokonaisuus, joka alkaa asiakkaan tarpeesta ja päättyy asiakkaan tarpeen tyydyttämiseen",
+	"Termi": "Liiketoimintaprosessi",
+	"sivu": "197-198"
+	},
+	
+	{
+	"ID": 112,
+	"Määritelmä": "Kun yrityksen kilpailuetu perustuu menestystekijöihin, jotka ovat helposti menetettävissä tai kopioitavissa",
+	"Termi": "Kilpailukyvyn eroosio",
+	"sivu": "199"
+	},
+	
+	{
+	"ID": 113,
+	"Määritelmä": "Jonkin hyödykkeen jalostuminen raaka-aineesta aina valmiiksi tuotteeksi asti",
+	"Termi": "Arvoketju",
+	"sivu": "203-204"
+	},
+	
+	{
+	"ID": 114,
+	"Määritelmä": "Mielikuvat ja uskomukset, joita organisaation jäsenet olettavat organisaation ulkopuolisilla olevan heistä",
+	"Termi": "Ulkoisesti konstruoitu imago",
+	"sivu": "217"
+	},
+	
+	{
+	"ID": 115,
+	"Määritelmä": "Yritykset pyrkivät muuttumaan siten, että muutos on jollakin tapaa johdonmukaista suhteessa organisaation aiempaan identiteettiin",
+	"Termi": "Identiteettikuilu",
+	"sivu": "217"
+	},
+	
+	{
+	"ID": 116,
+	"Määritelmä": "Vaikuttaa siihen miten yksilö näkee itsensä. Luo myös ryhmähenkeä yksilöiden välille, jotka ovat kiinteässä vuorovaikutuksessa keskenään",
+	"Termi": "Identiteetti",
+	"sivu": "218"
+	},
+	
+	{
+	"ID": 117,
+	"Määritelmä": "Ihmisten mielissä syntynyt yleinen kuva tai profiili yrityksestä. Mitä tulee ensimmäisenä mieleen, kun yrityksen nimi mainitaan tai logo näkyy jossakin?",
+	"Termi": "Imago",
+	"sivu": "225"
+	},
+	
+	{
+	"ID": 118,
+	"Määritelmä": "Heijastaa sidosryhmien arviota yrityksestä. Koostuu havainnoijien yhteisistä arvioinneista; perustuvat yritykseen yhdistettyihin taloudellisiin, sosiaalisiin ja ympäristöllisiin vaikutuksiin",
+	"Termi": "Maine",
+	"sivu": "226"
+	},
+	
+	{
+	"ID": 119,
+	"Määritelmä": "Korosti brändien merkitystä kuluttajien identiteetin luojana sekä itseilmaisun välineenä",
+	"Termi": "Persoonallisuusnäkökulma (brändit)",
+	"sivu": "229"
+	},
+	
+	{
+	"ID": 120,
+	"Määritelmä": "Kuluttajat kokevat olevansa suhteessa brändeihin. Toi brändikeskustelun 2000-luvulle",
+	"Termi": "Suhdenäkökulma (brändit)",
+	"sivu": "230"
+	},
+	
+	{
+	"ID": 121,
+	"Määritelmä": "Kuluttajat muodostavat yhteisöjä brändien ympärille",
+	"Termi": "Yhteisönäkökulma (brändit)",
+	"sivu": "231"
+	},
+	
+	{
+	"ID": 122,
+	"Määritelmä": "Tarkastelee brändejä makrotasolla",
+	"Termi": "Kulttuurinäkökulma (brändit)",
+	"sivu": "232"
+	},
+
+	{
+	"ID": 123,
+	"Määritelmä": "Yritysten asenne brändäystä kohtaan sekä se, kuinka merkityksellisenä liiketoiminnan strategisena voimavarana pitkäjännitteinen brändin kehittäminen yrityksissä nähdään",
+	"Termi": "Brändiorientaatio",
+	"sivu": "234"
+	},
+	
+	{
+	"ID": 124,
+	"Määritelmä": "1970-luvulla, operatiivista hallinnollista toimintaa",
+	"Termi": "Henkilöstöhallinto",
+	"sivu": "240-241"
+	},
+	
+	{
+	"ID": 125,
+	"Määritelmä": "Yksilöiden tarpeet ja organisaation odotukset pyritään yhdistämään mm. Rekrytoinnin, perehdyttämisen ja koulutuksen avulla. Näin henkilö on työhönsä motivoitunut",
+	"Termi": "Henkilöstövoimavarojen virtaaminen",
+	"sivu": "243"
+	},
+	
+	{
+	"ID": 126,
+	"Määritelmä": "Käytettyjen henkilöstöjohtamisen menetelmien tulee tukea toisiaan organisaation strategian toteuttamisessa",
+	"Termi": "Sisäinen yhteensopivuus (Ulrichin malli)",
+	"sivu": "245"
+	},
+	
+	{
+	"ID": 127,
+	"Määritelmä": "Osaavan ammattilaisen inhimillinen pääoma",
+	"Termi": "Hiljainen tieto",
+	"sivu": "261"
+	},
+	
+	{
+	"ID": 128,
+	"Määritelmä": "Weick, 1995. Organisaatiossa on jatkuvasti käynnissä olevia dialogeja sekä merkityksen ja mielekkyyden hakemisen prosesseja",
+	"Termi": "Sensemaking",
+	"sivu": "263"
+	},
+	
+	{
+	"ID": 129,
+	"Määritelmä": "Johtamisen nähdään rakentuvan aina ihmisten välisessä vastavuoroisessa vuorovaikutuksessa",
+	"Termi": "Moniääninen johtaminen",
+	"sivu": "265"
+	},
+	
+	{
+	"ID": 130,
+	"Määritelmä": "Vastuullinen organisaation asioihin vaikuttaminen ja osallistuminen esimiehen tuella sekä kyky toimia työyhteisön täysivaltaisena jäsenenä",
+	"Termi": "Alaistaidot",
+	"sivu": "267"
+	},
+	
+	{
+	"ID": 131,
+	"Määritelmä": "Organizational citizenship behaviour. Käyttäytyminen, joka edistää toiminnan sujuvuutta ja yhteistyötä työyhteisössä",
+	"Termi": "OCB",
+	"sivu": "267"
+	},
+	
+	{
+	"ID": 132,
+	"Määritelmä": "Työntekijän ennakko-oletukset ja odotukset työtä ja työyhteisöä kohtaan",
+	"Termi": "Näkymätön psykologinen sopimus",
+	"sivu": "269"
+	},
+	
+	{
+	"ID": 133,
+	"Määritelmä": "Mintzbergin jaottelussa 5. organisaatiotyyppi. Voidaan kutsua myös joustavaksi organisaatioksi. Useimmat tehtävät tehdään projektiryhmissä tai muissa tilapäisissä ryhmissä",
+	"Termi": "Adhokratia",
+	"sivu": "16"
+	},
+	
+	{
+	"ID": 134,
+	"Määritelmä": "Standardoitu, yksityiskohtainen käyttäytymistapa, jonka kautta pyritään hallitsemaan ahdistuneisuutta",
+	"Termi": "Rituaali",
+	"sivu": "21"
+	},
+	
+	{
+	"ID": 135,
+	"Määritelmä": "Niitä käytetään todellisuutta ilmentävinä malleina. Ne määrittävät käyttäytymistä, ja ne ovat arvovarautuneita ja tunnepitoisia",
+	"Termi": "Symbolit",
+	"sivu": "21"
+	},
+	
+	{
+	"ID": 136,
+	"Määritelmä": "Harvard Business Review'n artikkeli, josta markkinoinnin tieteenä katsotaan syntyneen 1960-luvulla",
+	"Termi": "Marketing Myopia -artikkeli",
+	"sivu": "24"
+	},
+	
+	{
+	"ID": 137,
+	"Määritelmä": "Yrittäjän halu ottaa riskejä ja olla innovatiivinen sekä hänen kyky tunnistaa uusia liiketoimintamahdollisuuksia",
+	"Termi": "Yrittäjyysorientaatio",
+	"sivu": "36"
+	},
+	
+	{
+	"ID": 138,
+	"Määritelmä": "Tilanteessa yrityksellä ei ole enää kasvun mahdollisuuksia kotimarkkinoilla, ainut kasvusuunta ovat kansainväliset markkinat. Ajaudutaan usein niche-markkinoilla",
+	"Termi": "Saturoituneet kotimarkkinat",
+	"sivu": "37"
+	},
+	
+	{
+	"ID": 139,
+	"Määritelmä": "Tilanne, jossa kotimarkkinoiden kysyntä on alhaisempi kuin yrityksessä on oletettu ja tuotteita tuotetaan enemmän kuin on kysyntää",
+	"Termi": "Ylituotanto",
+	"sivu": "37"
+	},
+	
+	{
+	"ID": 140,
+	"Määritelmä": "Maksu, joka saadaan vastikkeeksi esim. kirjallisen, taiteellisen tai tieteellisen teoksen tai pantin käytöstä. Liittyy mm. lisensointiin",
+	"Termi": "Rojaltti",
+	"sivu": "43-44"
+	},
+	
+	{
+	"ID": 141,
+	"Määritelmä": "Franchising-järjestelmän muoto. Myyjinä toimivat yksityiset henkilöt ja elinkeinoharjoittajat. Tästä käytetään myös nimitystä monitasomarkkinointi tai verkostomarkkinointi",
+	"Termi": "Multilevel-markkinointi",
+	"sivu": "45"
+	},
+	
+	{
+	"ID": 142,
+	"Määritelmä": "Sukupolvi syntynyt 1985-2003 välillä. Myös muita jaotteluita näkee, joiden mukaan Y-sukupolvi olisi 1980-luvulla syntyneet",
+	"Termi": "Y-sukupolvi",
+	"sivu": "69"
+	},
+	
+	{
+	"ID": 143,
+	"Määritelmä": "Toiminto, joka usein nojasi makrotaloudellisiin laskelmiin ja ajattelumalleihin. Määritettiin organisaation päämäärät, tavoitteet ja budjetit pidemmälle kaudelle kuin vuodelle",
+	"Termi": "Yritystoiminnan suunnittelu (corporate planning)",
+	"sivu": "101"
+	},
+	
+	{
+	"ID": 144,
+	"Määritelmä": "Petersin ja Watermanin luoma malli, joka muodostuu kirjaimista englanninkielisten nimitysten mukaisesti. Malli painotti kulttuurin ja arvojen merkitystä",
+	"Termi": "Seitsemän S:n malli",
+	"sivu": "102"
+	},
+	
+	{
+	"ID": 145,
+	"Määritelmä": "Henry Mintzbergin mukaan uuden luomisen prosessi alkaa vähitellen hajanaisista paloista, jolloin strategia syntyy ikään kuin jälkikäteen",
+	"Termi": "Esiin työntyvä tai kehkeytyvä strategia",
+	"sivu": "103"
+	},
+	
+	{
+	"ID": 146,
+	"Määritelmä": "Muodostui vähitellen suuruuden ekonomian rinnalle. Sen mukaan yritykset, jotka kykenivät luomaan muita paremman osaamisportfolion ja suhdeportfolion, menestyivät",
+	"Termi": "Osaamisen ekonomia",
+	"sivu": "105"
+	},
+	
+	{
+	"ID": 147,
+	"Määritelmä": "Organisaation visio asetettiin tarkastelun keskipisteeseen. Pyrkimyksenä oli systematisoida strategiatyötä ja saattaa se toiminnan ohjenuoraksi mitattavalla tavalla.",
+	"Termi": "Balanced Score Card",
+	"sivu": "106"
+	},
+	
+	{
+	"ID": 148,
+	"Määritelmä": "Saman paradigman (näkökulman) sisällä pysyvänä kehityksenä",
+	"Termi": "Ensiasteen muutos",
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 149,
+	"Määritelmä": "Eli transformaatio. Koko uskomusjärjestelmän luonteessa tapahtuva radikaali muutos. Rinnastettiin hyppäykselliseen muutokseen paradigmasta toiseen",
+	"Termi": "Toisen asteen muutos",
+	"sivu": "116"
+	},
+	
+	{
+	"ID": 150,
+	"Määritelmä": "Yritysmarkkinat",
+	"Termi": "B2B-markkinat",
+	"sivu": "139"
+	},
+	
+	{
+	"ID": 151,
+	"Määritelmä": "Muodostuu konkreettisten ominaisuuksien, kuten tuotteiden, niiden hinnan tai yrityksen toimipaikan ulkoasun perusteella",
+	"Termi": "Imagon toiminnallinen osa-alue",
+	"sivu": "225"
+	},
+	
+	{
+	"ID": 152,
+	"Määritelmä": "Käsittää tunteet ja asenteet, joita ihmisillä on yritystä kohtaan",
+	"Termi": "Imagon emotionaalinen osa-alue",
+	"sivu": "225"
+	},
+	
+	{
+	"ID": 153,
+	"Määritelmä": "Brändi, joka tunnistetaan kaikkialla maailmassa (Esim. Coca-Cola, Apple, Disney)",
+	"Termi": "Brändi-ikoni",
+	"sivu": "232"
+	},
+	
+	{
+	"ID": 154,
+	"Määritelmä": "Harvardin malli henkilöstöjohtamisesta jäsentyi tällaiseksi. Siinä organisaation ulkoiset tekijät ja sisäiset henkilöstöjohtamiseen liittyvät valinnat kytkeytyivät toisiinsa",
+	"Termi": "Systeemiteoreettinen malli",
+	"sivu": "242"
+	},
+	
+	{
+	"ID": 155,
+	"Määritelmä": "Sisältää organisaation ulkoisia sidosryhmiä ja verkostoja, ja rakentuu erilaisista kontakti- ja yhteistyösuhteista",
+	"Termi": "Organisaation suhdepääoma",
+	"sivu": "247"
+	},
+	
+	{
+	"ID": 156,
+	"Määritelmä": "Yksilöiden hallussa oleva aineeton pääoma, joka ilmenee mm. henkilökohtaisten ominaisuuksien, osaamisen ja kokemusten kautta",
+	"Termi": "Inhimillinen pääoma",
+	"sivu": "246"
+	},
+	
+	{
+	"ID": 157,
+	"Määritelmä": "Siihen kuuluu muun muassa organisaation toimintaan liittyvät rakenteet, järjestelmät, prosessit ja toimintatavat, sekä toiminnan ns. henki",
+	"Termi": "Rakennepääoma",
+	"sivu": "248"
+	},
+	
+	{
+	"ID": 158,
+	"Määritelmä": "Toteutuu neljän taidon kautta: visiointitaito, kommunikointitaito, taito rakentaa luottamus, taito kehittyä myönteisen minäkuvan kehittämisen avulla",
+	"Termi": "Ihmisten johtamisen toteutuminen Bennisin ja Nanusin mukaan",
+	"sivu": "251-252"
+	},
+	
+	{
+	"ID": 159,
+	"Määritelmä": "Ihmisten johtaminen antaa toiminnalle merkityksen, ja samalla se antaa ihmisille voimaa",
+	"Termi": "Empowerment",
+	"sivu": "252"
+	},
+	
+	{
+	"ID": 160,
+	"Määritelmä": "Erityispiirteet: kaikilla organisaatiotasoilla tapahtuva kaizen-periaatteen jatkuva parantaminen, tiedon ja osaamisen tehokas hyödyntäminen sekä innovatiivisuus",
+	"Termi": "Tietoperustainen organisaatio",
+	"sivu": "262"
+	},
+	
+	{
+	"ID": 161,
+	"Määritelmä": "Talja käyttää tätä termiä, jossa yksilöiden merkitys itsenäisinä toimijoina on keskeinen ja emergentti strategian muodostus alhaalta-ylös periaatteella korostuu.",
+	"Termi": "Tietoa luova organisaatio",
+	"sivu": "262"
+	},
+	
+	{
+	"ID": 162,
+	"Määritelmä": "Suuntaus, jonka keskeisimpiä vaikuttajia on ollut George Herbert Mead. Tarjosi uuden vaihtoehdon tarkastella ihmistä sosiaalisista yhteyksistä käsin",
+	"Termi": "Sosiaalinen konstruktionismi",
+	"sivu": "264"
+	}
+
+]
