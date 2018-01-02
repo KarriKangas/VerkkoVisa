@@ -2,8 +2,8 @@
 <html>
 <head>
 	<?php 
-	require_once("/home/vamoodlef/domains/vamoodle.fi/public_html/config.php");
-	require_login();
+	//require_once("/home/vamoodlef/domains/vamoodle.fi/public_html/config.php");
+	//require_login();
 	
 	header('Cache-Control: no-cache');
 	header('Pragma: no-cache');

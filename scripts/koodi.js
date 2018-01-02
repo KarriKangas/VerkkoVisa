@@ -110,6 +110,7 @@ function chooseMath(){
 }
 
 function showTermiSelection(valinta){
+	termiMoodi = true;
 	termienHarjoitus = valinta;
 	document.getElementById("harjTermit").style.display = "none";
 	document.getElementById("harjMääritelmät").style.display = "none";
@@ -122,12 +123,12 @@ function showTermiSelection(valinta){
 
 	}
 	
-	for(i = 1; i <= 3; i++){		
+	for(i = 1; i <= 2; i++){		
 		document.getElementById("Kirja" + i).style.display = "inline-block";
 		
 	}
 
-	termiMoodi = true;
+	
 }
 
 function showQuestionElements(valittuKirja){
