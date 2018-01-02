@@ -45,13 +45,14 @@
 		<button class="button" id="eiMatikka" onClick="showQuestionElements()"onmouseover="lightButton('eiMatikka')" onmouseleave="uncolorButton('eiMatikka')"><p class="buttonText">Pääsykoe ilman Talousmatematiikkaa</p></button>
 		
 		<h3 id="ohje">Kysymykset tulevat harjoituksiin ja pääsykokeeseen satunnaisessa järjestyksessä, joten jokainen yksittäinen harjoitus ja pääsykoe on erilainen.<br><br>
+					
 					Voit valita harjoitusmuodon, pääsykoemuodon tai käsitteiden harjoittelun.<br><br>
+					
 					Harjoitusmuodossa valitset ensin kuinka moneen kysymykseen haluat vastata kerralla. Tämän jälkeen valitset aihealueen. Vastattuasi kysymykseen näet heti, oliko vastauksesi oikein. Saat myös tiedon, miltä kirjan sivulta oikea vastaus löytyy.<br><br>
 
-					Pääsykoemuodossa valitset ensin haluatko tehdä harjoituskokeen ilman talousmatematiikkaa vai sen kanssa. Kysymyksiä tulee seuraavassa järjestyksessä: Johtaminen 13kpl, Laskentatoimi 13kpl, Taloustiede 7kpl, Talousmatematiikka 7kpl. Näet oikeat vastaukset kun olet vastannut kaikkiin kysymyksiin. Näet myös miltä sivulta oikeat vastaukset löytyvät. Kysymysten määrä saattaa kuitenkin erota oikeasta pääsykokeesta ja et myöskään menetä pisteitä väärästä vastauksesta. Tarkoitus on harjoitella vastaamaan mahdollisimman moneen kysymykseen oikein.<br><br>
+					Pääsykoemuodossa kysymyksiä tulee yhteiskuntaopista ja historiasta molemmista 20 kpl. Näet oikeat vastaukset kun olet vastannut kaikkiin kysymyksiin. Kysymysten määrä saattaa kuitenkin erota oikeasta pääsykokeesta ja et myöskään menetä pisteitä väärästä vastauksesta. Tarkoitus on harjoitella vastaamaan mahdollisimman moneen kysymykseen oikein.<br><br>
 
-					Käsitteiden harjoittelussa valitset, haluatko ensin käsitteen vai määritelmän. Tämän jälkeen valitset aihealueen, jota haluat harjoitella. Harjoitusmuoto näyttää ensin käsitteen tai määritelmän, jonka jälkeen voit miettiä mitä ne tarkoittavat. Näet heti oikean vastauksen ja saat myös tiedon, miltä kirjan sivulta käsite löytyy.<br><br>
-					Taloustieteen kirjan sivunumerot saattavat hieman erota riippuen kirjan painoksesta. Pelissä saattaa esiintyä muutama taloustieteen tehtävä, joka ei välttämättä löydy molemmista painoksista.</h3>
+					Käsitteiden harjoittelussa valitset, haluatko ensin käsitteen vai määritelmän. Tämän jälkeen valitset aihealueen, jota haluat harjoitella. Harjoitusmuoto näyttää ensin käsitteen tai määritelmän, jonka jälkeen voit miettiä mitä ne tarkoittavat. Näet heti oikean vastauksen.</h3>
 		<button class="button" id="KysMäärä10" onClick="showBookSelection('10')"onmouseover="lightButton('KysMäärä10')" onmouseleave="uncolorButton('KysMäärä10')"><p class="buttonText">10 kysymystä</p></button>
 		<button class="button" id="KysMäärä50" onClick="showBookSelection('50')"onmouseover="lightButton('KysMäärä50')" onmouseleave="uncolorButton('KysMäärä50')"><p class="buttonText">50 kysymystä</p></button>
 		<button class="button" id="KysMäärä100" onClick="showBookSelection('100')"onmouseover="lightButton('KysMäärä100')" onmouseleave="uncolorButton('KysMäärä100')"><p class="buttonText">100 kysymystä</p></button>
