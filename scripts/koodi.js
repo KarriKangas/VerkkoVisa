@@ -1,10 +1,10 @@
 ﻿var currentButton = -1;
 var correctAns;
 var currentQuestionID = 0;
-var kirjaMäärä = 2;
+var kirjaMäärä = 3;
 var currentBook = "";
 var questionPool = [];
-var questionAmount = 40;
+var questionAmount = 30;
 var correctAmount = 0;
 var harjoitusMode = false;
 var talousMatematiikka = false;
@@ -106,7 +106,7 @@ function chooseMath(){
 	talousMatematiikka = true;
 	showQuestionElements();
 	questionAmount = 40;
-	console.log("Talousmatematiikka valittu");
+	//console.log("Talousmatematiikka valittu");
 }
 
 function showTermiSelection(valinta){
@@ -141,7 +141,7 @@ function showQuestionElements(valittuKirja){
 	}else{
 		currentBook = "Kirja1";
 	}
-	console.log(currentBook + " on tämänhetkinen kirja");
+	//console.log(currentBook + " on tämänhetkinen kirja");
 	
 	//Show question elements
 	QuestionElementVisibility("inline-block");
@@ -162,7 +162,7 @@ function showQuestionElements(valittuKirja){
 		//Asetetaan valittu termikirja currenBookiksi
 		var tempTermi = valittuKirja.substring(5,6);
 		currentBook = "Termit" + parseInt(tempTermi);
-		console.log(currentBook);
+		//console.log(currentBook);
 		
 		//Tehdään lista kaikista sen termeistä
 		var termiMoodiAmount;
@@ -170,7 +170,7 @@ function showQuestionElements(valittuKirja){
 		
 	$.getJSON( "scripts/" + bookLocation, function( data ) {
 		termiMoodiAmount = data.length;
-		//console.log(termiMoodiAmount);
+		////console.log(termiMoodiAmount);
 		
 		for(i = 0; i < termiMoodiAmount; i++){
 			questionPool.push(i);
@@ -282,7 +282,7 @@ function QuestionElementVisibility(visib){
 }
 
  function initQuestion(currentBook){
-	console.log("questions have been loaded, initializing");
+	//console.log("questions have been loaded, initializing");
 	setQuestionTexts(currentBook);
 	 
  }
@@ -290,10 +290,10 @@ function QuestionElementVisibility(visib){
  function setQuestionTexts(book){
 	//Kirjan sijainti
 	var bookLocation = book + ".json";
-	console.log("valitaan kysymys " +questionPool[currentQuestionID] + " sijainnista: scripts/" + bookLocation);
+	//console.log("valitaan kysymys " +questionPool[currentQuestionID] + " sijainnista: scripts/" + bookLocation);
 	//Hae JSON tietokannasta oikeakysymys
 	$.getJSON( "scripts/" + bookLocation, function( data ) {
-		console.log(questionPool[currentQuestionID]);
+		//console.log(questionPool[currentQuestionID]);
 		document.getElementById("Question").innerHTML = data[questionPool[currentQuestionID]].Question + " (" + (currentQuestionID+1) +"/"+ questionAmount+")"; //Aseta kysymys
 		correctAns = data[questionPool[currentQuestionID]].CorrAns; //Aseta oikea vastaus
 		
@@ -304,7 +304,7 @@ function QuestionElementVisibility(visib){
 	 
 	 
 		//Näytä oikea määrä nappuloita
-		console.log(currentQuestionID);
+		//console.log(currentQuestionID);
 		for(i = 0; i < data[questionPool[currentQuestionID]].Answers.length; i++){
 			document.getElementById(i).innerHTML = data[questionPool[currentQuestionID]].Answers[i];    //Vaihda vastaustekstit
 			document.getElementById(i).style.visibility = "visible";
@@ -371,11 +371,16 @@ function initQuestionPool(book){
 	
 	var tempNum;
 	var bookLocation = book + ".json";
-	console.log("haetaan kohteesta "+ bookLocation);
+	
 	
 	if(harjoitusMode){
-		console.log("Harjoitus-mode questions building");
+		//console.log("Harjoitus-mode questions building");
 	$.getJSON( "scripts/" + bookLocation, function( data ) {
+		
+		console.log("book.length " + data.length + " and q amount " + questionAmount);
+		if(data.length < questionAmount){
+			questionAmount = data.length-1;
+		}
 		
 		while (questionPool.length < questionAmount){
 			console.log(questionPool.length + " ja " + questionAmount);
@@ -395,17 +400,17 @@ function initQuestionPool(book){
 		var tempNum3;
 
 		//Select questions from book1 for pääsykoe
-		console.log("Starting book1 selection");
+		//console.log("Starting book1 selection");
 		$.getJSON( "scripts/Kirja1.json", function( data ) {
-			console.log("data len1 " + data.length);
-			while (questions1.length < 20){
+			//console.log("data len1 " + data.length);
+			while (questions1.length < 10){
 			
 				tempNum = Math.floor((Math.random() *(data.length-1))); 
 		
 			
 				if($.inArray(tempNum, questions1) == -1){
 					questions1.push(tempNum);
-					console.log(tempNum);
+					//console.log(tempNum);
 				}
 			
 			}
@@ -420,53 +425,53 @@ function initQuestionPool(book){
 		
 		
 		//Select questions from book2 for pääsykoe
-		console.log("Starting book2 selection");
+		//console.log("Starting book2 selection");
 		
 			$.getJSON( "scripts/Kirja2.json", function( data ) {
-				console.log("data len2 " + data.length);
-				while (questions2.length < 20){
+				//console.log("data len2 " + data.length);
+				while (questions2.length < 10){
 				
 					tempNum2 = Math.floor((Math.random() * (data.length-1))); 
 			
 				
 					if($.inArray(tempNum2, questions2) == -1){
 						questions2.push(tempNum2);
-						console.log(tempNum2);
+						//console.log(tempNum2);
 					}
 
 				}
 				
 				for(i = 0; i < questions2.length; i++){
-					questionPool[i+20] = (questions2[i]);
+					questionPool[i+10] = (questions2[i]);
 				}
 			});
 		
 		
 		//Select questions from book3 for pääsykoe
-		/*console.log("Starting book3 selection");
+		//console.log("Starting book3 selection");
 		$.getJSON( "scripts/Kirja3.json", function( data ) {
 			
-			while (questions3.length < 7){
+			while (questions3.length < 10){
 			
 				tempNum3 = Math.floor((Math.random() * (data.length-1))); 
 		
 			
 				if($.inArray(tempNum3, questions3) == -1){
 					questions3.push(tempNum3);
-					console.log(tempNum3);
+					//console.log(tempNum3);
 				}
 
 			}
 			for(i = 0; i < questions3.length; i++){
-			questionPool.push(questions3[i]);
+				questionPool[i+20] = (questions3[i]);
 			}
 		});	
 		
 		
-		if(talousMatematiikka){
+		/*if(talousMatematiikka){
 			var tempNum4;
 			
-			console.log("Starting book4 selection");
+			//console.log("Starting book4 selection");
 		$.getJSON( "scripts/Kirja4.json", function( data ) {
 			
 			while (questions4.length < 7){
@@ -476,7 +481,7 @@ function initQuestionPool(book){
 			
 				if($.inArray(tempNum4, questions4) == -1){
 					questions4.push(tempNum4);
-					console.log(tempNum4 + " tuo valittiin kirjasta 4");
+					//console.log(tempNum4 + " tuo valittiin kirjasta 4");
 				}
 
 			}
@@ -499,8 +504,8 @@ function initQuestionPool(book){
 }
 
 function waitTime(){
-	console.log("waitInterval is now " + waitInterval);
-	console.log("checking if questions are loaded");
+	//console.log("waitInterval is now " + waitInterval);
+	//console.log("checking if questions are loaded");
 	if(ready){
 		console.log("questions loaded!" + checkIfLoaded(currentBook));
 		loading = false;
@@ -529,17 +534,17 @@ function checkIfLoaded(book){
 		loadTestQuestion = data[questionPool[currentQuestionID]].Question; //Aseta kysymys
 		
 		//logataan...
-		//console.log(loadTestQuestion);
+		////console.log(loadTestQuestion);
 		
 		//Jos kysymys EI ole null, kysymykset on ladattu jos se on null, palautetaan false
 		if(loadTestQuestion.length > 0){
 			ready = true;
-			console.log("returned true");
+			//console.log("returned true");
 		}
 		else{
 			
 			ready =  false;
-			console.log("returned false");
+			//console.log("returned false");
 		}
 	
 	
@@ -555,14 +560,14 @@ function nextQuestion(){
 	if(currentButton != -1 && !gameover){
 		//Tarkista vastaus
 		if(currentButton == correctAns){
-			console.log('Correct!');
+			//console.log('Correct!');
 			correctAmount++;
 		}else if(!harjoitusMode){ //jos pääsykoe mode JA väärä vastaus
 			vastauksetVäärissä.push(currentButton); //Tallennetaan vastauksetVäärissä taulukkoon painettu nappula, tämä nappula esitetään punaisella kun käydään kysymyksiä läpi
 			väärät.push(currentQuestionID);			//Tallennetaan väärät taulukkoon kyseinen kysymys, näitä näytetään kun käydään kysymyksiä läpi
-			console.log('Wrong!');
+			//console.log('Wrong!');
 		}else{
-			console.log('Wrong!');
+			//console.log('Wrong!');
 		}
 	
 		currentQuestionID++;
@@ -572,7 +577,9 @@ function nextQuestion(){
 			document.getElementById('4').style.display = "none"; 
 		}
 		
-		if(!harjoitusMode && currentQuestionID==20){ currentBook = "Kirja2";}
+		if(!harjoitusMode && currentQuestionID==10){ currentBook = "Kirja2";}
+		//Tässä vaihdetaan pääsykoemuodon kirja
+		if(!harjoitusMode && currentQuestionID==20){ currentBook = "Kirja3";}
 		
 		if(currentQuestionID < questionAmount){
 		//Resetoi nappulat ja lisää questionID
@@ -582,7 +589,7 @@ function nextQuestion(){
 		}else{
 			gameover = true;
 			if(harjoitusMode){
-				console.log("Harjoitusmoodi päättynyt");
+				//console.log("Harjoitusmoodi päättynyt");
 				
 				QuestionElementVisibility("none");
 				
@@ -594,7 +601,7 @@ function nextQuestion(){
 			
 			}else{
 				resetButtons();
-				console.log("Pääsykoemoodi päättynyt");
+				//console.log("Pääsykoemoodi päättynyt");
 				QuestionElementVisibility("none");			
 				document.getElementById("Question").innerHTML = "Sait " + correctAmount +"/"+questionAmount+" pistettä."; 
 				
@@ -606,10 +613,10 @@ function nextQuestion(){
 				
 				for(i = 0; i < väärät.length; i++){
 					if(väärät[i] < 20){
-						console.log("Näytetään kysymys id " + questionPool[väärät[i]] + " kirjasta 1, vastasit tähän"+ vastauksetVäärissä[i]);
+						//console.log("Näytetään kysymys id " + questionPool[väärät[i]] + " kirjasta 1, vastasit tähän"+ vastauksetVäärissä[i]);
 					}
 					else if(väärät[i] >= 20 ){
-						console.log("Näytetään kysymys id " + questionPool[väärät[i]] + " kirjasta 2, vastasit tähän"+ vastauksetVäärissä[i]);
+						//console.log("Näytetään kysymys id " + questionPool[väärät[i]] + " kirjasta 2, vastasit tähän"+ vastauksetVäärissä[i]);
 					}
 
 					
@@ -632,11 +639,11 @@ function nextQuestion(){
 		}
 		
 		if(väärät[currReviewID] < 20){
-			console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 1, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
+			//console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 1, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
 			currentBook = "Kirja1";
 		}
 		else if(väärät[currReviewID] >= 20){
-			console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 2, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
+			//console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 2, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
 			currentBook = "Kirja2";
 		}
 
@@ -670,7 +677,7 @@ function prevQuestion(){
 	if(!reviewing){
 		resetButtons();
 		reviewing = true;
-		console.log("reviewing is now " + reviewing);
+		//console.log("reviewing is now " + reviewing);
 		currReviewID = 0;
 		QuestionElementVisibility("inline-block");
 		document.getElementById('5').style.display = "none";
@@ -678,11 +685,11 @@ function prevQuestion(){
 		document.getElementById('5').innerHTML = "Edellinen";
 		
 		if(väärät[currReviewID] < 20){
-			console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 1, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
+			//console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 1, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
 			currentBook = "Kirja1";
 		}
 		else if(väärät[currReviewID] >= 20 ){
-			console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 2, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
+			//console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 2, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
 			currentBook = "Kirja2";
 		}
 
@@ -704,11 +711,11 @@ function prevQuestion(){
 		
 		
 		if(väärät[currReviewID] < 20){
-			console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 1, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
+			//console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 1, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
 			currentBook = "Kirja1";
 		}
 		else if(väärät[currReviewID] >= 20){
-			console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 2, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
+			//console.log("Näytetään kysymys id " + questionPool[väärät[currReviewID]] + " kirjasta 2, vastasit tähän"+ vastauksetVäärissä[currReviewID]);
 			currentBook = "Kirja2";
 		}
 		
@@ -735,7 +742,7 @@ function showReviewQuestion(id, book){
 	var bookLocation = book + ".json";
 	
 	$.getJSON( "scripts/" + bookLocation, function( data ) {
-		console.log("haetaan väärätID " + id);
+		//console.log("haetaan väärätID " + id);
 		if(data[questionPool[väärät[id]]].sivu.length > 0){
 			document.getElementById("Question").innerHTML = data[questionPool[väärät[id]]].Question + " (" + (currReviewID+1) +"/"+ väärät.length +")" + "<u> Oikea vastaus s. " + data[questionPool[väärät[id]]].sivu; + "</u>"; //Aseta kysymys
 		}else{
@@ -748,7 +755,7 @@ function showReviewQuestion(id, book){
 		//Ensin piilotetaan kaikki, sitten näytetään tarpeeksi
 		QuestionElementVisibility("none");
 		for(i = 0; i < data[questionPool[väärät[id]]].Answers.length; i++){
-				console.log(data[questionPool[väärät[id]]].Answers.length + " tämän verran näytetään");
+				//console.log(data[questionPool[väärät[id]]].Answers.length + " tämän verran näytetään");
 				document.getElementById(i).style.display = "inline-block";
 		}
 		

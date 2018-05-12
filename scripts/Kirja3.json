@@ -1,0 +1,98 @@
+[
+	{
+	"ID": 0,
+	"Question": "Matematiikkakysymys 1",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 1,
+	"Question": "Matematiikkakysymys 2",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "17"
+	},
+	
+	{
+	"ID": 2,
+	"Question": "Matematiikkakysymys 3",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "17-18"
+	},
+	
+	{
+	"ID": 3,
+	"Question": "Matematiikkakysymys 4",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 4,
+	"Question": "Matematiikkakysymys 5",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "17"
+	},
+	
+	{
+	"ID": 5,
+	"Question": "Matematiikkakysymys 6",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "17-18"
+	},
+	
+	{
+	"ID": 6,
+	"Question": "Matematiikkakysymys 7",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "13"
+	},
+	
+	{
+	"ID": 7,
+	"Question": "Matematiikkakysymys 8",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 0,
+	"sivu": "17"
+	},
+	
+	{
+	"ID": 8,
+	"Question": "Matematiikkakysymys 9",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "17-18"
+	},
+	
+	{
+	"ID": 9,
+	"Question": "Matematiikkakysymys 10",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "17-18"
+	},
+	
+	{
+	"ID": 10,
+	"Question": "Matematiikkakysymys 11",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "17-18"
+	},
+	
+	{
+	"ID": 11,
+	"Question": "Matematiikkakysymys 12",
+	"Answers": ["Oikein", "Väärin"],
+	"CorrAns": 1,
+	"sivu": "17-18"
+	}
+	
+]

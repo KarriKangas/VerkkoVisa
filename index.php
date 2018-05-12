@@ -2,11 +2,11 @@
 <html>
 <head>
 	<?php 
-	require_once("/home/vamoodlef/domains/vamoodle.fi/public_html/config.php");
-	require_login();
+	//require_once("/home/vamoodlef/domains/vamoodle.fi/public_html/config.php");
+	//require_login();
 	
-	header('Cache-Control: no-cache');
-	header('Pragma: no-cache');
+	//header('Cache-Control: no-cache');
+	//header('Pragma: no-cache');
 	?>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
 	
@@ -33,6 +33,7 @@
 	<div class="QuestionBar" id="startQ">	
 		<button class="button" id="Kirja1" onClick="showQuestionElements('Kirja1')"onmouseover="lightButton('Kirja1')" onmouseleave="uncolorButton('Kirja1')"><p class="buttonText">Historia</p></button>
 		<button class="button" id="Kirja2" onClick="showQuestionElements('Kirja2')"onmouseover="lightButton('Kirja2')" onmouseleave="uncolorButton('Kirja2')"><p class="buttonText">Yhteiskuntaoppi</p></button>
+		<button class="button" id="Kirja3" onClick="showQuestionElements('Kirja3')"onmouseover="lightButton('Kirja3')" onmouseleave="uncolorButton('Kirja3')"><p class="buttonText">Matematiikka</p></button>
 		
 		<button class="button" id="harjTermit" onClick="showTermiSelection(true)"onmouseover="lightButton('harjTermit')" onmouseleave="uncolorButton('harjTermit')"><p class="buttonText">Näytä käsitteen määritelmä ensin</p></button>
 		<button class="button" id="harjMääritelmät" onClick="showTermiSelection(false)"onmouseover="lightButton('harjMääritelmät')" onmouseleave="uncolorButton('harjMääritelmät')"><p class="buttonText">Näytä käsite ensin</p></button>
@@ -50,7 +51,7 @@
 					
 					Harjoitusmuodossa valitset ensin kuinka moneen kysymykseen haluat vastata kerralla. Tämän jälkeen valitset aihealueen. Vastattuasi kysymykseen näet heti, oliko vastauksesi oikein. Saat myös tiedon, miltä kirjan sivulta oikea vastaus löytyy.<br><br>
 
-					Pääsykoemuodossa kysymyksiä tulee yhteiskuntaopista ja historiasta molemmista 20 kpl. Näet oikeat vastaukset kun olet vastannut kaikkiin kysymyksiin. Kysymysten määrä saattaa kuitenkin erota oikeasta pääsykokeesta ja et myöskään menetä pisteitä väärästä vastauksesta. Tarkoitus on harjoitella vastaamaan mahdollisimman moneen kysymykseen oikein.<br><br>
+					Pääsykoemuodossa kysymyksiä tulee jokaisesta aihealueesta 10, eli yhteensä 30. Näet oikeat vastaukset kun olet vastannut kaikkiin kysymyksiin. Kysymysten määrä saattaa kuitenkin erota oikeasta pääsykokeesta ja et myöskään menetä pisteitä väärästä vastauksesta. Tarkoitus on harjoitella vastaamaan mahdollisimman moneen kysymykseen oikein.<br><br>
 
 					Käsitteiden harjoittelussa valitset, haluatko ensin käsitteen vai määritelmän. Tämän jälkeen valitset aihealueen, jota haluat harjoitella. Harjoitusmuoto näyttää ensin käsitteen tai määritelmän, jonka jälkeen voit miettiä mitä ne tarkoittavat. Näet heti oikean vastauksen.</h3>
 		<button class="button" id="KysMäärä10" onClick="showBookSelection('10')"onmouseover="lightButton('KysMäärä10')" onmouseleave="uncolorButton('KysMäärä10')"><p class="buttonText">10 kysymystä</p></button>
